@@ -3048,7 +3048,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + caminar (presente)",
+    "question": "caminar/yo (presente)",
     "answer": "camino",
     "sourceDoc": "rebecca-1"
   },
@@ -3057,7 +3057,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + caminar (presente)",
+    "question": "caminar/tu (presente)",
     "answer": "caminas",
     "sourceDoc": "rebecca-1"
   },
@@ -3066,7 +3066,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + caminar (presente)",
+    "question": "caminar/el/ella/Ud. (presente)",
     "answer": "camina",
     "sourceDoc": "rebecca-1"
   },
@@ -3075,7 +3075,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + caminar (presente)",
+    "question": "caminar/nosotros/as (presente)",
     "answer": "caminamos",
     "sourceDoc": "rebecca-1"
   },
@@ -3084,7 +3084,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + caminar (presente)",
+    "question": "caminar/vosotros/as (presente)",
     "answer": "camináis",
     "sourceDoc": "rebecca-1"
   },
@@ -3093,7 +3093,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + caminar (presente)",
+    "question": "caminar/ellos/ellas/Uds. (presente)",
     "answer": "caminan",
     "sourceDoc": "rebecca-1"
   },
@@ -3102,7 +3102,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + hablar (presente)",
+    "question": "hablar/yo (presente)",
     "answer": "hablo",
     "sourceDoc": "rebecca-1"
   },
@@ -3111,7 +3111,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + hablar (presente)",
+    "question": "hablar/tu (presente)",
     "answer": "hablas",
     "sourceDoc": "rebecca-1"
   },
@@ -3120,7 +3120,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + hablar (presente)",
+    "question": "hablar/el/ella/Ud. (presente)",
     "answer": "habla",
     "sourceDoc": "rebecca-1"
   },
@@ -3129,7 +3129,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + hablar (presente)",
+    "question": "hablar/nosotros/as (presente)",
     "answer": "hablamos",
     "sourceDoc": "rebecca-1"
   },
@@ -3138,7 +3138,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + hablar (presente)",
+    "question": "hablar/vosotros/as (presente)",
     "answer": "habláis",
     "sourceDoc": "rebecca-1"
   },
@@ -3147,7 +3147,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + hablar (presente)",
+    "question": "hablar/ellos/ellas/Uds. (presente)",
     "answer": "hablan",
     "sourceDoc": "rebecca-1"
   },
@@ -3156,7 +3156,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + mirar (presente)",
+    "question": "mirar/yo (presente)",
     "answer": "miro",
     "sourceDoc": "rebecca-1"
   },
@@ -3165,7 +3165,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + mirar (presente)",
+    "question": "mirar/tu (presente)",
     "answer": "miras",
     "sourceDoc": "rebecca-1"
   },
@@ -3174,7 +3174,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + mirar (presente)",
+    "question": "mirar/el/ella/Ud. (presente)",
     "answer": "mira",
     "sourceDoc": "rebecca-1"
   },
@@ -3183,7 +3183,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + mirar (presente)",
+    "question": "mirar/nosotros/as (presente)",
     "answer": "miramos",
     "sourceDoc": "rebecca-1"
   },
@@ -3192,7 +3192,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + mirar (presente)",
+    "question": "mirar/vosotros/as (presente)",
     "answer": "miráis",
     "sourceDoc": "rebecca-1"
   },
@@ -3201,7 +3201,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + mirar (presente)",
+    "question": "mirar/ellos/ellas/Uds. (presente)",
     "answer": "miran",
     "sourceDoc": "rebecca-1"
   },
@@ -3210,7 +3210,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + estudiar (presente)",
+    "question": "estudiar/yo (presente)",
     "answer": "estudio",
     "sourceDoc": "rebecca-1"
   },
@@ -3219,7 +3219,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + estudiar (presente)",
+    "question": "estudiar/tu (presente)",
     "answer": "estudias",
     "sourceDoc": "rebecca-1"
   },
@@ -3228,7 +3228,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + estudiar (presente)",
+    "question": "estudiar/el/ella/Ud. (presente)",
     "answer": "estudia",
     "sourceDoc": "rebecca-1"
   },
@@ -3237,7 +3237,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + estudiar (presente)",
+    "question": "estudiar/nosotros/as (presente)",
     "answer": "estudiamos",
     "sourceDoc": "rebecca-1"
   },
@@ -3246,7 +3246,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + estudiar (presente)",
+    "question": "estudiar/vosotros/as (presente)",
     "answer": "estudiáis",
     "sourceDoc": "rebecca-1"
   },
@@ -3255,7 +3255,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + estudiar (presente)",
+    "question": "estudiar/ellos/ellas/Uds. (presente)",
     "answer": "estudian",
     "sourceDoc": "rebecca-1"
   },
@@ -3264,7 +3264,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + leer (presente)",
+    "question": "leer/yo (presente)",
     "answer": "leo",
     "sourceDoc": "rebecca-1"
   },
@@ -3273,7 +3273,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + leer (presente)",
+    "question": "leer/tu (presente)",
     "answer": "lees",
     "sourceDoc": "rebecca-1"
   },
@@ -3282,7 +3282,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + leer (presente)",
+    "question": "leer/el/ella/Ud. (presente)",
     "answer": "lee",
     "sourceDoc": "rebecca-1"
   },
@@ -3291,7 +3291,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + leer (presente)",
+    "question": "leer/nosotros/as (presente)",
     "answer": "leemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3300,7 +3300,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + leer (presente)",
+    "question": "leer/vosotros/as (presente)",
     "answer": "leéis",
     "sourceDoc": "rebecca-1"
   },
@@ -3309,7 +3309,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + leer (presente)",
+    "question": "leer/ellos/ellas/Uds. (presente)",
     "answer": "leen",
     "sourceDoc": "rebecca-1"
   },
@@ -3318,7 +3318,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + beber (presente)",
+    "question": "beber/yo (presente)",
     "answer": "bebo",
     "sourceDoc": "rebecca-1"
   },
@@ -3327,7 +3327,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + beber (presente)",
+    "question": "beber/tu (presente)",
     "answer": "bebes",
     "sourceDoc": "rebecca-1"
   },
@@ -3336,7 +3336,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + beber (presente)",
+    "question": "beber/el/ella/Ud. (presente)",
     "answer": "bebe",
     "sourceDoc": "rebecca-1"
   },
@@ -3345,7 +3345,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + beber (presente)",
+    "question": "beber/nosotros/as (presente)",
     "answer": "bebemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3354,7 +3354,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + beber (presente)",
+    "question": "beber/vosotros/as (presente)",
     "answer": "bebéis",
     "sourceDoc": "rebecca-1"
   },
@@ -3363,7 +3363,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + beber (presente)",
+    "question": "beber/ellos/ellas/Uds. (presente)",
     "answer": "beben",
     "sourceDoc": "rebecca-1"
   },
@@ -3372,7 +3372,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + correr (presente)",
+    "question": "correr/yo (presente)",
     "answer": "corro",
     "sourceDoc": "rebecca-1"
   },
@@ -3381,7 +3381,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + correr (presente)",
+    "question": "correr/tu (presente)",
     "answer": "corres",
     "sourceDoc": "rebecca-1"
   },
@@ -3390,7 +3390,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + correr (presente)",
+    "question": "correr/el/ella/Ud. (presente)",
     "answer": "corre",
     "sourceDoc": "rebecca-1"
   },
@@ -3399,7 +3399,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + correr (presente)",
+    "question": "correr/nosotros/as (presente)",
     "answer": "corremos",
     "sourceDoc": "rebecca-1"
   },
@@ -3408,7 +3408,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + correr (presente)",
+    "question": "correr/vosotros/as (presente)",
     "answer": "corréis",
     "sourceDoc": "rebecca-1"
   },
@@ -3417,7 +3417,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + correr (presente)",
+    "question": "correr/ellos/ellas/Uds. (presente)",
     "answer": "corren",
     "sourceDoc": "rebecca-1"
   },
@@ -3426,7 +3426,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + comer (presente)",
+    "question": "comer/yo (presente)",
     "answer": "como",
     "sourceDoc": "rebecca-1"
   },
@@ -3435,7 +3435,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + comer (presente)",
+    "question": "comer/tu (presente)",
     "answer": "comes",
     "sourceDoc": "rebecca-1"
   },
@@ -3444,7 +3444,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + comer (presente)",
+    "question": "comer/el/ella/Ud. (presente)",
     "answer": "come",
     "sourceDoc": "rebecca-1"
   },
@@ -3453,7 +3453,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + comer (presente)",
+    "question": "comer/nosotros/as (presente)",
     "answer": "comemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3462,7 +3462,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + comer (presente)",
+    "question": "comer/vosotros/as (presente)",
     "answer": "coméis",
     "sourceDoc": "rebecca-1"
   },
@@ -3471,7 +3471,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + comer (presente)",
+    "question": "comer/ellos/ellas/Uds. (presente)",
     "answer": "comen",
     "sourceDoc": "rebecca-1"
   },
@@ -3480,7 +3480,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + vender (presente)",
+    "question": "vender/yo (presente)",
     "answer": "vendo",
     "sourceDoc": "rebecca-1"
   },
@@ -3489,7 +3489,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + vender (presente)",
+    "question": "vender/tu (presente)",
     "answer": "vendes",
     "sourceDoc": "rebecca-1"
   },
@@ -3498,7 +3498,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + vender (presente)",
+    "question": "vender/el/ella/Ud. (presente)",
     "answer": "vende",
     "sourceDoc": "rebecca-1"
   },
@@ -3507,7 +3507,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + vender (presente)",
+    "question": "vender/nosotros/as (presente)",
     "answer": "vendemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3516,7 +3516,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + vender (presente)",
+    "question": "vender/ellos/ellas/Uds. (presente)",
     "answer": "venden",
     "sourceDoc": "rebecca-1"
   },
@@ -3525,7 +3525,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + responder (presente)",
+    "question": "responder/yo (presente)",
     "answer": "respondo",
     "sourceDoc": "rebecca-1"
   },
@@ -3534,7 +3534,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + responder (presente)",
+    "question": "responder/tu (presente)",
     "answer": "respondes",
     "sourceDoc": "rebecca-1"
   },
@@ -3543,7 +3543,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + responder (presente)",
+    "question": "responder/el/ella/Ud. (presente)",
     "answer": "responde",
     "sourceDoc": "rebecca-1"
   },
@@ -3552,7 +3552,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + responder (presente)",
+    "question": "responder/nosotros/as (presente)",
     "answer": "respondemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3561,7 +3561,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + responder (presente)",
+    "question": "responder/ellos/ellas/Uds. (presente)",
     "answer": "responden",
     "sourceDoc": "rebecca-1"
   },
@@ -3570,7 +3570,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + aprender (presente)",
+    "question": "aprender/yo (presente)",
     "answer": "aprendo",
     "sourceDoc": "rebecca-1"
   },
@@ -3579,7 +3579,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + aprender (presente)",
+    "question": "aprender/tu (presente)",
     "answer": "aprendes",
     "sourceDoc": "rebecca-1"
   },
@@ -3588,7 +3588,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + aprender (presente)",
+    "question": "aprender/el/ella/Ud. (presente)",
     "answer": "aprende",
     "sourceDoc": "rebecca-1"
   },
@@ -3597,7 +3597,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + aprender (presente)",
+    "question": "aprender/nosotros/as (presente)",
     "answer": "aprendemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3606,7 +3606,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + aprender (presente)",
+    "question": "aprender/ellos/ellas/Uds. (presente)",
     "answer": "aprenden",
     "sourceDoc": "rebecca-1"
   },
@@ -3615,7 +3615,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + comprender (presente)",
+    "question": "comprender/yo (presente)",
     "answer": "comprendo",
     "sourceDoc": "rebecca-1"
   },
@@ -3624,7 +3624,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + comprender (presente)",
+    "question": "comprender/tu (presente)",
     "answer": "comprendes",
     "sourceDoc": "rebecca-1"
   },
@@ -3633,7 +3633,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + comprender (presente)",
+    "question": "comprender/el/ella/Ud. (presente)",
     "answer": "comprende",
     "sourceDoc": "rebecca-1"
   },
@@ -3642,7 +3642,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + comprender (presente)",
+    "question": "comprender/nosotros/as (presente)",
     "answer": "comprendemos",
     "sourceDoc": "rebecca-1"
   },
@@ -3651,7 +3651,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + comprender (presente)",
+    "question": "comprender/ellos/ellas/Uds. (presente)",
     "answer": "comprenden",
     "sourceDoc": "rebecca-1"
   },
@@ -3660,7 +3660,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + vivir (presente)",
+    "question": "vivir/yo (presente)",
     "answer": "vivo",
     "sourceDoc": "rebecca-1"
   },
@@ -3669,7 +3669,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + vivir (presente)",
+    "question": "vivir/tu (presente)",
     "answer": "vives",
     "sourceDoc": "rebecca-1"
   },
@@ -3678,7 +3678,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + vivir (presente)",
+    "question": "vivir/el/ella/Ud. (presente)",
     "answer": "vive",
     "sourceDoc": "rebecca-1"
   },
@@ -3687,7 +3687,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + vivir (presente)",
+    "question": "vivir/nosotros/as (presente)",
     "answer": "vivimos",
     "sourceDoc": "rebecca-1"
   },
@@ -3696,7 +3696,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + vivir (presente)",
+    "question": "vivir/vosotros/as (presente)",
     "answer": "vivís",
     "sourceDoc": "rebecca-1"
   },
@@ -3705,7 +3705,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + vivir (presente)",
+    "question": "vivir/ellos/ellas/Uds. (presente)",
     "answer": "viven",
     "sourceDoc": "rebecca-1"
   },
@@ -3714,7 +3714,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + escribir (presente)",
+    "question": "escribir/yo (presente)",
     "answer": "escribo",
     "sourceDoc": "rebecca-1"
   },
@@ -3723,7 +3723,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + escribir (presente)",
+    "question": "escribir/tu (presente)",
     "answer": "escribes",
     "sourceDoc": "rebecca-1"
   },
@@ -3732,7 +3732,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + escribir (presente)",
+    "question": "escribir/el/ella/Ud. (presente)",
     "answer": "escribe",
     "sourceDoc": "rebecca-1"
   },
@@ -3741,7 +3741,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + escribir (presente)",
+    "question": "escribir/nosotros/as (presente)",
     "answer": "escribimos",
     "sourceDoc": "rebecca-1"
   },
@@ -3750,7 +3750,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"vosotros/as\" + escribir (presente)",
+    "question": "escribir/vosotros/as (presente)",
     "answer": "escribís",
     "sourceDoc": "rebecca-1"
   },
@@ -3759,7 +3759,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + escribir (presente)",
+    "question": "escribir/ellos/ellas/Uds. (presente)",
     "answer": "escriben",
     "sourceDoc": "rebecca-1"
   },
@@ -3768,7 +3768,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + subir (presente)",
+    "question": "subir/yo (presente)",
     "answer": "subo",
     "sourceDoc": "rebecca-1"
   },
@@ -3777,7 +3777,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + subir (presente)",
+    "question": "subir/tu (presente)",
     "answer": "subes",
     "sourceDoc": "rebecca-1"
   },
@@ -3786,7 +3786,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + subir (presente)",
+    "question": "subir/el/ella/Ud. (presente)",
     "answer": "sube",
     "sourceDoc": "rebecca-1"
   },
@@ -3795,7 +3795,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + subir (presente)",
+    "question": "subir/nosotros/as (presente)",
     "answer": "subimos",
     "sourceDoc": "rebecca-1"
   },
@@ -3804,7 +3804,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + subir (presente)",
+    "question": "subir/ellos/ellas/Uds. (presente)",
     "answer": "suben",
     "sourceDoc": "rebecca-1"
   },
@@ -3813,7 +3813,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + abrir (presente)",
+    "question": "abrir/yo (presente)",
     "answer": "abro",
     "sourceDoc": "rebecca-1"
   },
@@ -3822,7 +3822,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tu\" + abrir (presente)",
+    "question": "abrir/tu (presente)",
     "answer": "abres",
     "sourceDoc": "rebecca-1"
   },
@@ -3831,7 +3831,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el/ella/Ud.\" + abrir (presente)",
+    "question": "abrir/el/ella/Ud. (presente)",
     "answer": "abre",
     "sourceDoc": "rebecca-1"
   },
@@ -3840,7 +3840,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros/as\" + abrir (presente)",
+    "question": "abrir/nosotros/as (presente)",
     "answer": "abrimos",
     "sourceDoc": "rebecca-1"
   },
@@ -3849,7 +3849,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos/ellas/Uds.\" + abrir (presente)",
+    "question": "abrir/ellos/ellas/Uds. (presente)",
     "answer": "abren",
     "sourceDoc": "rebecca-1"
   },
@@ -3859,7 +3859,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + estar (presente)",
+    "question": "estar/yo (presente)",
     "answer": "estoy",
     "sourceDoc": "rebecca-1"
   },
@@ -3869,7 +3869,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + estar (presente)",
+    "question": "estar/tu (presente)",
     "answer": "estás",
     "sourceDoc": "rebecca-1"
   },
@@ -3879,7 +3879,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + estar (presente)",
+    "question": "estar/el/ella/Ud. (presente)",
     "answer": "está",
     "sourceDoc": "rebecca-1"
   },
@@ -3889,7 +3889,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + estar (presente)",
+    "question": "estar/nosotros/as (presente)",
     "answer": "estamos",
     "sourceDoc": "rebecca-1"
   },
@@ -3899,7 +3899,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + estar (presente)",
+    "question": "estar/ellos/ellas/Uds. (presente)",
     "answer": "están",
     "sourceDoc": "rebecca-1"
   },
@@ -3909,7 +3909,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"vosotros/as\" + estar (presente)",
+    "question": "estar/vosotros/as (presente)",
     "answer": "estáis",
     "sourceDoc": "rebecca-1"
   },
@@ -3919,7 +3919,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + dar (presente)",
+    "question": "dar/yo (presente)",
     "answer": "doy",
     "sourceDoc": "rebecca-1"
   },
@@ -3929,7 +3929,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + dar (presente)",
+    "question": "dar/tu (presente)",
     "answer": "das",
     "sourceDoc": "rebecca-1"
   },
@@ -3939,7 +3939,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + dar (presente)",
+    "question": "dar/el/ella/Ud. (presente)",
     "answer": "da",
     "sourceDoc": "rebecca-1"
   },
@@ -3949,7 +3949,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + dar (presente)",
+    "question": "dar/nosotros/as (presente)",
     "answer": "damos",
     "sourceDoc": "rebecca-1"
   },
@@ -3959,7 +3959,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + dar (presente)",
+    "question": "dar/ellos/ellas/Uds. (presente)",
     "answer": "dan",
     "sourceDoc": "rebecca-1"
   },
@@ -3969,7 +3969,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + ser (presente)",
+    "question": "ser/yo (presente)",
     "answer": "soy",
     "sourceDoc": "rebecca-1"
   },
@@ -3979,7 +3979,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + ser (presente)",
+    "question": "ser/tu (presente)",
     "answer": "eres",
     "sourceDoc": "rebecca-1"
   },
@@ -3989,7 +3989,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + ser (presente)",
+    "question": "ser/el/ella/Ud. (presente)",
     "answer": "es",
     "sourceDoc": "rebecca-1"
   },
@@ -3999,7 +3999,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + ser (presente)",
+    "question": "ser/nosotros/as (presente)",
     "answer": "somos",
     "sourceDoc": "rebecca-1"
   },
@@ -4009,7 +4009,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + ser (presente)",
+    "question": "ser/ellos/ellas/Uds. (presente)",
     "answer": "son",
     "sourceDoc": "rebecca-1"
   },
@@ -4019,7 +4019,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + ir (presente)",
+    "question": "ir/yo (presente)",
     "answer": "voy",
     "sourceDoc": "rebecca-1"
   },
@@ -4029,7 +4029,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + ir (presente)",
+    "question": "ir/tu (presente)",
     "answer": "vas",
     "sourceDoc": "rebecca-1"
   },
@@ -4039,7 +4039,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + ir (presente)",
+    "question": "ir/el/ella/Ud. (presente)",
     "answer": "va",
     "sourceDoc": "rebecca-1"
   },
@@ -4049,7 +4049,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + ir (presente)",
+    "question": "ir/nosotros/as (presente)",
     "answer": "vamos",
     "sourceDoc": "rebecca-1"
   },
@@ -4059,7 +4059,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + ir (presente)",
+    "question": "ir/ellos/ellas/Uds. (presente)",
     "answer": "van",
     "sourceDoc": "rebecca-1"
   },
@@ -4069,7 +4069,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + hacer (presente)",
+    "question": "hacer/yo (presente)",
     "answer": "hago",
     "sourceDoc": "rebecca-1"
   },
@@ -4079,7 +4079,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + hacer (presente)",
+    "question": "hacer/tu (presente)",
     "answer": "haces",
     "sourceDoc": "rebecca-1"
   },
@@ -4089,7 +4089,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + hacer (presente)",
+    "question": "hacer/el/ella/Ud. (presente)",
     "answer": "hace",
     "sourceDoc": "rebecca-1"
   },
@@ -4099,7 +4099,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + hacer (presente)",
+    "question": "hacer/nosotros/as (presente)",
     "answer": "hacemos",
     "sourceDoc": "rebecca-1"
   },
@@ -4109,7 +4109,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + hacer (presente)",
+    "question": "hacer/ellos/ellas/Uds. (presente)",
     "answer": "hacen",
     "sourceDoc": "rebecca-1"
   },
@@ -4119,7 +4119,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + poner (presente)",
+    "question": "poner/yo (presente)",
     "answer": "pongo",
     "sourceDoc": "rebecca-1"
   },
@@ -4129,7 +4129,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + poner (presente)",
+    "question": "poner/tu (presente)",
     "answer": "pones",
     "sourceDoc": "rebecca-1"
   },
@@ -4139,7 +4139,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + poner (presente)",
+    "question": "poner/el/ella/Ud. (presente)",
     "answer": "pone",
     "sourceDoc": "rebecca-1"
   },
@@ -4149,7 +4149,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + poner (presente)",
+    "question": "poner/nosotros/as (presente)",
     "answer": "ponemos",
     "sourceDoc": "rebecca-1"
   },
@@ -4159,7 +4159,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + poner (presente)",
+    "question": "poner/ellos/ellas/Uds. (presente)",
     "answer": "ponen",
     "sourceDoc": "rebecca-1"
   },
@@ -4169,7 +4169,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + valer (presente)",
+    "question": "valer/yo (presente)",
     "answer": "valgo",
     "sourceDoc": "rebecca-1"
   },
@@ -4179,7 +4179,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + valer (presente)",
+    "question": "valer/tu (presente)",
     "answer": "vales",
     "sourceDoc": "rebecca-1"
   },
@@ -4189,7 +4189,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + valer (presente)",
+    "question": "valer/el/ella/Ud. (presente)",
     "answer": "vale",
     "sourceDoc": "rebecca-1"
   },
@@ -4199,7 +4199,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + valer (presente)",
+    "question": "valer/nosotros/as (presente)",
     "answer": "valemos",
     "sourceDoc": "rebecca-1"
   },
@@ -4209,7 +4209,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + valer (presente)",
+    "question": "valer/ellos/ellas/Uds. (presente)",
     "answer": "valen",
     "sourceDoc": "rebecca-1"
   },
@@ -4219,7 +4219,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + caer (presente)",
+    "question": "caer/yo (presente)",
     "answer": "caigo",
     "sourceDoc": "rebecca-1"
   },
@@ -4229,7 +4229,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + caer (presente)",
+    "question": "caer/tu (presente)",
     "answer": "caes",
     "sourceDoc": "rebecca-1"
   },
@@ -4239,7 +4239,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + caer (presente)",
+    "question": "caer/el/ella/Ud. (presente)",
     "answer": "cae",
     "sourceDoc": "rebecca-1"
   },
@@ -4249,7 +4249,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + caer (presente)",
+    "question": "caer/nosotros/as (presente)",
     "answer": "caemos",
     "sourceDoc": "rebecca-1"
   },
@@ -4259,7 +4259,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + caer (presente)",
+    "question": "caer/ellos/ellas/Uds. (presente)",
     "answer": "caen",
     "sourceDoc": "rebecca-1"
   },
@@ -4269,7 +4269,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + traer (presente)",
+    "question": "traer/yo (presente)",
     "answer": "traigo",
     "sourceDoc": "rebecca-1"
   },
@@ -4279,7 +4279,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + traer (presente)",
+    "question": "traer/tu (presente)",
     "answer": "traes",
     "sourceDoc": "rebecca-1"
   },
@@ -4289,7 +4289,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + traer (presente)",
+    "question": "traer/el/ella/Ud. (presente)",
     "answer": "trae",
     "sourceDoc": "rebecca-1"
   },
@@ -4299,7 +4299,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + traer (presente)",
+    "question": "traer/nosotros/as (presente)",
     "answer": "traemos",
     "sourceDoc": "rebecca-1"
   },
@@ -4309,7 +4309,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + traer (presente)",
+    "question": "traer/ellos/ellas/Uds. (presente)",
     "answer": "traen",
     "sourceDoc": "rebecca-1"
   },
@@ -4319,7 +4319,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + salir (presente)",
+    "question": "salir/yo (presente)",
     "answer": "salgo",
     "sourceDoc": "rebecca-1"
   },
@@ -4329,7 +4329,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + salir (presente)",
+    "question": "salir/tu (presente)",
     "answer": "sales",
     "sourceDoc": "rebecca-1"
   },
@@ -4339,7 +4339,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + salir (presente)",
+    "question": "salir/el/ella/Ud. (presente)",
     "answer": "sale",
     "sourceDoc": "rebecca-1"
   },
@@ -4349,7 +4349,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + salir (presente)",
+    "question": "salir/nosotros/as (presente)",
     "answer": "salimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4359,7 +4359,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + salir (presente)",
+    "question": "salir/ellos/ellas/Uds. (presente)",
     "answer": "salen",
     "sourceDoc": "rebecca-1"
   },
@@ -4369,7 +4369,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + tener (presente)",
+    "question": "tener/yo (presente)",
     "answer": "tengo",
     "sourceDoc": "rebecca-1"
   },
@@ -4379,7 +4379,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tu\" + tener (presente)",
+    "question": "tener/tu (presente)",
     "answer": "tienes",
     "sourceDoc": "rebecca-1"
   },
@@ -4389,7 +4389,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + tener (presente)",
+    "question": "tener/el/ella/Ud. (presente)",
     "answer": "tiene",
     "sourceDoc": "rebecca-1"
   },
@@ -4399,7 +4399,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + tener (presente)",
+    "question": "tener/nosotros/as (presente)",
     "answer": "tenemos",
     "sourceDoc": "rebecca-1"
   },
@@ -4409,7 +4409,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"vosotros/as\" + tener (presente)",
+    "question": "tener/vosotros/as (presente)",
     "answer": "tenéis",
     "sourceDoc": "rebecca-1"
   },
@@ -4419,7 +4419,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + tener (presente)",
+    "question": "tener/ellos/ellas/Uds. (presente)",
     "answer": "tienen",
     "sourceDoc": "rebecca-1"
   },
@@ -4428,7 +4428,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"yo\" + hablar (pretérito)",
+    "question": "hablar/yo (pretérito)",
     "answer": "hablé",
     "sourceDoc": "rebecca-1"
   },
@@ -4437,7 +4437,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tu\" + hablar (pretérito)",
+    "question": "hablar/tu (pretérito)",
     "answer": "hablaste",
     "sourceDoc": "rebecca-1"
   },
@@ -4446,7 +4446,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"el/ella/Ud.\" + hablar (pretérito)",
+    "question": "hablar/el/ella/Ud. (pretérito)",
     "answer": "habló",
     "sourceDoc": "rebecca-1"
   },
@@ -4455,7 +4455,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"nosotros/as\" + hablar (pretérito)",
+    "question": "hablar/nosotros/as (pretérito)",
     "answer": "hablamos",
     "sourceDoc": "rebecca-1"
   },
@@ -4464,7 +4464,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"ellos/ellas/Uds.\" + hablar (pretérito)",
+    "question": "hablar/ellos/ellas/Uds. (pretérito)",
     "answer": "hablaron",
     "sourceDoc": "rebecca-1"
   },
@@ -4473,7 +4473,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"yo\" + beber (pretérito)",
+    "question": "beber/yo (pretérito)",
     "answer": "bebí",
     "sourceDoc": "rebecca-1"
   },
@@ -4482,7 +4482,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tu\" + beber (pretérito)",
+    "question": "beber/tu (pretérito)",
     "answer": "bebiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4491,7 +4491,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"el/ella/Ud.\" + beber (pretérito)",
+    "question": "beber/el/ella/Ud. (pretérito)",
     "answer": "bebió",
     "sourceDoc": "rebecca-1"
   },
@@ -4500,7 +4500,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"nosotros/as\" + beber (pretérito)",
+    "question": "beber/nosotros/as (pretérito)",
     "answer": "bebimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4509,7 +4509,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"ellos/ellas/Uds.\" + beber (pretérito)",
+    "question": "beber/ellos/ellas/Uds. (pretérito)",
     "answer": "bebieron",
     "sourceDoc": "rebecca-1"
   },
@@ -4518,7 +4518,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"yo\" + escribir (pretérito)",
+    "question": "escribir/yo (pretérito)",
     "answer": "escribí",
     "sourceDoc": "rebecca-1"
   },
@@ -4527,7 +4527,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tu\" + escribir (pretérito)",
+    "question": "escribir/tu (pretérito)",
     "answer": "escribiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4536,7 +4536,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"el/ella/Ud.\" + escribir (pretérito)",
+    "question": "escribir/el/ella/Ud. (pretérito)",
     "answer": "escribió",
     "sourceDoc": "rebecca-1"
   },
@@ -4545,7 +4545,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"nosotros/as\" + escribir (pretérito)",
+    "question": "escribir/nosotros/as (pretérito)",
     "answer": "escribimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4554,7 +4554,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"ellos/ellas/Uds.\" + escribir (pretérito)",
+    "question": "escribir/ellos/ellas/Uds. (pretérito)",
     "answer": "escribieron",
     "sourceDoc": "rebecca-1"
   },
@@ -4564,7 +4564,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + dar (pretérito)",
+    "question": "dar/yo (pretérito)",
     "answer": "di",
     "sourceDoc": "rebecca-1"
   },
@@ -4574,7 +4574,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + dar (pretérito)",
+    "question": "dar/tu (pretérito)",
     "answer": "diste",
     "sourceDoc": "rebecca-1"
   },
@@ -4584,7 +4584,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + dar (pretérito)",
+    "question": "dar/el/ella/Ud. (pretérito)",
     "answer": "dio",
     "sourceDoc": "rebecca-1"
   },
@@ -4594,7 +4594,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + dar (pretérito)",
+    "question": "dar/nosotros/as (pretérito)",
     "answer": "dimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4604,7 +4604,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + dar (pretérito)",
+    "question": "dar/ellos/ellas/Uds. (pretérito)",
     "answer": "dieron",
     "sourceDoc": "rebecca-1"
   },
@@ -4614,7 +4614,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + ser (pretérito)",
+    "question": "ser/yo (pretérito)",
     "answer": "fui",
     "sourceDoc": "rebecca-1"
   },
@@ -4624,7 +4624,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + ser (pretérito)",
+    "question": "ser/tu (pretérito)",
     "answer": "fuiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4634,7 +4634,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + ser (pretérito)",
+    "question": "ser/el/ella/Ud. (pretérito)",
     "answer": "fue",
     "sourceDoc": "rebecca-1"
   },
@@ -4644,7 +4644,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + ser (pretérito)",
+    "question": "ser/nosotros/as (pretérito)",
     "answer": "fuimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4654,7 +4654,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + ser (pretérito)",
+    "question": "ser/ellos/ellas/Uds. (pretérito)",
     "answer": "fueron",
     "sourceDoc": "rebecca-1"
   },
@@ -4664,7 +4664,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + ir (pretérito)",
+    "question": "ir/yo (pretérito)",
     "answer": "fui",
     "sourceDoc": "rebecca-1"
   },
@@ -4674,7 +4674,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + ir (pretérito)",
+    "question": "ir/tu (pretérito)",
     "answer": "fuiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4684,7 +4684,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + ir (pretérito)",
+    "question": "ir/el/ella/Ud. (pretérito)",
     "answer": "fue",
     "sourceDoc": "rebecca-1"
   },
@@ -4694,7 +4694,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + ir (pretérito)",
+    "question": "ir/nosotros/as (pretérito)",
     "answer": "fuimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4704,7 +4704,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + ir (pretérito)",
+    "question": "ir/ellos/ellas/Uds. (pretérito)",
     "answer": "fueron",
     "sourceDoc": "rebecca-1"
   },
@@ -4714,7 +4714,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + ver (pretérito)",
+    "question": "ver/yo (pretérito)",
     "answer": "vi",
     "sourceDoc": "rebecca-1"
   },
@@ -4724,7 +4724,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + ver (pretérito)",
+    "question": "ver/tu (pretérito)",
     "answer": "viste",
     "sourceDoc": "rebecca-1"
   },
@@ -4734,7 +4734,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + ver (pretérito)",
+    "question": "ver/el/ella/Ud. (pretérito)",
     "answer": "vio",
     "sourceDoc": "rebecca-1"
   },
@@ -4744,7 +4744,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + ver (pretérito)",
+    "question": "ver/nosotros/as (pretérito)",
     "answer": "vimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4754,7 +4754,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + ver (pretérito)",
+    "question": "ver/ellos/ellas/Uds. (pretérito)",
     "answer": "vieron",
     "sourceDoc": "rebecca-1"
   },
@@ -4764,7 +4764,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + decir (pretérito)",
+    "question": "decir/yo (pretérito)",
     "answer": "dije",
     "sourceDoc": "rebecca-1"
   },
@@ -4774,7 +4774,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + decir (pretérito)",
+    "question": "decir/tu (pretérito)",
     "answer": "dijiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4784,7 +4784,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + decir (pretérito)",
+    "question": "decir/el/ella/Ud. (pretérito)",
     "answer": "dijo",
     "sourceDoc": "rebecca-1"
   },
@@ -4794,7 +4794,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + decir (pretérito)",
+    "question": "decir/nosotros/as (pretérito)",
     "answer": "dijimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4804,7 +4804,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + decir (pretérito)",
+    "question": "decir/ellos/ellas/Uds. (pretérito)",
     "answer": "dijeron",
     "sourceDoc": "rebecca-1"
   },
@@ -4814,7 +4814,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + traer (pretérito)",
+    "question": "traer/yo (pretérito)",
     "answer": "traje",
     "sourceDoc": "rebecca-1"
   },
@@ -4824,7 +4824,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + traer (pretérito)",
+    "question": "traer/tu (pretérito)",
     "answer": "trajiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4834,7 +4834,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + traer (pretérito)",
+    "question": "traer/el/ella/Ud. (pretérito)",
     "answer": "trajo",
     "sourceDoc": "rebecca-1"
   },
@@ -4844,7 +4844,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + traer (pretérito)",
+    "question": "traer/nosotros/as (pretérito)",
     "answer": "trajimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4854,7 +4854,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + traer (pretérito)",
+    "question": "traer/ellos/ellas/Uds. (pretérito)",
     "answer": "trajeron",
     "sourceDoc": "rebecca-1"
   },
@@ -4864,7 +4864,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + traducir (pretérito)",
+    "question": "traducir/yo (pretérito)",
     "answer": "traduje",
     "sourceDoc": "rebecca-1"
   },
@@ -4874,7 +4874,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + traducir (pretérito)",
+    "question": "traducir/tu (pretérito)",
     "answer": "tradujiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4884,7 +4884,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + traducir (pretérito)",
+    "question": "traducir/el/ella/Ud. (pretérito)",
     "answer": "tradujo",
     "sourceDoc": "rebecca-1"
   },
@@ -4894,7 +4894,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + traducir (pretérito)",
+    "question": "traducir/nosotros/as (pretérito)",
     "answer": "tradujimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4904,7 +4904,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + traducir (pretérito)",
+    "question": "traducir/ellos/ellas/Uds. (pretérito)",
     "answer": "tradujeron",
     "sourceDoc": "rebecca-1"
   },
@@ -4914,7 +4914,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + conducir (pretérito)",
+    "question": "conducir/yo (pretérito)",
     "answer": "conduje",
     "sourceDoc": "rebecca-1"
   },
@@ -4924,7 +4924,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + conducir (pretérito)",
+    "question": "conducir/tu (pretérito)",
     "answer": "condujiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4934,7 +4934,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + conducir (pretérito)",
+    "question": "conducir/el/ella/Ud. (pretérito)",
     "answer": "condujo",
     "sourceDoc": "rebecca-1"
   },
@@ -4944,7 +4944,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + conducir (pretérito)",
+    "question": "conducir/nosotros/as (pretérito)",
     "answer": "condujimos",
     "sourceDoc": "rebecca-1"
   },
@@ -4954,7 +4954,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + conducir (pretérito)",
+    "question": "conducir/ellos/ellas/Uds. (pretérito)",
     "answer": "condujeron",
     "sourceDoc": "rebecca-1"
   },
@@ -4964,7 +4964,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + producir (pretérito)",
+    "question": "producir/yo (pretérito)",
     "answer": "produje",
     "sourceDoc": "rebecca-1"
   },
@@ -4974,7 +4974,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + producir (pretérito)",
+    "question": "producir/tu (pretérito)",
     "answer": "produjiste",
     "sourceDoc": "rebecca-1"
   },
@@ -4984,7 +4984,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + producir (pretérito)",
+    "question": "producir/el/ella/Ud. (pretérito)",
     "answer": "produjo",
     "sourceDoc": "rebecca-1"
   },
@@ -4994,7 +4994,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + producir (pretérito)",
+    "question": "producir/nosotros/as (pretérito)",
     "answer": "produjimos",
     "sourceDoc": "rebecca-1"
   },
@@ -5004,7 +5004,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + producir (pretérito)",
+    "question": "producir/ellos/ellas/Uds. (pretérito)",
     "answer": "produjeron",
     "sourceDoc": "rebecca-1"
   },
@@ -5014,7 +5014,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + reducir (pretérito)",
+    "question": "reducir/yo (pretérito)",
     "answer": "reduje",
     "sourceDoc": "rebecca-1"
   },
@@ -5024,7 +5024,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + reducir (pretérito)",
+    "question": "reducir/tu (pretérito)",
     "answer": "redujiste",
     "sourceDoc": "rebecca-1"
   },
@@ -5034,7 +5034,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + reducir (pretérito)",
+    "question": "reducir/el/ella/Ud. (pretérito)",
     "answer": "redujo",
     "sourceDoc": "rebecca-1"
   },
@@ -5044,7 +5044,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + reducir (pretérito)",
+    "question": "reducir/nosotros/as (pretérito)",
     "answer": "redujimos",
     "sourceDoc": "rebecca-1"
   },
@@ -5054,7 +5054,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + reducir (pretérito)",
+    "question": "reducir/ellos/ellas/Uds. (pretérito)",
     "answer": "redujeron",
     "sourceDoc": "rebecca-1"
   },
@@ -5114,7 +5114,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + huir (pretérito)",
+    "question": "huir/yo (pretérito)",
     "answer": "huí",
     "sourceDoc": "rebecca-1"
   },
@@ -5124,7 +5124,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + huir (pretérito)",
+    "question": "huir/tu (pretérito)",
     "answer": "huiste",
     "sourceDoc": "rebecca-1"
   },
@@ -5134,7 +5134,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"el/ella/Ud.\" + huir (pretérito)",
+    "question": "huir/el/ella/Ud. (pretérito)",
     "answer": "huyó",
     "sourceDoc": "rebecca-1"
   },
@@ -5144,7 +5144,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros/as\" + huir (pretérito)",
+    "question": "huir/nosotros/as (pretérito)",
     "answer": "huimos",
     "sourceDoc": "rebecca-1"
   },
@@ -5154,7 +5154,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos/ellas/Uds.\" + huir (pretérito)",
+    "question": "huir/ellos/ellas/Uds. (pretérito)",
     "answer": "huyeron",
     "sourceDoc": "rebecca-1"
   },
@@ -5164,7 +5164,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + oír (pretérito)",
+    "question": "oír/yo (pretérito)",
     "answer": "oí",
     "sourceDoc": "rebecca-1"
   },
@@ -5174,7 +5174,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"usted\" + oír (pretérito)",
+    "question": "oír/usted (pretérito)",
     "answer": "oyó",
     "sourceDoc": "rebecca-1"
   },
@@ -5184,7 +5184,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + oír (pretérito)",
+    "question": "oír/tu (pretérito)",
     "answer": "oíste",
     "sourceDoc": "rebecca-1"
   },
@@ -5194,7 +5194,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + creer (pretérito)",
+    "question": "creer/yo (pretérito)",
     "answer": "creí",
     "sourceDoc": "rebecca-1"
   },
@@ -5204,7 +5204,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"usted\" + creer (pretérito)",
+    "question": "creer/usted (pretérito)",
     "answer": "creyó",
     "sourceDoc": "rebecca-1"
   },
@@ -5214,7 +5214,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + creer (pretérito)",
+    "question": "creer/tu (pretérito)",
     "answer": "creíste",
     "sourceDoc": "rebecca-1"
   },
@@ -5224,7 +5224,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + caer (pretérito)",
+    "question": "caer/yo (pretérito)",
     "answer": "caí",
     "sourceDoc": "rebecca-1"
   },
@@ -5234,7 +5234,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"usted\" + caer (pretérito)",
+    "question": "caer/usted (pretérito)",
     "answer": "cayó",
     "sourceDoc": "rebecca-1"
   },
@@ -5244,7 +5244,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + caer (pretérito)",
+    "question": "caer/tu (pretérito)",
     "answer": "caíste",
     "sourceDoc": "rebecca-1"
   },
@@ -5254,7 +5254,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + distribuir (pretérito)",
+    "question": "distribuir/yo (pretérito)",
     "answer": "distribuí",
     "sourceDoc": "rebecca-1"
   },
@@ -5264,7 +5264,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"usted\" + distribuir (pretérito)",
+    "question": "distribuir/usted (pretérito)",
     "answer": "distribuyó",
     "sourceDoc": "rebecca-1"
   },
@@ -5274,7 +5274,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tu\" + distribuir (pretérito)",
+    "question": "distribuir/tu (pretérito)",
     "answer": "distribuiste",
     "sourceDoc": "rebecca-1"
   },
@@ -8084,7 +8084,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Nosotros (visitar, pretérito) la playa. (pretérito)",
+    "question": "Cambia al pretérito: Nosotros (visitar, pretérito) la playa.",
     "answer": "Nosotros visitamos la playa.",
     "sourceDoc": "rebecca-1"
   },
@@ -10715,7 +10715,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"estudiar\" con \"yo\" (imperfecto)",
+    "question": "estudiar/yo (imperfecto)",
     "answer": "estudiaba",
     "sourceDoc": "rebecca-2"
   },
@@ -10724,7 +10724,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"estudiar\" con \"tú\" (imperfecto)",
+    "question": "estudiar/tú (imperfecto)",
     "answer": "estudiabas",
     "sourceDoc": "rebecca-2"
   },
@@ -10733,7 +10733,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"estudiar\" con \"él/ella/usted\" (imperfecto)",
+    "question": "estudiar/él/ella/usted (imperfecto)",
     "answer": "estudiaba",
     "sourceDoc": "rebecca-2"
   },
@@ -10742,7 +10742,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"estudiar\" con \"nosotros(as)\" (imperfecto)",
+    "question": "estudiar/nosotros(as) (imperfecto)",
     "answer": "estudiábamos",
     "sourceDoc": "rebecca-2"
   },
@@ -10751,7 +10751,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"estudiar\" con \"ellos/ellas/ustedes\" (imperfecto)",
+    "question": "estudiar/ellos/ellas/ustedes (imperfecto)",
     "answer": "estudiaban",
     "sourceDoc": "rebecca-2"
   },
@@ -10760,7 +10760,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"leer\" con \"yo\" (imperfecto)",
+    "question": "leer/yo (imperfecto)",
     "answer": "leía",
     "sourceDoc": "rebecca-2"
   },
@@ -10769,7 +10769,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"leer\" con \"tú\" (imperfecto)",
+    "question": "leer/tú (imperfecto)",
     "answer": "leías",
     "sourceDoc": "rebecca-2"
   },
@@ -10778,7 +10778,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"leer\" con \"él/ella/usted\" (imperfecto)",
+    "question": "leer/él/ella/usted (imperfecto)",
     "answer": "leía",
     "sourceDoc": "rebecca-2"
   },
@@ -10787,7 +10787,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"leer\" con \"nosotros(as)\" (imperfecto)",
+    "question": "leer/nosotros(as) (imperfecto)",
     "answer": "leíamos",
     "sourceDoc": "rebecca-2"
   },
@@ -10796,7 +10796,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"leer\" con \"ellos/ellas/ustedes\" (imperfecto)",
+    "question": "leer/ellos/ellas/ustedes (imperfecto)",
     "answer": "leían",
     "sourceDoc": "rebecca-2"
   },
@@ -10805,7 +10805,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"salir\" con \"yo\" (imperfecto)",
+    "question": "salir/yo (imperfecto)",
     "answer": "salía",
     "sourceDoc": "rebecca-2"
   },
@@ -10814,7 +10814,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"salir\" con \"tú\" (imperfecto)",
+    "question": "salir/tú (imperfecto)",
     "answer": "salías",
     "sourceDoc": "rebecca-2"
   },
@@ -10823,7 +10823,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"salir\" con \"él/ella/usted\" (imperfecto)",
+    "question": "salir/él/ella/usted (imperfecto)",
     "answer": "salía",
     "sourceDoc": "rebecca-2"
   },
@@ -10832,7 +10832,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"salir\" con \"nosotros(as)\" (imperfecto)",
+    "question": "salir/nosotros(as) (imperfecto)",
     "answer": "salíamos",
     "sourceDoc": "rebecca-2"
   },
@@ -10841,7 +10841,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Conjuga \"salir\" con \"ellos/ellas/ustedes\" (imperfecto)",
+    "question": "salir/ellos/ellas/ustedes (imperfecto)",
     "answer": "salían",
     "sourceDoc": "rebecca-2"
   },
@@ -10851,7 +10851,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ir\" con \"yo\" (imperfecto)",
+    "question": "ir/yo (imperfecto)",
     "answer": "iba",
     "sourceDoc": "rebecca-2"
   },
@@ -10861,7 +10861,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ir\" con \"tú\" (imperfecto)",
+    "question": "ir/tú (imperfecto)",
     "answer": "ibas",
     "sourceDoc": "rebecca-2"
   },
@@ -10871,7 +10871,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ir\" con \"él/ella/usted\" (imperfecto)",
+    "question": "ir/él/ella/usted (imperfecto)",
     "answer": "iba",
     "sourceDoc": "rebecca-2"
   },
@@ -10881,7 +10881,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ir\" con \"nosotros\" (imperfecto)",
+    "question": "ir/nosotros (imperfecto)",
     "answer": "íbamos",
     "sourceDoc": "rebecca-2"
   },
@@ -10891,7 +10891,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ir\" con \"ellos/ellas/ustedes\" (imperfecto)",
+    "question": "ir/ellos/ellas/ustedes (imperfecto)",
     "answer": "iban",
     "sourceDoc": "rebecca-2"
   },
@@ -10901,7 +10901,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ser\" con \"yo\" (imperfecto)",
+    "question": "ser/yo (imperfecto)",
     "answer": "era",
     "sourceDoc": "rebecca-2"
   },
@@ -10911,7 +10911,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ser\" con \"tú\" (imperfecto)",
+    "question": "ser/tú (imperfecto)",
     "answer": "eras",
     "sourceDoc": "rebecca-2"
   },
@@ -10921,7 +10921,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ser\" con \"él/ella/usted\" (imperfecto)",
+    "question": "ser/él/ella/usted (imperfecto)",
     "answer": "era",
     "sourceDoc": "rebecca-2"
   },
@@ -10931,7 +10931,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ser\" con \"nosotros\" (imperfecto)",
+    "question": "ser/nosotros (imperfecto)",
     "answer": "éramos",
     "sourceDoc": "rebecca-2"
   },
@@ -10941,7 +10941,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ser\" con \"ellos/ellas/ustedes\" (imperfecto)",
+    "question": "ser/ellos/ellas/ustedes (imperfecto)",
     "answer": "eran",
     "sourceDoc": "rebecca-2"
   },
@@ -10951,7 +10951,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ver\" con \"yo\" (imperfecto)",
+    "question": "ver/yo (imperfecto)",
     "answer": "veía",
     "sourceDoc": "rebecca-2"
   },
@@ -10961,7 +10961,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ver\" con \"tú\" (imperfecto)",
+    "question": "ver/tú (imperfecto)",
     "answer": "veías",
     "sourceDoc": "rebecca-2"
   },
@@ -10971,7 +10971,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ver\" con \"él/ella/usted\" (imperfecto)",
+    "question": "ver/él/ella/usted (imperfecto)",
     "answer": "veía",
     "sourceDoc": "rebecca-2"
   },
@@ -10981,7 +10981,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ver\" con \"nosotros\" (imperfecto)",
+    "question": "ver/nosotros (imperfecto)",
     "answer": "veíamos",
     "sourceDoc": "rebecca-2"
   },
@@ -10991,7 +10991,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "Conjuga \"ver\" con \"ellos/ellas/ustedes\" (imperfecto)",
+    "question": "ver/ellos/ellas/ustedes (imperfecto)",
     "answer": "veían",
     "sourceDoc": "rebecca-2"
   },
@@ -11324,7 +11324,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + caminar (presente)",
+    "question": "caminar/tú (presente)",
     "answer": "caminas",
     "sourceDoc": "molly-1"
   },
@@ -11333,7 +11333,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él/ella/Ud.\" + caminar (presente)",
+    "question": "caminar/él/ella/Ud. (presente)",
     "answer": "camina",
     "sourceDoc": "molly-1"
   },
@@ -11342,7 +11342,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + leer (presente)",
+    "question": "leer/tú (presente)",
     "answer": "lees",
     "sourceDoc": "molly-1"
   },
@@ -11351,7 +11351,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él/ella/Ud.\" + leer (presente)",
+    "question": "leer/él/ella/Ud. (presente)",
     "answer": "lee",
     "sourceDoc": "molly-1"
   },
@@ -11360,7 +11360,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + escribir (presente)",
+    "question": "escribir/tú (presente)",
     "answer": "escribes",
     "sourceDoc": "molly-1"
   },
@@ -11369,7 +11369,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él/ella/Ud.\" + escribir (presente)",
+    "question": "escribir/él/ella/Ud. (presente)",
     "answer": "escribe",
     "sourceDoc": "molly-1"
   },
@@ -11378,7 +11378,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + escuchar (presente)",
+    "question": "escuchar/yo (presente)",
     "answer": "escucho",
     "sourceDoc": "molly-1"
   },
@@ -11387,7 +11387,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + escuchar (presente)",
+    "question": "escuchar/tú (presente)",
     "answer": "escuchas",
     "sourceDoc": "molly-1"
   },
@@ -11396,7 +11396,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + escuchar (presente)",
+    "question": "escuchar/él (presente)",
     "answer": "escucha",
     "sourceDoc": "molly-1"
   },
@@ -11405,7 +11405,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + escuchar (presente)",
+    "question": "escuchar/nosotros (presente)",
     "answer": "escuchamos",
     "sourceDoc": "molly-1"
   },
@@ -11414,7 +11414,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + escuchar (presente)",
+    "question": "escuchar/ustedes (presente)",
     "answer": "escuchan",
     "sourceDoc": "molly-1"
   },
@@ -11423,7 +11423,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + estudiar (presente)",
+    "question": "estudiar/tú (presente)",
     "answer": "estudias",
     "sourceDoc": "molly-1"
   },
@@ -11432,7 +11432,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + estudiar (presente)",
+    "question": "estudiar/él (presente)",
     "answer": "estudia",
     "sourceDoc": "molly-1"
   },
@@ -11441,7 +11441,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + estudiar (presente)",
+    "question": "estudiar/nosotros (presente)",
     "answer": "estudiamos",
     "sourceDoc": "molly-1"
   },
@@ -11450,7 +11450,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + estudiar (presente)",
+    "question": "estudiar/ustedes (presente)",
     "answer": "estudian",
     "sourceDoc": "molly-1"
   },
@@ -11459,7 +11459,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + explicar (presente)",
+    "question": "explicar/yo (presente)",
     "answer": "explico",
     "sourceDoc": "molly-1"
   },
@@ -11468,7 +11468,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + explicar (presente)",
+    "question": "explicar/tú (presente)",
     "answer": "explicas",
     "sourceDoc": "molly-1"
   },
@@ -11477,7 +11477,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + explicar (presente)",
+    "question": "explicar/él (presente)",
     "answer": "explica",
     "sourceDoc": "molly-1"
   },
@@ -11486,7 +11486,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + explicar (presente)",
+    "question": "explicar/nosotros (presente)",
     "answer": "explicamos",
     "sourceDoc": "molly-1"
   },
@@ -11495,7 +11495,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + explicar (presente)",
+    "question": "explicar/ustedes (presente)",
     "answer": "explican",
     "sourceDoc": "molly-1"
   },
@@ -11504,7 +11504,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + usar (presente)",
+    "question": "usar/yo (presente)",
     "answer": "uso",
     "sourceDoc": "molly-1"
   },
@@ -11513,7 +11513,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + usar (presente)",
+    "question": "usar/tú (presente)",
     "answer": "usas",
     "sourceDoc": "molly-1"
   },
@@ -11522,7 +11522,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + usar (presente)",
+    "question": "usar/él (presente)",
     "answer": "usa",
     "sourceDoc": "molly-1"
   },
@@ -11531,7 +11531,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + usar (presente)",
+    "question": "usar/nosotros (presente)",
     "answer": "usamos",
     "sourceDoc": "molly-1"
   },
@@ -11540,7 +11540,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + usar (presente)",
+    "question": "usar/ustedes (presente)",
     "answer": "usan",
     "sourceDoc": "molly-1"
   },
@@ -11549,7 +11549,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + comprar (presente)",
+    "question": "comprar/yo (presente)",
     "answer": "compro",
     "sourceDoc": "molly-1"
   },
@@ -11558,7 +11558,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + comprar (presente)",
+    "question": "comprar/tú (presente)",
     "answer": "compras",
     "sourceDoc": "molly-1"
   },
@@ -11567,7 +11567,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + comprar (presente)",
+    "question": "comprar/él (presente)",
     "answer": "compra",
     "sourceDoc": "molly-1"
   },
@@ -11576,7 +11576,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + comprar (presente)",
+    "question": "comprar/nosotros (presente)",
     "answer": "compramos",
     "sourceDoc": "molly-1"
   },
@@ -11585,7 +11585,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + comprar (presente)",
+    "question": "comprar/ustedes (presente)",
     "answer": "compran",
     "sourceDoc": "molly-1"
   },
@@ -11594,7 +11594,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + cantar (presente)",
+    "question": "cantar/yo (presente)",
     "answer": "canto",
     "sourceDoc": "molly-1"
   },
@@ -11603,7 +11603,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + cantar (presente)",
+    "question": "cantar/tú (presente)",
     "answer": "cantas",
     "sourceDoc": "molly-1"
   },
@@ -11612,7 +11612,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + cantar (presente)",
+    "question": "cantar/él (presente)",
     "answer": "canta",
     "sourceDoc": "molly-1"
   },
@@ -11621,7 +11621,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + cantar (presente)",
+    "question": "cantar/nosotros (presente)",
     "answer": "cantamos",
     "sourceDoc": "molly-1"
   },
@@ -11630,7 +11630,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + cantar (presente)",
+    "question": "cantar/ustedes (presente)",
     "answer": "cantan",
     "sourceDoc": "molly-1"
   },
@@ -11846,7 +11846,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + vender (presente)",
+    "question": "vender/tú (presente)",
     "answer": "vendes",
     "sourceDoc": "molly-1"
   },
@@ -11855,7 +11855,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + vender (presente)",
+    "question": "vender/él (presente)",
     "answer": "vende",
     "sourceDoc": "molly-1"
   },
@@ -11864,7 +11864,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + vender (presente)",
+    "question": "vender/nosotros (presente)",
     "answer": "vendemos",
     "sourceDoc": "molly-1"
   },
@@ -11873,7 +11873,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + vender (presente)",
+    "question": "vender/ustedes (presente)",
     "answer": "venden",
     "sourceDoc": "molly-1"
   },
@@ -11882,7 +11882,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + responder (presente)",
+    "question": "responder/tú (presente)",
     "answer": "respondes",
     "sourceDoc": "molly-1"
   },
@@ -11891,7 +11891,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + responder (presente)",
+    "question": "responder/él (presente)",
     "answer": "responde",
     "sourceDoc": "molly-1"
   },
@@ -11900,7 +11900,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + responder (presente)",
+    "question": "responder/nosotros (presente)",
     "answer": "respondemos",
     "sourceDoc": "molly-1"
   },
@@ -11909,7 +11909,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + responder (presente)",
+    "question": "responder/ustedes (presente)",
     "answer": "responden",
     "sourceDoc": "molly-1"
   },
@@ -11918,7 +11918,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + aprender (presente)",
+    "question": "aprender/tú (presente)",
     "answer": "aprendes",
     "sourceDoc": "molly-1"
   },
@@ -11927,7 +11927,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + aprender (presente)",
+    "question": "aprender/él (presente)",
     "answer": "aprende",
     "sourceDoc": "molly-1"
   },
@@ -11936,7 +11936,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + aprender (presente)",
+    "question": "aprender/nosotros (presente)",
     "answer": "aprendemos",
     "sourceDoc": "molly-1"
   },
@@ -11945,7 +11945,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + aprender (presente)",
+    "question": "aprender/ustedes (presente)",
     "answer": "aprenden",
     "sourceDoc": "molly-1"
   },
@@ -11954,7 +11954,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + comprender (presente)",
+    "question": "comprender/tú (presente)",
     "answer": "comprendes",
     "sourceDoc": "molly-1"
   },
@@ -11963,7 +11963,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + comprender (presente)",
+    "question": "comprender/él (presente)",
     "answer": "comprende",
     "sourceDoc": "molly-1"
   },
@@ -11972,7 +11972,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + comprender (presente)",
+    "question": "comprender/nosotros (presente)",
     "answer": "comprendemos",
     "sourceDoc": "molly-1"
   },
@@ -11981,7 +11981,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + comprender (presente)",
+    "question": "comprender/ustedes (presente)",
     "answer": "comprenden",
     "sourceDoc": "molly-1"
   },
@@ -12540,7 +12540,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + querer (presente)",
+    "question": "querer/yo (presente)",
     "answer": "quiero",
     "sourceDoc": "molly-1"
   },
@@ -12550,7 +12550,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + querer (presente)",
+    "question": "querer/tú (presente)",
     "answer": "quieres",
     "sourceDoc": "molly-1"
   },
@@ -12560,7 +12560,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"él\" + querer (presente)",
+    "question": "querer/él (presente)",
     "answer": "quiere",
     "sourceDoc": "molly-1"
   },
@@ -12569,7 +12569,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + querer (presente)",
+    "question": "querer/nosotros (presente)",
     "answer": "queremos",
     "sourceDoc": "molly-1"
   },
@@ -12579,7 +12579,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"ellos\" + querer (presente)",
+    "question": "querer/ellos (presente)",
     "answer": "quieren",
     "sourceDoc": "molly-1"
   },
@@ -12718,7 +12718,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + subir (presente)",
+    "question": "subir/tú (presente)",
     "answer": "subes",
     "sourceDoc": "molly-1"
   },
@@ -12727,7 +12727,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + subir (presente)",
+    "question": "subir/él (presente)",
     "answer": "sube",
     "sourceDoc": "molly-1"
   },
@@ -12736,7 +12736,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + subir (presente)",
+    "question": "subir/nosotros (presente)",
     "answer": "subimos",
     "sourceDoc": "molly-1"
   },
@@ -12745,7 +12745,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + subir (presente)",
+    "question": "subir/ustedes (presente)",
     "answer": "suben",
     "sourceDoc": "molly-1"
   },
@@ -12754,7 +12754,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + abrir (presente)",
+    "question": "abrir/tú (presente)",
     "answer": "abres",
     "sourceDoc": "molly-1"
   },
@@ -12763,7 +12763,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + abrir (presente)",
+    "question": "abrir/él (presente)",
     "answer": "abre",
     "sourceDoc": "molly-1"
   },
@@ -12772,7 +12772,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + abrir (presente)",
+    "question": "abrir/nosotros (presente)",
     "answer": "abrimos",
     "sourceDoc": "molly-1"
   },
@@ -12781,7 +12781,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + abrir (presente)",
+    "question": "abrir/ustedes (presente)",
     "answer": "abren",
     "sourceDoc": "molly-1"
   },
@@ -12790,7 +12790,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú\" + vivir (presente)",
+    "question": "vivir/tú (presente)",
     "answer": "vives",
     "sourceDoc": "molly-1"
   },
@@ -12799,7 +12799,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él\" + vivir (presente)",
+    "question": "vivir/él (presente)",
     "answer": "vive",
     "sourceDoc": "molly-1"
   },
@@ -12808,7 +12808,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + vivir (presente)",
+    "question": "vivir/nosotros (presente)",
     "answer": "vivimos",
     "sourceDoc": "molly-1"
   },
@@ -12817,7 +12817,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ustedes\" + vivir (presente)",
+    "question": "vivir/ustedes (presente)",
     "answer": "viven",
     "sourceDoc": "molly-1"
   },
@@ -12826,7 +12826,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"la maestra\" + dividir (presente)",
+    "question": "dividir/la maestra (presente)",
     "answer": "divide",
     "sourceDoc": "molly-1"
   },
@@ -12835,7 +12835,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + asistir (presente)",
+    "question": "asistir/nosotros (presente)",
     "answer": "asistimos",
     "sourceDoc": "molly-1"
   },
@@ -12844,7 +12844,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"Rafael\" + decidir (presente)",
+    "question": "decidir/Rafael (presente)",
     "answer": "decide",
     "sourceDoc": "molly-1"
   },
@@ -12853,7 +12853,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"tú y yo\" + recibir (presente)",
+    "question": "recibir/tú y yo (presente)",
     "answer": "recibimos",
     "sourceDoc": "molly-1"
   },
@@ -12871,7 +12871,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"el equipo de fútbol\" + partir (presente)",
+    "question": "partir/el equipo de fútbol (presente)",
     "answer": "parte",
     "sourceDoc": "molly-1"
   },
@@ -12917,7 +12917,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + contar (presente)",
+    "question": "contar/yo (presente)",
     "answer": "cuento",
     "sourceDoc": "molly-1"
   },
@@ -12927,7 +12927,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + contar (presente)",
+    "question": "contar/tú (presente)",
     "answer": "cuentas",
     "sourceDoc": "molly-1"
   },
@@ -12937,7 +12937,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + volver (presente)",
+    "question": "volver/yo (presente)",
     "answer": "vuelvo",
     "sourceDoc": "molly-1"
   },
@@ -12947,7 +12947,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + volver (presente)",
+    "question": "volver/tú (presente)",
     "answer": "vuelves",
     "sourceDoc": "molly-1"
   },
@@ -12957,7 +12957,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + dormir (presente)",
+    "question": "dormir/yo (presente)",
     "answer": "duermo",
     "sourceDoc": "molly-1"
   },
@@ -12967,7 +12967,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + dormir (presente)",
+    "question": "dormir/tú (presente)",
     "answer": "duermes",
     "sourceDoc": "molly-1"
   },
@@ -12977,7 +12977,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + cerrar (presente)",
+    "question": "cerrar/yo (presente)",
     "answer": "cierro",
     "sourceDoc": "molly-1"
   },
@@ -12987,7 +12987,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + cerrar (presente)",
+    "question": "cerrar/tú (presente)",
     "answer": "cierras",
     "sourceDoc": "molly-1"
   },
@@ -12997,7 +12997,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + entender (presente)",
+    "question": "entender/yo (presente)",
     "answer": "entiendo",
     "sourceDoc": "molly-1"
   },
@@ -13007,7 +13007,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + entender (presente)",
+    "question": "entender/tú (presente)",
     "answer": "entiendes",
     "sourceDoc": "molly-1"
   },
@@ -13017,7 +13017,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + sentir (presente)",
+    "question": "sentir/yo (presente)",
     "answer": "siento",
     "sourceDoc": "molly-1"
   },
@@ -13027,7 +13027,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + sentir (presente)",
+    "question": "sentir/tú (presente)",
     "answer": "sientes",
     "sourceDoc": "molly-1"
   },
@@ -13037,7 +13037,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + pedir (presente)",
+    "question": "pedir/yo (presente)",
     "answer": "pido",
     "sourceDoc": "molly-1"
   },
@@ -13047,7 +13047,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + pedir (presente)",
+    "question": "pedir/tú (presente)",
     "answer": "pides",
     "sourceDoc": "molly-1"
   },
@@ -13057,7 +13057,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + reír (presente)",
+    "question": "reír/yo (presente)",
     "answer": "río",
     "sourceDoc": "molly-1"
   },
@@ -13067,7 +13067,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + reír (presente)",
+    "question": "reír/tú (presente)",
     "answer": "ríes",
     "sourceDoc": "molly-1"
   },
@@ -13077,7 +13077,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + seguir (presente)",
+    "question": "seguir/yo (presente)",
     "answer": "sigo",
     "sourceDoc": "molly-1"
   },
@@ -13087,7 +13087,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + seguir (presente)",
+    "question": "seguir/tú (presente)",
     "answer": "sigues",
     "sourceDoc": "molly-1"
   },
@@ -13097,7 +13097,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + venir (presente)",
+    "question": "venir/yo (presente)",
     "answer": "vengo",
     "sourceDoc": "molly-1"
   },
@@ -13107,7 +13107,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + oír (presente)",
+    "question": "oír/yo (presente)",
     "answer": "oigo",
     "sourceDoc": "molly-1"
   },
@@ -13117,7 +13117,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + hacer (presente)",
+    "question": "hacer/tú (presente)",
     "answer": "haces",
     "sourceDoc": "molly-1"
   },
@@ -13127,7 +13127,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + decir (presente)",
+    "question": "decir/yo (presente)",
     "answer": "digo",
     "sourceDoc": "molly-1"
   },
@@ -13137,7 +13137,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + decir (presente)",
+    "question": "decir/tú (presente)",
     "answer": "dices",
     "sourceDoc": "molly-1"
   },
@@ -13147,7 +13147,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + conocer (presente)",
+    "question": "conocer/yo (presente)",
     "answer": "conozco",
     "sourceDoc": "molly-1"
   },
@@ -13157,7 +13157,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + conocer (presente)",
+    "question": "conocer/tú (presente)",
     "answer": "conoces",
     "sourceDoc": "molly-1"
   },
@@ -13167,7 +13167,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + traducir (presente)",
+    "question": "traducir/yo (presente)",
     "answer": "traduzco",
     "sourceDoc": "molly-1"
   },
@@ -13177,7 +13177,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + traducir (presente)",
+    "question": "traducir/tú (presente)",
     "answer": "traduces",
     "sourceDoc": "molly-1"
   },
@@ -13187,7 +13187,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + huir (presente)",
+    "question": "huir/yo (presente)",
     "answer": "huyo",
     "sourceDoc": "molly-1"
   },
@@ -13197,7 +13197,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + huir (presente)",
+    "question": "huir/tú (presente)",
     "answer": "huyes",
     "sourceDoc": "molly-1"
   },
@@ -13207,7 +13207,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + escoger (presente)",
+    "question": "escoger/yo (presente)",
     "answer": "escojo",
     "sourceDoc": "molly-1"
   },
@@ -13217,7 +13217,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + escoger (presente)",
+    "question": "escoger/tú (presente)",
     "answer": "escoges",
     "sourceDoc": "molly-1"
   },
@@ -13227,7 +13227,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + exigir (presente)",
+    "question": "exigir/yo (presente)",
     "answer": "exijo",
     "sourceDoc": "molly-1"
   },
@@ -13237,7 +13237,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + exigir (presente)",
+    "question": "exigir/tú (presente)",
     "answer": "exiges",
     "sourceDoc": "molly-1"
   },
@@ -13247,7 +13247,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + ver (presente)",
+    "question": "ver/yo (presente)",
     "answer": "veo",
     "sourceDoc": "molly-1"
   },
@@ -13257,7 +13257,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + ver (presente)",
+    "question": "ver/tú (presente)",
     "answer": "ves",
     "sourceDoc": "molly-1"
   },
@@ -13267,7 +13267,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + caber (presente)",
+    "question": "caber/yo (presente)",
     "answer": "quepo",
     "sourceDoc": "molly-1"
   },
@@ -13277,7 +13277,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + caber (presente)",
+    "question": "caber/tú (presente)",
     "answer": "cabes",
     "sourceDoc": "molly-1"
   },
@@ -13287,7 +13287,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + saber (presente)",
+    "question": "saber/yo (presente)",
     "answer": "sé",
     "sourceDoc": "molly-1"
   },
@@ -13297,7 +13297,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + saber (presente)",
+    "question": "saber/tú (presente)",
     "answer": "sabes",
     "sourceDoc": "molly-1"
   },
@@ -13307,7 +13307,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"yo\" + haber (presente)",
+    "question": "haber/yo (presente)",
     "answer": "he",
     "sourceDoc": "molly-1"
   },
@@ -13317,7 +13317,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "\"tú\" + haber (presente)",
+    "question": "haber/tú (presente)",
     "answer": "has",
     "sourceDoc": "molly-1"
   },
@@ -13480,7 +13480,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tú\" + hablar (pretérito)",
+    "question": "hablar/tú (pretérito)",
     "answer": "hablaste",
     "sourceDoc": "molly-1"
   },
@@ -13489,7 +13489,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"él\" + hablar (pretérito)",
+    "question": "hablar/él (pretérito)",
     "answer": "habló",
     "sourceDoc": "molly-1"
   },
@@ -13498,7 +13498,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"nosotros\" + hablar (pretérito)",
+    "question": "hablar/nosotros (pretérito)",
     "answer": "hablamos",
     "sourceDoc": "molly-1"
   },
@@ -13507,7 +13507,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"ellos\" + hablar (pretérito)",
+    "question": "hablar/ellos (pretérito)",
     "answer": "hablaron",
     "sourceDoc": "molly-1"
   },
@@ -13516,7 +13516,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tú\" + beber (pretérito)",
+    "question": "beber/tú (pretérito)",
     "answer": "bebiste",
     "sourceDoc": "molly-1"
   },
@@ -13525,7 +13525,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"él\" + beber (pretérito)",
+    "question": "beber/él (pretérito)",
     "answer": "bebió",
     "sourceDoc": "molly-1"
   },
@@ -13534,7 +13534,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"nosotros\" + beber (pretérito)",
+    "question": "beber/nosotros (pretérito)",
     "answer": "bebimos",
     "sourceDoc": "molly-1"
   },
@@ -13543,7 +13543,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"ellos\" + beber (pretérito)",
+    "question": "beber/ellos (pretérito)",
     "answer": "bebieron",
     "sourceDoc": "molly-1"
   },
@@ -13552,7 +13552,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tú\" + escribir (pretérito)",
+    "question": "escribir/tú (pretérito)",
     "answer": "escribiste",
     "sourceDoc": "molly-1"
   },
@@ -13561,7 +13561,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"él\" + escribir (pretérito)",
+    "question": "escribir/él (pretérito)",
     "answer": "escribió",
     "sourceDoc": "molly-1"
   },
@@ -13570,7 +13570,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"nosotros\" + escribir (pretérito)",
+    "question": "escribir/nosotros (pretérito)",
     "answer": "escribimos",
     "sourceDoc": "molly-1"
   },
@@ -13579,7 +13579,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"ellos\" + escribir (pretérito)",
+    "question": "escribir/ellos (pretérito)",
     "answer": "escribieron",
     "sourceDoc": "molly-1"
   },
@@ -13588,7 +13588,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Yo camino por el parque. (pretérito)",
+    "question": "Cambia al pretérito: Yo camino por el parque.",
     "answer": "Yo caminé por el parque.",
     "sourceDoc": "molly-1"
   },
@@ -13597,7 +13597,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Tú vives en México. (pretérito)",
+    "question": "Cambia al pretérito: Tú vives en México.",
     "answer": "Tú viviste en México.",
     "sourceDoc": "molly-1"
   },
@@ -13606,7 +13606,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Los chicos hablan alemán. (pretérito)",
+    "question": "Cambia al pretérito: Los chicos hablan alemán.",
     "answer": "Los chicos hablaron alemán.",
     "sourceDoc": "molly-1"
   },
@@ -13615,7 +13615,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Mis amigos miran ese programa. (pretérito)",
+    "question": "Cambia al pretérito: Mis amigos miran ese programa.",
     "answer": "Mis amigos miraron ese programa.",
     "sourceDoc": "molly-1"
   },
@@ -13624,7 +13624,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Ustedes salen pronto. (pretérito)",
+    "question": "Cambia al pretérito: Ustedes salen pronto.",
     "answer": "Ustedes salieron pronto.",
     "sourceDoc": "molly-1"
   },
@@ -13633,7 +13633,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Tú vuelves en la tarde. (pretérito)",
+    "question": "Cambia al pretérito: Tú vuelves en la tarde.",
     "answer": "Tú volviste en la tarde.",
     "sourceDoc": "molly-1"
   },
@@ -13642,7 +13642,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Yo pienso mucho. (pretérito)",
+    "question": "Cambia al pretérito: Yo pienso mucho.",
     "answer": "Yo pensé mucho.",
     "sourceDoc": "molly-1"
   },
@@ -13651,7 +13651,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Las chicas cierran la puerta. (pretérito)",
+    "question": "Cambia al pretérito: Las chicas cierran la puerta.",
     "answer": "Las chicas cerraron la puerta.",
     "sourceDoc": "molly-1"
   },
@@ -13660,7 +13660,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Los turistas conocen Tikal. (pretérito)",
+    "question": "Cambia al pretérito: Los turistas conocen Tikal.",
     "answer": "Los turistas conocieron Tikal.",
     "sourceDoc": "molly-1"
   },
@@ -13724,7 +13724,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo no quiero salir pronto. (pretérito)",
+    "question": "Cambia al pretérito: Yo no quiero salir pronto.",
     "answer": "Yo no quise salir pronto.",
     "sourceDoc": "molly-1"
   },
@@ -13734,7 +13734,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Las chicas vienen en taxi. (pretérito)",
+    "question": "Cambia al pretérito: Las chicas vienen en taxi.",
     "answer": "Las chicas vinieron en taxi.",
     "sourceDoc": "molly-1"
   },
@@ -13744,7 +13744,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes no hacen nada. (pretérito)",
+    "question": "Cambia al pretérito: Ustedes no hacen nada.",
     "answer": "Ustedes no hicieron nada.",
     "sourceDoc": "molly-1"
   },
@@ -13754,7 +13754,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Los muchachos no ponen los libros en la mesa. (pretérito)",
+    "question": "Cambia al pretérito: Los muchachos no ponen los libros en la mesa.",
     "answer": "Los muchachos no pusieron los libros en la mesa.",
     "sourceDoc": "molly-1"
   },
@@ -13764,7 +13764,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nosotros queremos visitar Tikal. (pretérito)",
+    "question": "Cambia al pretérito: Nosotros queremos visitar Tikal.",
     "answer": "Nosotros quisimos visitar Tikal.",
     "sourceDoc": "molly-1"
   },
@@ -13774,7 +13774,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo puedo hablar inglés. (pretérito)",
+    "question": "Cambia al pretérito: Yo puedo hablar inglés.",
     "answer": "Yo pude hablar inglés.",
     "sourceDoc": "molly-1"
   },
@@ -13784,7 +13784,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú haces todo el trabajo. (pretérito)",
+    "question": "Cambia al pretérito: Tú haces todo el trabajo.",
     "answer": "Tú hiciste todo el trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -13794,7 +13794,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Los libros no caben en la mochila. (pretérito)",
+    "question": "Cambia al pretérito: Los libros no caben en la mochila.",
     "answer": "Los libros no cupieron en la mochila.",
     "sourceDoc": "molly-1"
   },
@@ -13804,7 +13804,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Luisa viene muy despacio. (pretérito)",
+    "question": "Cambia al pretérito: Luisa viene muy despacio.",
     "answer": "Luisa vino muy despacio.",
     "sourceDoc": "molly-1"
   },
@@ -13814,7 +13814,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo no sé la respuesta. (pretérito)",
+    "question": "Cambia al pretérito: Yo no sé la respuesta.",
     "answer": "Yo no supe la respuesta.",
     "sourceDoc": "molly-1"
   },
@@ -13824,7 +13824,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo no tengo mala suerte. (pretérito)",
+    "question": "Cambia al pretérito: Yo no tengo mala suerte.",
     "answer": "Yo no tuve mala suerte.",
     "sourceDoc": "molly-1"
   },
@@ -13834,7 +13834,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nosotros andamos por el centro de la ciudad. (pretérito)",
+    "question": "Cambia al pretérito: Nosotros andamos por el centro de la ciudad.",
     "answer": "Nosotros anduvimos por el centro de la ciudad.",
     "sourceDoc": "molly-1"
   },
@@ -13844,7 +13844,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Juan está en la capital. (pretérito)",
+    "question": "Cambia al pretérito: Juan está en la capital.",
     "answer": "Juan estuvo en la capital.",
     "sourceDoc": "molly-1"
   },
@@ -13854,7 +13854,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes tienen que trabajar. (pretérito)",
+    "question": "Cambia al pretérito: Ustedes tienen que trabajar.",
     "answer": "Ustedes tuvieron que trabajar.",
     "sourceDoc": "molly-1"
   },
@@ -13864,7 +13864,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú estás en el mercado. (pretérito)",
+    "question": "Cambia al pretérito: Tú estás en el mercado.",
     "answer": "Tú estuviste en el mercado.",
     "sourceDoc": "molly-1"
   },
@@ -14126,7 +14126,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + dar (pretérito)",
+    "question": "dar/tú (pretérito)",
     "answer": "diste",
     "sourceDoc": "molly-1"
   },
@@ -14136,7 +14136,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + dar (pretérito)",
+    "question": "dar/él (pretérito)",
     "answer": "dio",
     "sourceDoc": "molly-1"
   },
@@ -14146,7 +14146,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + dar (pretérito)",
+    "question": "dar/nosotros (pretérito)",
     "answer": "dimos",
     "sourceDoc": "molly-1"
   },
@@ -14156,7 +14156,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + dar (pretérito)",
+    "question": "dar/ellos (pretérito)",
     "answer": "dieron",
     "sourceDoc": "molly-1"
   },
@@ -14166,7 +14166,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + ser (pretérito)",
+    "question": "ser/tú (pretérito)",
     "answer": "fuiste",
     "sourceDoc": "molly-1"
   },
@@ -14176,7 +14176,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + ser (pretérito)",
+    "question": "ser/él (pretérito)",
     "answer": "fue",
     "sourceDoc": "molly-1"
   },
@@ -14186,7 +14186,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + ser (pretérito)",
+    "question": "ser/nosotros (pretérito)",
     "answer": "fuimos",
     "sourceDoc": "molly-1"
   },
@@ -14196,7 +14196,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + ser (pretérito)",
+    "question": "ser/ellos (pretérito)",
     "answer": "fueron",
     "sourceDoc": "molly-1"
   },
@@ -14206,7 +14206,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + ir (pretérito)",
+    "question": "ir/tú (pretérito)",
     "answer": "fuiste",
     "sourceDoc": "molly-1"
   },
@@ -14216,7 +14216,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + ir (pretérito)",
+    "question": "ir/él (pretérito)",
     "answer": "fue",
     "sourceDoc": "molly-1"
   },
@@ -14226,7 +14226,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + ir (pretérito)",
+    "question": "ir/nosotros (pretérito)",
     "answer": "fuimos",
     "sourceDoc": "molly-1"
   },
@@ -14236,7 +14236,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + ir (pretérito)",
+    "question": "ir/ellos (pretérito)",
     "answer": "fueron",
     "sourceDoc": "molly-1"
   },
@@ -14246,7 +14246,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + ver (pretérito)",
+    "question": "ver/tú (pretérito)",
     "answer": "viste",
     "sourceDoc": "molly-1"
   },
@@ -14256,7 +14256,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + ver (pretérito)",
+    "question": "ver/él (pretérito)",
     "answer": "vio",
     "sourceDoc": "molly-1"
   },
@@ -14266,7 +14266,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + ver (pretérito)",
+    "question": "ver/nosotros (pretérito)",
     "answer": "vimos",
     "sourceDoc": "molly-1"
   },
@@ -14276,7 +14276,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + ver (pretérito)",
+    "question": "ver/ellos (pretérito)",
     "answer": "vieron",
     "sourceDoc": "molly-1"
   },
@@ -14286,7 +14286,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Voy a la escuela. (pretérito)",
+    "question": "Cambia al pretérito: Voy a la escuela.",
     "answer": "Fui a la escuela.",
     "sourceDoc": "molly-1"
   },
@@ -14296,7 +14296,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Uds. dan las gracias a la señora. (pretérito)",
+    "question": "Cambia al pretérito: Uds. dan las gracias a la señora.",
     "answer": "Ustedes dieron las gracias a la señora.",
     "sourceDoc": "molly-1"
   },
@@ -14306,7 +14306,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo no soy mesero. (pretérito)",
+    "question": "Cambia al pretérito: Yo no soy mesero.",
     "answer": "Yo no fui mesero.",
     "sourceDoc": "molly-1"
   },
@@ -14316,7 +14316,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Pedro ve el accidente. (pretérito)",
+    "question": "Cambia al pretérito: Pedro ve el accidente.",
     "answer": "Pedro vio el accidente.",
     "sourceDoc": "molly-1"
   },
@@ -14326,7 +14326,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Es un bonito día. (pretérito)",
+    "question": "Cambia al pretérito: Es un bonito día.",
     "answer": "Fue un bonito día.",
     "sourceDoc": "molly-1"
   },
@@ -14336,7 +14336,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Todos vamos al cine. (pretérito)",
+    "question": "Cambia al pretérito: Todos vamos al cine.",
     "answer": "Todos fuimos al cine.",
     "sourceDoc": "molly-1"
   },
@@ -14346,7 +14346,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "¿Quién es? (pretérito)",
+    "question": "Cambia al pretérito: ¿Quién es?",
     "answer": "¿Quién fue?",
     "sourceDoc": "molly-1"
   },
@@ -14356,7 +14356,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "No damos la comida a los pájaros. (pretérito)",
+    "question": "Cambia al pretérito: No damos la comida a los pájaros.",
     "answer": "No dimos la comida a los pájaros.",
     "sourceDoc": "molly-1"
   },
@@ -14366,7 +14366,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "No veo nada. (pretérito)",
+    "question": "Cambia al pretérito: No veo nada.",
     "answer": "No vi nada.",
     "sourceDoc": "molly-1"
   },
@@ -14376,7 +14376,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "¿Cómo es la película? (pretérito)",
+    "question": "Cambia al pretérito: ¿Cómo es la película?",
     "answer": "¿Cómo fue la película?",
     "sourceDoc": "molly-1"
   },
@@ -14446,7 +14446,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + decir (pretérito)",
+    "question": "decir/tú (pretérito)",
     "answer": "dijiste",
     "sourceDoc": "molly-1"
   },
@@ -14456,7 +14456,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + decir (pretérito)",
+    "question": "decir/él (pretérito)",
     "answer": "dijo",
     "sourceDoc": "molly-1"
   },
@@ -14466,7 +14466,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + decir (pretérito)",
+    "question": "decir/nosotros (pretérito)",
     "answer": "dijimos",
     "sourceDoc": "molly-1"
   },
@@ -14476,7 +14476,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + decir (pretérito)",
+    "question": "decir/ellos (pretérito)",
     "answer": "dijeron",
     "sourceDoc": "molly-1"
   },
@@ -14486,7 +14486,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + traer (pretérito)",
+    "question": "traer/tú (pretérito)",
     "answer": "trajiste",
     "sourceDoc": "molly-1"
   },
@@ -14496,7 +14496,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + traer (pretérito)",
+    "question": "traer/él (pretérito)",
     "answer": "trajo",
     "sourceDoc": "molly-1"
   },
@@ -14506,7 +14506,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + traer (pretérito)",
+    "question": "traer/nosotros (pretérito)",
     "answer": "trajimos",
     "sourceDoc": "molly-1"
   },
@@ -14516,7 +14516,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + traer (pretérito)",
+    "question": "traer/ellos (pretérito)",
     "answer": "trajeron",
     "sourceDoc": "molly-1"
   },
@@ -14526,7 +14526,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + traducir (pretérito)",
+    "question": "traducir/tú (pretérito)",
     "answer": "tradujiste",
     "sourceDoc": "molly-1"
   },
@@ -14536,7 +14536,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + traducir (pretérito)",
+    "question": "traducir/él (pretérito)",
     "answer": "tradujo",
     "sourceDoc": "molly-1"
   },
@@ -14546,7 +14546,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + traducir (pretérito)",
+    "question": "traducir/nosotros (pretérito)",
     "answer": "tradujimos",
     "sourceDoc": "molly-1"
   },
@@ -14556,7 +14556,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + traducir (pretérito)",
+    "question": "traducir/ellos (pretérito)",
     "answer": "tradujeron",
     "sourceDoc": "molly-1"
   },
@@ -14566,7 +14566,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + conducir (pretérito)",
+    "question": "conducir/tú (pretérito)",
     "answer": "condujiste",
     "sourceDoc": "molly-1"
   },
@@ -14576,7 +14576,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + conducir (pretérito)",
+    "question": "conducir/él (pretérito)",
     "answer": "condujo",
     "sourceDoc": "molly-1"
   },
@@ -14586,7 +14586,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + conducir (pretérito)",
+    "question": "conducir/nosotros (pretérito)",
     "answer": "condujimos",
     "sourceDoc": "molly-1"
   },
@@ -14596,7 +14596,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + conducir (pretérito)",
+    "question": "conducir/ellos (pretérito)",
     "answer": "condujeron",
     "sourceDoc": "molly-1"
   },
@@ -14606,7 +14606,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + producir (pretérito)",
+    "question": "producir/tú (pretérito)",
     "answer": "produjiste",
     "sourceDoc": "molly-1"
   },
@@ -14616,7 +14616,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + producir (pretérito)",
+    "question": "producir/él (pretérito)",
     "answer": "produjo",
     "sourceDoc": "molly-1"
   },
@@ -14626,7 +14626,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + producir (pretérito)",
+    "question": "producir/nosotros (pretérito)",
     "answer": "produjimos",
     "sourceDoc": "molly-1"
   },
@@ -14636,7 +14636,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + producir (pretérito)",
+    "question": "producir/ellos (pretérito)",
     "answer": "produjeron",
     "sourceDoc": "molly-1"
   },
@@ -14646,7 +14646,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + reducir (pretérito)",
+    "question": "reducir/tú (pretérito)",
     "answer": "redujiste",
     "sourceDoc": "molly-1"
   },
@@ -14656,7 +14656,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + reducir (pretérito)",
+    "question": "reducir/él (pretérito)",
     "answer": "redujo",
     "sourceDoc": "molly-1"
   },
@@ -14666,7 +14666,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + reducir (pretérito)",
+    "question": "reducir/nosotros (pretérito)",
     "answer": "redujimos",
     "sourceDoc": "molly-1"
   },
@@ -14676,7 +14676,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + reducir (pretérito)",
+    "question": "reducir/ellos (pretérito)",
     "answer": "redujeron",
     "sourceDoc": "molly-1"
   },
@@ -14686,7 +14686,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes no dicen la verdad. (pretérito)",
+    "question": "Cambia al pretérito: Ustedes no dicen la verdad.",
     "answer": "Ustedes no dijeron la verdad.",
     "sourceDoc": "molly-1"
   },
@@ -14696,7 +14696,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú traes los tomates para la ensalada. (pretérito)",
+    "question": "Cambia al pretérito: Tú traes los tomates para la ensalada.",
     "answer": "Tú trajiste los tomates para la ensalada.",
     "sourceDoc": "molly-1"
   },
@@ -14706,7 +14706,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mis hermanos conducen muy rápido. (pretérito)",
+    "question": "Cambia al pretérito: Mis hermanos conducen muy rápido.",
     "answer": "Mis hermanos condujeron muy rápido.",
     "sourceDoc": "molly-1"
   },
@@ -14716,7 +14716,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo traduzco todas las palabras. (pretérito)",
+    "question": "Cambia al pretérito: Yo traduzco todas las palabras.",
     "answer": "Yo traduje todas las palabras.",
     "sourceDoc": "molly-1"
   },
@@ -14726,7 +14726,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tu familia produce manzanas. (pretérito)",
+    "question": "Cambia al pretérito: Tu familia produce manzanas.",
     "answer": "Tu familia produjo manzanas.",
     "sourceDoc": "molly-1"
   },
@@ -17219,7 +17219,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + leer (pretérito)",
+    "question": "leer/yo (pretérito)",
     "answer": "leí",
     "sourceDoc": "molly-1"
   },
@@ -17229,7 +17229,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + leer (pretérito)",
+    "question": "leer/tú (pretérito)",
     "answer": "leíste",
     "sourceDoc": "molly-1"
   },
@@ -17239,7 +17239,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + leer (pretérito)",
+    "question": "leer/él (pretérito)",
     "answer": "leyó",
     "sourceDoc": "molly-1"
   },
@@ -17249,7 +17249,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + leer (pretérito)",
+    "question": "leer/nosotros (pretérito)",
     "answer": "leímos",
     "sourceDoc": "molly-1"
   },
@@ -17259,7 +17259,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + leer (pretérito)",
+    "question": "leer/ellos (pretérito)",
     "answer": "leyeron",
     "sourceDoc": "molly-1"
   },
@@ -17269,7 +17269,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + huir (pretérito)",
+    "question": "huir/tú (pretérito)",
     "answer": "huiste",
     "sourceDoc": "molly-1"
   },
@@ -17279,7 +17279,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"él\" + huir (pretérito)",
+    "question": "huir/él (pretérito)",
     "answer": "huyó",
     "sourceDoc": "molly-1"
   },
@@ -17289,7 +17289,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"nosotros\" + huir (pretérito)",
+    "question": "huir/nosotros (pretérito)",
     "answer": "huimos",
     "sourceDoc": "molly-1"
   },
@@ -17299,7 +17299,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"ellos\" + huir (pretérito)",
+    "question": "huir/ellos (pretérito)",
     "answer": "huyeron",
     "sourceDoc": "molly-1"
   },
@@ -17318,7 +17318,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + oir (pretérito)",
+    "question": "oir/yo (pretérito)",
     "answer": "oí",
     "sourceDoc": "molly-1"
   },
@@ -17328,7 +17328,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"usted\" + oir (pretérito)",
+    "question": "oir/usted (pretérito)",
     "answer": "oyó",
     "sourceDoc": "molly-1"
   },
@@ -17338,7 +17338,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + oir (pretérito)",
+    "question": "oir/tú (pretérito)",
     "answer": "oíste",
     "sourceDoc": "molly-1"
   },
@@ -17348,7 +17348,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + creer (pretérito)",
+    "question": "creer/tú (pretérito)",
     "answer": "creíste",
     "sourceDoc": "molly-1"
   },
@@ -17358,7 +17358,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + caer (pretérito)",
+    "question": "caer/tú (pretérito)",
     "answer": "caíste",
     "sourceDoc": "molly-1"
   },
@@ -17368,7 +17368,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"tú\" + distribuir (pretérito)",
+    "question": "distribuir/tú (pretérito)",
     "answer": "distribuiste",
     "sourceDoc": "molly-1"
   },
@@ -17519,7 +17519,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + buscar (pretérito)",
+    "question": "buscar/yo (pretérito)",
     "answer": "busqué",
     "sourceDoc": "molly-1"
   },
@@ -17528,7 +17528,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tú\" + buscar (pretérito)",
+    "question": "buscar/tú (pretérito)",
     "answer": "buscaste",
     "sourceDoc": "molly-1"
   },
@@ -17538,7 +17538,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + pagar (pretérito)",
+    "question": "pagar/yo (pretérito)",
     "answer": "pagué",
     "sourceDoc": "molly-1"
   },
@@ -17547,7 +17547,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tú\" + pagar (pretérito)",
+    "question": "pagar/tú (pretérito)",
     "answer": "pagaste",
     "sourceDoc": "molly-1"
   },
@@ -17557,7 +17557,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + almorzar (pretérito)",
+    "question": "almorzar/yo (pretérito)",
     "answer": "almorcé",
     "sourceDoc": "molly-1"
   },
@@ -17566,7 +17566,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"tú\" + almorzar (pretérito)",
+    "question": "almorzar/tú (pretérito)",
     "answer": "almorzaste",
     "sourceDoc": "molly-1"
   },
@@ -17576,7 +17576,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + tocar (pretérito)",
+    "question": "tocar/yo (pretérito)",
     "answer": "toqué",
     "sourceDoc": "molly-1"
   },
@@ -17585,7 +17585,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"usted\" + tocar (pretérito)",
+    "question": "tocar/usted (pretérito)",
     "answer": "tocó",
     "sourceDoc": "molly-1"
   },
@@ -17594,7 +17594,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"nosotros\" + tocar (presente)",
+    "question": "tocar/nosotros (presente)",
     "answer": "tocamos",
     "sourceDoc": "molly-1"
   },
@@ -17604,7 +17604,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + explicar (pretérito)",
+    "question": "explicar/yo (pretérito)",
     "answer": "expliqué",
     "sourceDoc": "molly-1"
   },
@@ -17613,7 +17613,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"usted\" + explicar (pretérito)",
+    "question": "explicar/usted (pretérito)",
     "answer": "explicó",
     "sourceDoc": "molly-1"
   },
@@ -17623,7 +17623,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + empezar (pretérito)",
+    "question": "empezar/yo (pretérito)",
     "answer": "empecé",
     "sourceDoc": "molly-1"
   },
@@ -17632,7 +17632,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"usted\" + empezar (pretérito)",
+    "question": "empezar/usted (pretérito)",
     "answer": "empezó",
     "sourceDoc": "molly-1"
   },
@@ -17642,7 +17642,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "\"yo\" + llegar (pretérito)",
+    "question": "llegar/yo (pretérito)",
     "answer": "llegué",
     "sourceDoc": "molly-1"
   },
@@ -17651,7 +17651,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "\"usted\" + llegar (pretérito)",
+    "question": "llegar/usted (pretérito)",
     "answer": "llegó",
     "sourceDoc": "molly-1"
   },
@@ -18777,7 +18777,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"yo\" + estudiar (futuro)",
+    "question": "estudiar/yo (futuro)",
     "answer": "estudiaré",
     "sourceDoc": "molly-1"
   },
@@ -18786,7 +18786,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"tú\" + estudiar (futuro)",
+    "question": "estudiar/tú (futuro)",
     "answer": "estudiarás",
     "sourceDoc": "molly-1"
   },
@@ -18795,7 +18795,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"él/ella/usted\" + estudiar (futuro)",
+    "question": "estudiar/él/ella/usted (futuro)",
     "answer": "estudiará",
     "sourceDoc": "molly-1"
   },
@@ -18804,7 +18804,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"nosotros\" + estudiar (futuro)",
+    "question": "estudiar/nosotros (futuro)",
     "answer": "estudiaremos",
     "sourceDoc": "molly-1"
   },
@@ -18813,7 +18813,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"yo\" + leer (futuro)",
+    "question": "leer/yo (futuro)",
     "answer": "leeré",
     "sourceDoc": "molly-1"
   },
@@ -18822,7 +18822,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"tú\" + leer (futuro)",
+    "question": "leer/tú (futuro)",
     "answer": "leerás",
     "sourceDoc": "molly-1"
   },
@@ -18831,7 +18831,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"él/ella/usted\" + leer (futuro)",
+    "question": "leer/él/ella/usted (futuro)",
     "answer": "leerá",
     "sourceDoc": "molly-1"
   },
@@ -18840,7 +18840,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"nosotros\" + leer (futuro)",
+    "question": "leer/nosotros (futuro)",
     "answer": "leeremos",
     "sourceDoc": "molly-1"
   },
@@ -18849,7 +18849,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"yo\" + escribir (futuro)",
+    "question": "escribir/yo (futuro)",
     "answer": "escribiré",
     "sourceDoc": "molly-1"
   },
@@ -18858,7 +18858,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"tú\" + escribir (futuro)",
+    "question": "escribir/tú (futuro)",
     "answer": "escribirás",
     "sourceDoc": "molly-1"
   },
@@ -18867,7 +18867,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"él/ella/usted\" + escribir (futuro)",
+    "question": "escribir/él/ella/usted (futuro)",
     "answer": "escribirá",
     "sourceDoc": "molly-1"
   },
@@ -18876,7 +18876,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"nosotros\" + escribir (futuro)",
+    "question": "escribir/nosotros (futuro)",
     "answer": "escribiremos",
     "sourceDoc": "molly-1"
   },
@@ -18958,7 +18958,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + poder (futuro)",
+    "question": "poder/yo (futuro)",
     "answer": "podré",
     "sourceDoc": "molly-1"
   },
@@ -18968,7 +18968,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + poder (futuro)",
+    "question": "poder/tú (futuro)",
     "answer": "podrás",
     "sourceDoc": "molly-1"
   },
@@ -18978,7 +18978,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + querer (futuro)",
+    "question": "querer/yo (futuro)",
     "answer": "querré",
     "sourceDoc": "molly-1"
   },
@@ -18988,7 +18988,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + querer (futuro)",
+    "question": "querer/tú (futuro)",
     "answer": "querrás",
     "sourceDoc": "molly-1"
   },
@@ -18998,7 +18998,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + caber (futuro)",
+    "question": "caber/yo (futuro)",
     "answer": "cabré",
     "sourceDoc": "molly-1"
   },
@@ -19008,7 +19008,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + caber (futuro)",
+    "question": "caber/tú (futuro)",
     "answer": "cabrás",
     "sourceDoc": "molly-1"
   },
@@ -19018,7 +19018,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + saber (futuro)",
+    "question": "saber/yo (futuro)",
     "answer": "sabré",
     "sourceDoc": "molly-1"
   },
@@ -19028,7 +19028,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + saber (futuro)",
+    "question": "saber/tú (futuro)",
     "answer": "sabrás",
     "sourceDoc": "molly-1"
   },
@@ -19038,7 +19038,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + haber (futuro)",
+    "question": "haber/yo (futuro)",
     "answer": "habré",
     "sourceDoc": "molly-1"
   },
@@ -19048,7 +19048,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + haber (futuro)",
+    "question": "haber/tú (futuro)",
     "answer": "habrás",
     "sourceDoc": "molly-1"
   },
@@ -19058,7 +19058,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + poner (futuro)",
+    "question": "poner/yo (futuro)",
     "answer": "pondré",
     "sourceDoc": "molly-1"
   },
@@ -19068,7 +19068,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + poner (futuro)",
+    "question": "poner/tú (futuro)",
     "answer": "pondrás",
     "sourceDoc": "molly-1"
   },
@@ -19078,7 +19078,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + tener (futuro)",
+    "question": "tener/yo (futuro)",
     "answer": "tendré",
     "sourceDoc": "molly-1"
   },
@@ -19088,7 +19088,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + tener (futuro)",
+    "question": "tener/tú (futuro)",
     "answer": "tendrás",
     "sourceDoc": "molly-1"
   },
@@ -19098,7 +19098,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + valer (futuro)",
+    "question": "valer/yo (futuro)",
     "answer": "valdré",
     "sourceDoc": "molly-1"
   },
@@ -19108,7 +19108,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + valer (futuro)",
+    "question": "valer/tú (futuro)",
     "answer": "valdrás",
     "sourceDoc": "molly-1"
   },
@@ -19118,7 +19118,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + salir (futuro)",
+    "question": "salir/yo (futuro)",
     "answer": "saldré",
     "sourceDoc": "molly-1"
   },
@@ -19128,7 +19128,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + salir (futuro)",
+    "question": "salir/tú (futuro)",
     "answer": "saldrás",
     "sourceDoc": "molly-1"
   },
@@ -19138,7 +19138,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + venir (futuro)",
+    "question": "venir/yo (futuro)",
     "answer": "vendré",
     "sourceDoc": "molly-1"
   },
@@ -19148,7 +19148,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + venir (futuro)",
+    "question": "venir/tú (futuro)",
     "answer": "vendrás",
     "sourceDoc": "molly-1"
   },
@@ -19158,7 +19158,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + hacer (futuro)",
+    "question": "hacer/yo (futuro)",
     "answer": "haré",
     "sourceDoc": "molly-1"
   },
@@ -19168,7 +19168,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + hacer (futuro)",
+    "question": "hacer/tú (futuro)",
     "answer": "harás",
     "sourceDoc": "molly-1"
   },
@@ -19178,7 +19178,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + decir (futuro)",
+    "question": "decir/yo (futuro)",
     "answer": "diré",
     "sourceDoc": "molly-1"
   },
@@ -19188,7 +19188,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"tú\" + decir (futuro)",
+    "question": "decir/tú (futuro)",
     "answer": "dirás",
     "sourceDoc": "molly-1"
   },
@@ -19740,7 +19740,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Yo no como ensalada. (futuro)",
+    "question": "Cambia al futuro: Yo no como ensalada.",
     "answer": "Yo no comeré ensalada.",
     "sourceDoc": "molly-1"
   },
@@ -19749,7 +19749,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Los novios se aman mucho. (futuro)",
+    "question": "Cambia al futuro: Los novios se aman mucho.",
     "answer": "Los novios se amarán mucho.",
     "sourceDoc": "molly-1"
   },
@@ -19759,7 +19759,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "No decimos nuestra edad. (futuro)",
+    "question": "Cambia al futuro: No decimos nuestra edad.",
     "answer": "No diremos nuestra edad.",
     "sourceDoc": "molly-1"
   },
@@ -19769,7 +19769,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Vienen todos al partido. (futuro)",
+    "question": "Cambia al futuro: Vienen todos al partido.",
     "answer": "Vendrán todos al partido.",
     "sourceDoc": "molly-1"
   },
@@ -19778,7 +19778,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "El camarero sirve la comida. (futuro)",
+    "question": "Cambia al futuro: El camarero sirve la comida.",
     "answer": "El camarero servirá la comida.",
     "sourceDoc": "molly-1"
   },
@@ -19787,7 +19787,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "¿Llevan las guitarras? (futuro)",
+    "question": "Cambia al futuro: ¿Llevan las guitarras?",
     "answer": "¿Llevarán las guitarras?",
     "sourceDoc": "molly-1"
   },
@@ -19797,7 +19797,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Salgo muy temprano. (futuro)",
+    "question": "Cambia al futuro: Salgo muy temprano.",
     "answer": "Saldré muy temprano.",
     "sourceDoc": "molly-1"
   },
@@ -19807,7 +19807,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "No hay gente en la calle. (futuro)",
+    "question": "Cambia al futuro: No hay gente en la calle.",
     "answer": "No habrá gente en la calle.",
     "sourceDoc": "molly-1"
   },
@@ -21411,7 +21411,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"él, ella, Uds\" + usar (presente)",
+    "question": "usar/él, ella, Uds (presente)",
     "answer": "usa",
     "sourceDoc": "molly-2"
   },
@@ -21420,7 +21420,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos, ellas, Uds.\" + usar (presente)",
+    "question": "usar/ellos, ellas, Uds. (presente)",
     "answer": "usan",
     "sourceDoc": "molly-2"
   },
@@ -21431,7 +21431,7 @@
       "exceptions",
       "grammar-expressions"
     ],
-    "question": "\"yo\" + ponerse (presente)",
+    "question": "ponerse/yo (presente)",
     "answer": "me pongo",
     "sourceDoc": "molly-2"
   },
@@ -21441,7 +21441,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"tú\" + ponerse (presente)",
+    "question": "ponerse/tú (presente)",
     "answer": "te pones",
     "sourceDoc": "molly-2"
   },
@@ -21451,7 +21451,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"él, ella, Uds\" + ponerse (presente)",
+    "question": "ponerse/él, ella, Uds (presente)",
     "answer": "se pone",
     "sourceDoc": "molly-2"
   },
@@ -21461,7 +21461,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"nosotros\" + ponerse (presente)",
+    "question": "ponerse/nosotros (presente)",
     "answer": "nos ponemos",
     "sourceDoc": "molly-2"
   },
@@ -21471,7 +21471,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"ellos, ellas, Uds.\" + ponerse (presente)",
+    "question": "ponerse/ellos, ellas, Uds. (presente)",
     "answer": "se ponen",
     "sourceDoc": "molly-2"
   },
@@ -21481,7 +21481,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"yo\" + quitarse (presente)",
+    "question": "quitarse/yo (presente)",
     "answer": "me quito",
     "sourceDoc": "molly-2"
   },
@@ -21491,7 +21491,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"tú\" + quitarse (presente)",
+    "question": "quitarse/tú (presente)",
     "answer": "te quitas",
     "sourceDoc": "molly-2"
   },
@@ -21501,7 +21501,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"él, ella, Uds\" + quitarse (presente)",
+    "question": "quitarse/él, ella, Uds (presente)",
     "answer": "se quita",
     "sourceDoc": "molly-2"
   },
@@ -21511,7 +21511,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"nosotros\" + quitarse (presente)",
+    "question": "quitarse/nosotros (presente)",
     "answer": "nos quitamos",
     "sourceDoc": "molly-2"
   },
@@ -21521,7 +21521,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "\"ellos, ellas, Uds.\" + quitarse (presente)",
+    "question": "quitarse/ellos, ellas, Uds. (presente)",
     "answer": "se quitan",
     "sourceDoc": "molly-2"
   },
@@ -21685,7 +21685,7 @@
       "preterite",
       "grammar-expressions"
     ],
-    "question": "\"tú\" + caerse (pretérito)",
+    "question": "caerse/tú (pretérito)",
     "answer": "te caíste",
     "sourceDoc": "molly-2"
   },
@@ -22045,7 +22045,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"yo\" + comprar (condicional)",
+    "question": "comprar/yo (condicional)",
     "answer": "compraría",
     "sourceDoc": "molly-2"
   },
@@ -22054,7 +22054,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"tú\" + comprar (condicional)",
+    "question": "comprar/tú (condicional)",
     "answer": "comprarías",
     "sourceDoc": "molly-2"
   },
@@ -22063,7 +22063,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"él\" + comprar (condicional)",
+    "question": "comprar/él (condicional)",
     "answer": "compraría",
     "sourceDoc": "molly-2"
   },
@@ -22072,7 +22072,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"nosotros\" + comprar (condicional)",
+    "question": "comprar/nosotros (condicional)",
     "answer": "compraríamos",
     "sourceDoc": "molly-2"
   },
@@ -22081,7 +22081,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"ustedes\" + comprar (condicional)",
+    "question": "comprar/ustedes (condicional)",
     "answer": "comprarían",
     "sourceDoc": "molly-2"
   },
@@ -22090,7 +22090,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"yo\" + leer (condicional)",
+    "question": "leer/yo (condicional)",
     "answer": "leería",
     "sourceDoc": "molly-2"
   },
@@ -22099,7 +22099,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"tú\" + leer (condicional)",
+    "question": "leer/tú (condicional)",
     "answer": "leerías",
     "sourceDoc": "molly-2"
   },
@@ -22108,7 +22108,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"él\" + leer (condicional)",
+    "question": "leer/él (condicional)",
     "answer": "leería",
     "sourceDoc": "molly-2"
   },
@@ -22117,7 +22117,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"nosotros\" + leer (condicional)",
+    "question": "leer/nosotros (condicional)",
     "answer": "leeríamos",
     "sourceDoc": "molly-2"
   },
@@ -22126,7 +22126,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"ustedes\" + leer (condicional)",
+    "question": "leer/ustedes (condicional)",
     "answer": "leerían",
     "sourceDoc": "molly-2"
   },
@@ -22135,7 +22135,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"yo\" + vivir (condicional)",
+    "question": "vivir/yo (condicional)",
     "answer": "viviría",
     "sourceDoc": "molly-2"
   },
@@ -22144,7 +22144,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"tú\" + vivir (condicional)",
+    "question": "vivir/tú (condicional)",
     "answer": "vivirías",
     "sourceDoc": "molly-2"
   },
@@ -22153,7 +22153,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"él\" + vivir (condicional)",
+    "question": "vivir/él (condicional)",
     "answer": "viviría",
     "sourceDoc": "molly-2"
   },
@@ -22162,7 +22162,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"nosotros\" + vivir (condicional)",
+    "question": "vivir/nosotros (condicional)",
     "answer": "viviríamos",
     "sourceDoc": "molly-2"
   },
@@ -22171,7 +22171,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "\"ustedes\" + vivir (condicional)",
+    "question": "vivir/ustedes (condicional)",
     "answer": "vivirían",
     "sourceDoc": "molly-2"
   },
@@ -22181,7 +22181,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + poder (condicional)",
+    "question": "poder/yo (condicional)",
     "answer": "podría",
     "sourceDoc": "molly-2"
   },
@@ -22191,7 +22191,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + querer (condicional)",
+    "question": "querer/yo (condicional)",
     "answer": "querría",
     "sourceDoc": "molly-2"
   },
@@ -22201,7 +22201,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + caber (condicional)",
+    "question": "caber/yo (condicional)",
     "answer": "cabría",
     "sourceDoc": "molly-2"
   },
@@ -22211,7 +22211,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + saber (condicional)",
+    "question": "saber/yo (condicional)",
     "answer": "sabría",
     "sourceDoc": "molly-2"
   },
@@ -22221,7 +22221,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + haber (condicional)",
+    "question": "haber/yo (condicional)",
     "answer": "habría",
     "sourceDoc": "molly-2"
   },
@@ -22231,7 +22231,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + hacer (condicional)",
+    "question": "hacer/yo (condicional)",
     "answer": "haría",
     "sourceDoc": "molly-2"
   },
@@ -22241,7 +22241,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + poner (condicional)",
+    "question": "poner/yo (condicional)",
     "answer": "pondría",
     "sourceDoc": "molly-2"
   },
@@ -22251,7 +22251,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + tener (condicional)",
+    "question": "tener/yo (condicional)",
     "answer": "tendría",
     "sourceDoc": "molly-2"
   },
@@ -22261,7 +22261,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + valer (condicional)",
+    "question": "valer/yo (condicional)",
     "answer": "valdría",
     "sourceDoc": "molly-2"
   },
@@ -22271,7 +22271,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + salir (condicional)",
+    "question": "salir/yo (condicional)",
     "answer": "saldría",
     "sourceDoc": "molly-2"
   },
@@ -22281,7 +22281,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + venir (condicional)",
+    "question": "venir/yo (condicional)",
     "answer": "vendría",
     "sourceDoc": "molly-2"
   },
@@ -22291,7 +22291,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "\"yo\" + decir (condicional)",
+    "question": "decir/yo (condicional)",
     "answer": "diría",
     "sourceDoc": "molly-2"
   },
@@ -22607,7 +22607,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"yo\" + ir (imperfecto)",
+    "question": "ir/yo (imperfecto)",
     "answer": "iba",
     "sourceDoc": "molly-2"
   },
@@ -22617,7 +22617,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"tú\" + ir (imperfecto)",
+    "question": "ir/tú (imperfecto)",
     "answer": "ibas",
     "sourceDoc": "molly-2"
   },
@@ -22627,7 +22627,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"él\" + ir (imperfecto)",
+    "question": "ir/él (imperfecto)",
     "answer": "iba",
     "sourceDoc": "molly-2"
   },
@@ -22637,7 +22637,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"nosotros\" + ir (imperfecto)",
+    "question": "ir/nosotros (imperfecto)",
     "answer": "íbamos",
     "sourceDoc": "molly-2"
   },
@@ -22647,7 +22647,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"ellos\" + ir (imperfecto)",
+    "question": "ir/ellos (imperfecto)",
     "answer": "iban",
     "sourceDoc": "molly-2"
   },
@@ -22657,7 +22657,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"yo\" + ser (imperfecto)",
+    "question": "ser/yo (imperfecto)",
     "answer": "era",
     "sourceDoc": "molly-2"
   },
@@ -22667,7 +22667,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"tú\" + ser (imperfecto)",
+    "question": "ser/tú (imperfecto)",
     "answer": "eras",
     "sourceDoc": "molly-2"
   },
@@ -22677,7 +22677,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"él\" + ser (imperfecto)",
+    "question": "ser/él (imperfecto)",
     "answer": "era",
     "sourceDoc": "molly-2"
   },
@@ -22687,7 +22687,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"nosotros\" + ser (imperfecto)",
+    "question": "ser/nosotros (imperfecto)",
     "answer": "éramos",
     "sourceDoc": "molly-2"
   },
@@ -22697,7 +22697,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"ellos\" + ser (imperfecto)",
+    "question": "ser/ellos (imperfecto)",
     "answer": "eran",
     "sourceDoc": "molly-2"
   },
@@ -22707,7 +22707,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"yo\" + ver (imperfecto)",
+    "question": "ver/yo (imperfecto)",
     "answer": "veía",
     "sourceDoc": "molly-2"
   },
@@ -22717,7 +22717,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"tú\" + ver (imperfecto)",
+    "question": "ver/tú (imperfecto)",
     "answer": "veías",
     "sourceDoc": "molly-2"
   },
@@ -22727,7 +22727,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"él\" + ver (imperfecto)",
+    "question": "ver/él (imperfecto)",
     "answer": "veía",
     "sourceDoc": "molly-2"
   },
@@ -22737,7 +22737,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"nosotros\" + ver (imperfecto)",
+    "question": "ver/nosotros (imperfecto)",
     "answer": "veíamos",
     "sourceDoc": "molly-2"
   },
@@ -22747,7 +22747,7 @@
       "imperfect",
       "exceptions"
     ],
-    "question": "\"ellos\" + ver (imperfecto)",
+    "question": "ver/ellos (imperfecto)",
     "answer": "veían",
     "sourceDoc": "molly-2"
   },
@@ -22756,7 +22756,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"yo\" + barrer (presente)",
+    "question": "barrer/yo (presente)",
     "answer": "barro (el piso)",
     "sourceDoc": "molly-2"
   },
@@ -22765,7 +22765,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "\"ellos\" + reciclar (presente)",
+    "question": "reciclar/ellos (presente)",
     "answer": "reciclan",
     "sourceDoc": "molly-2"
   },
