@@ -1,17 +1,24 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import Box from '@mui/material/Box'
 import CssBaseline from '@mui/material/CssBaseline'
+import Typography from '@mui/material/Typography'
+import { ThemeProvider } from '@mui/material/styles'
+import useMediaQuery from '@mui/material/useMediaQuery'
 import rawFlashcards from './data/flashcards.json'
 import { FilterBar } from './components/FilterBar'
 import { FlashcardView } from './components/FlashcardView'
 import { EmptyState } from './components/EmptyState'
 import { useDeck } from './hooks/useDeck'
 import { useReviewBacklog } from './hooks/useReviewBacklog'
+import { getTheme } from './theme'
 import { CATEGORIES, type Category, type Flashcard, type MatchMode } from './types'
 
 const cards = rawFlashcards as unknown as Flashcard[]
 
 function App() {
+  const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)')
+  const theme = useMemo(() => getTheme(prefersDarkMode ? 'dark' : 'light'), [prefersDarkMode])
+
   const [activeCategories, setActiveCategories] = useState<Set<Category>>(new Set(CATEGORIES))
   const [reviewFilterActive, setReviewFilterActive] = useState(true)
   const [matchMode, setMatchMode] = useState<MatchMode>('any')
@@ -38,7 +45,7 @@ function App() {
   }
 
   return (
-    <>
+    <ThemeProvider theme={theme}>
       <CssBaseline />
       <Box
         sx={{
@@ -46,6 +53,8 @@ function App() {
           height: '100dvh',
           display: 'flex',
           flexDirection: 'column',
+          bgcolor: 'background.default',
+          color: 'text.primary',
         }}
       >
         <FilterBar
@@ -72,10 +81,12 @@ function App() {
         )}
 
         <Box sx={{ textAlign: 'center', py: 1 }}>
-          <small style={{ color: 'gray' }}>{poolSize} card{poolSize === 1 ? '' : 's'} in this deck</small>
+          <Typography variant="caption" color="text.secondary">
+            {poolSize} card{poolSize === 1 ? '' : 's'} in this deck
+          </Typography>
         </Box>
       </Box>
-    </>
+    </ThemeProvider>
   )
 }
 
