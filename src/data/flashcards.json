@@ -5554,7 +5554,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia compras el periódico?",
+    "question": "Compro el periódico ___ (sometimes).",
     "answer": "Compro el periódico a veces.",
     "sourceDoc": "rebecca-1"
   },
@@ -5563,7 +5563,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia trabajas por la mañana?",
+    "question": "Trabajo por la mañana ___ (every day).",
     "answer": "Trabajo por la mañana todos los días de la semana, todos los días del año.",
     "sourceDoc": "rebecca-1"
   },
@@ -5572,7 +5572,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia visitas la playa?",
+    "question": "Visito la playa ___ (every week).",
     "answer": "Visito la playa cada semana.",
     "sourceDoc": "rebecca-1"
   },
@@ -5581,7 +5581,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia cocinas pizza?",
+    "question": "Cocino pizza ___ (sometimes).",
     "answer": "Cocino pizza algunas veces.",
     "sourceDoc": "rebecca-1"
   },
@@ -5590,7 +5590,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia montas tu bicicleta?",
+    "question": "Monto mi bicicleta ___ (sometimes) en el verano.",
     "answer": "Monto mi bicicleta a veces en el verano.",
     "sourceDoc": "rebecca-1"
   },
@@ -5599,7 +5599,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia caminas por el parque?",
+    "question": "Camino por el parque ___ (every weekend).",
     "answer": "Camino por el parque todos los fines de semana, cada fin de semana.",
     "sourceDoc": "rebecca-1"
   },
@@ -5608,7 +5608,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia hablas con tus amigos?",
+    "question": "Hablo con mis amigos ___ (every day).",
     "answer": "Hablo con mis amigos cada día.",
     "sourceDoc": "rebecca-1"
   },
@@ -5617,7 +5617,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia estudias tus verbos?",
+    "question": "Estudio mis verbos ___ (often).",
     "answer": "Estudio mis verbos a menudo.",
     "sourceDoc": "rebecca-1"
   },
@@ -5626,7 +5626,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Con qué frecuencia escuchas música clásica?",
+    "question": "Escucho música clásica ___ (sometimes).",
     "answer": "Escucho música clásica a veces.",
     "sourceDoc": "rebecca-1"
   },
@@ -5636,7 +5636,7 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "¿Con qué frecuencia miras películas de terror?",
+    "question": "¡___ (never) miro películas de terror!",
     "answer": "¡Nunca miro películas de terror!",
     "sourceDoc": "rebecca-1"
   },
@@ -10301,7 +10301,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Buscas a alguien?",
+    "question": "Responde en negación: ¿Buscas a alguien?",
     "answer": "No busco a nadie.",
     "sourceDoc": "rebecca-2"
   },
@@ -10310,7 +10310,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Necesitas algo?",
+    "question": "Responde en negación: ¿Necesitas algo?",
     "answer": "No necesito nada.",
     "sourceDoc": "rebecca-2"
   },
@@ -10319,7 +10319,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Leíste algo interesante hoy?",
+    "question": "Responde en negación: ¿Leíste algo interesante hoy?",
     "answer": "No leí nada interesante.",
     "sourceDoc": "rebecca-2"
   },
@@ -10328,7 +10328,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Alguien tocó la puerta?",
+    "question": "Responde en negación: ¿Alguien tocó la puerta?",
     "answer": "Nadie tocó la puerta.",
     "sourceDoc": "rebecca-2"
   },
@@ -10337,7 +10337,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Miraste algo extraño en la calle?",
+    "question": "Responde en negación: ¿Miraste algo extraño en la calle?",
     "answer": "No miré nada extraño.",
     "sourceDoc": "rebecca-2"
   },
@@ -10346,7 +10346,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Alguien habla japonés en la clase?",
+    "question": "Responde en negación: ¿Alguien habla japonés en la clase?",
     "answer": "Nadie habla japonés.",
     "sourceDoc": "rebecca-2"
   },
@@ -10355,7 +10355,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Hablaste con alguien durante el almuerzo?",
+    "question": "Responde en negación: ¿Hablaste con alguien durante el almuerzo?",
     "answer": "No hablé con nadie.",
     "sourceDoc": "rebecca-2"
   },
@@ -22462,7 +22462,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Buscas a alguien?",
+    "question": "Responde en negación: ¿Buscas a alguien?",
     "answer": "No, no busco a nadie.",
     "sourceDoc": "molly-2"
   },
@@ -22471,7 +22471,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Leíste algo interesante hoy?",
+    "question": "Responde en negación: ¿Leíste algo interesante hoy?",
     "answer": "No leí nada interesante hoy.",
     "sourceDoc": "molly-2"
   },
@@ -22480,7 +22480,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Alguien tocó la puerta?",
+    "question": "Responde en negación: ¿Alguien tocó la puerta?",
     "answer": "No, nadie tocó la puerta.",
     "sourceDoc": "molly-2"
   },
@@ -22489,7 +22489,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Miraste algo extraño en la calle?",
+    "question": "Responde en negación: ¿Miraste algo extraño en la calle?",
     "answer": "No miré nada extraño en la calle.",
     "sourceDoc": "molly-2"
   },
@@ -22498,7 +22498,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Alguien habla japonés en la clase?",
+    "question": "Responde en negación: ¿Alguien habla japonés en la clase?",
     "answer": "Nadie habla japonés en la clase.",
     "sourceDoc": "molly-2"
   },
@@ -22507,7 +22507,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Hablaste con alguien durante el almuerzo?",
+    "question": "Responde en negación: ¿Hablaste con alguien durante el almuerzo?",
     "answer": "No hablé con nadie durante el almuerzo.",
     "sourceDoc": "molly-2"
   },
