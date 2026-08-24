@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/Users/drebeccahaliburton/Repos/flashcard/.claude/skills/parse-lesson-notes\" && ls -la \"/Users/drebeccahaliburton/Repos/flashcard/.claude/skills\")",
+      "Edit(/.claude/skills/parse-lesson-notes/**)"
+    ],
+    "additionalDirectories": [
+      "/Users/drebeccahaliburton/Repos/flashcard/.claude/skills"
+    ]
+  }
+}
