@@ -17,16 +17,16 @@ function cardMatches(
   matchMode: MatchMode,
   backlog: Set<string>,
 ): boolean {
-  const effectiveTags = new Set<string>(card.categories)
-  if (backlog.has(card.id)) effectiveTags.add('review')
+  // Review is exclusive: once it's on, the deck is only ever the backlog,
+  // regardless of which category chips are also checked or the match mode.
+  if (reviewFilterActive) return backlog.has(card.id)
 
-  const checked: string[] = [...activeCategories]
-  if (reviewFilterActive) checked.push('review')
+  const checked = [...activeCategories]
   if (checked.length === 0) return false
 
   return matchMode === 'any'
-    ? checked.some((tag) => effectiveTags.has(tag))
-    : checked.every((tag) => effectiveTags.has(tag))
+    ? checked.some((tag) => card.categories.includes(tag))
+    : checked.every((tag) => card.categories.includes(tag))
 }
 
 export function useDeck({ cards, activeCategories, reviewFilterActive, matchMode, backlog }: UseDeckArgs) {

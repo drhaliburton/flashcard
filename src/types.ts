@@ -1,5 +1,6 @@
 export type Category =
   | 'vocabulary'
+  | 'numbers'
   | 'present-tense'
   | 'preterite'
   | 'imperfect'
@@ -9,6 +10,7 @@ export type Category =
 
 export const CATEGORIES: Category[] = [
   'vocabulary',
+  'numbers',
   'present-tense',
   'preterite',
   'imperfect',
@@ -19,6 +21,7 @@ export const CATEGORIES: Category[] = [
 
 export const CATEGORY_LABELS: Record<Category, string> = {
   vocabulary: 'Vocabulary',
+  numbers: 'Numbers',
   'present-tense': 'Present Tense',
   preterite: 'Preterite',
   imperfect: 'Imperfect',

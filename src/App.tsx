@@ -20,7 +20,7 @@ function App() {
   const theme = useMemo(() => getTheme(mode), [mode])
 
   const [activeCategories, setActiveCategories] = useState<Set<Category>>(new Set(CATEGORIES))
-  const [reviewFilterActive, setReviewFilterActive] = useState(true)
+  const [reviewFilterActive, setReviewFilterActive] = useState(false)
   const [matchMode, setMatchMode] = useState<MatchMode>('any')
   const { backlog, markForReview, removeFromReview } = useReviewBacklog()
 

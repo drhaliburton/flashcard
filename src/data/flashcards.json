@@ -5284,7 +5284,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mi mamá (poner) la mesa.",
+    "question": "Mi mamá (poner, pretérito) la mesa.",
     "answer": "Mi mamá puso la mesa.",
     "sourceDoc": "rebecca-1"
   },
@@ -5294,7 +5294,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo no (poder) leer el artículo.",
+    "question": "Yo no (poder, pretérito) leer el artículo.",
     "answer": "Yo no pude leer el artículo.",
     "sourceDoc": "rebecca-1"
   },
@@ -5304,7 +5304,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nosotros (saber) la noticia anoche.",
+    "question": "Nosotros (saber, pretérito) la noticia anoche.",
     "answer": "Nosotros supimos la noticia anoche.",
     "sourceDoc": "rebecca-1"
   },
@@ -5314,7 +5314,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "La maleta no (caber) en el taxi.",
+    "question": "La maleta no (caber, pretérito) en el taxi.",
     "answer": "La maleta no cupo en el taxi.",
     "sourceDoc": "rebecca-1"
   },
@@ -5324,7 +5324,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Rosita no (querer) hablar con Martita.",
+    "question": "Rosita no (querer, pretérito) hablar con Martita.",
     "answer": "Rosita no quiso hablar con Martita.",
     "sourceDoc": "rebecca-1"
   },
@@ -5334,7 +5334,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Los muchachos (venir) a tiempo.",
+    "question": "Los muchachos (venir, pretérito) a tiempo.",
     "answer": "Los muchachos vinieron a tiempo.",
     "sourceDoc": "rebecca-1"
   },
@@ -5344,7 +5344,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú no (hacer) el trabajo.",
+    "question": "Tú no (hacer, pretérito) el trabajo.",
     "answer": "Tú no hiciste el trabajo.",
     "sourceDoc": "rebecca-1"
   },
@@ -5354,7 +5354,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú (andar) por el parque anoche.",
+    "question": "Tú (andar, pretérito) por el parque anoche.",
     "answer": "Tú anduviste por el parque anoche.",
     "sourceDoc": "rebecca-1"
   },
@@ -5364,7 +5364,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes (estar) toda la tarde en casa.",
+    "question": "Ustedes (estar, pretérito) toda la tarde en casa.",
     "answer": "Ustedes estuvieron toda la tarde en casa.",
     "sourceDoc": "rebecca-1"
   },
@@ -5374,7 +5374,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "El niño (tener) muchos amigos.",
+    "question": "El niño (tener, pretérito) muchos amigos.",
     "answer": "El niño tuvo muchos amigos.",
     "sourceDoc": "rebecca-1"
   },
@@ -5383,7 +5383,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo estudio español y tú ___ (estudiar) español.",
+    "question": "Yo estudio español y tú ___ (estudiar, presente) español.",
     "answer": "Yo estudio español y tú estudias español.",
     "sourceDoc": "rebecca-1"
   },
@@ -5392,7 +5392,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Ustedes hablan inglés y yo ___ (hablar) inglés.",
+    "question": "Ustedes hablan inglés y yo ___ (hablar, presente) inglés.",
     "answer": "Ustedes hablan inglés y yo hablo inglés.",
     "sourceDoc": "rebecca-1"
   },
@@ -5401,7 +5401,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros trabajamos en el restaurante y Juan ___ (trabajar) en el restaurante.",
+    "question": "Nosotros trabajamos en el restaurante y Juan ___ (trabajar, presente) en el restaurante.",
     "answer": "Nosotros trabajamos en el restaurante y Juan trabaja en el restaurante.",
     "sourceDoc": "rebecca-1"
   },
@@ -5410,7 +5410,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú caminas en el parque y Emily ___ (caminar) en el parque.",
+    "question": "Tú caminas en el parque y Emily ___ (caminar, presente) en el parque.",
     "answer": "Tú caminas en el parque y Emily camina en el parque.",
     "sourceDoc": "rebecca-1"
   },
@@ -5419,7 +5419,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Pedro escucha música pop y nosotros ___ (escuchar) música pop.",
+    "question": "Pedro escucha música pop y nosotros ___ (escuchar, presente) música pop.",
     "answer": "Pedro escucha música pop y nosotros escuchamos música pop.",
     "sourceDoc": "rebecca-1"
   },
@@ -5428,7 +5428,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú miras la televisión y yo ___ (mirar) la televisión.",
+    "question": "Tú miras la televisión y yo ___ (mirar, presente) la televisión.",
     "answer": "Tú miras la televisión y yo miro la televisión.",
     "sourceDoc": "rebecca-1"
   },
@@ -5437,7 +5437,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Pedro (caminar) en el parque.",
+    "question": "Pedro (caminar, presente) en el parque.",
     "answer": "Pedro camina en el parque.",
     "sourceDoc": "rebecca-1"
   },
@@ -5446,7 +5446,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Ustedes (escuchar) música rock.",
+    "question": "Ustedes (escuchar, presente) música rock.",
     "answer": "Ustedes escuchan música rock.",
     "sourceDoc": "rebecca-1"
   },
@@ -5455,7 +5455,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros (estudiar) en la universidad.",
+    "question": "Nosotros (estudiar, presente) en la universidad.",
     "answer": "Nosotros estudiamos en la universidad.",
     "sourceDoc": "rebecca-1"
   },
@@ -5464,7 +5464,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú (trabajar) todo el día.",
+    "question": "Tú (trabajar, presente) todo el día.",
     "answer": "Tú trabajas todo el día.",
     "sourceDoc": "rebecca-1"
   },
@@ -5473,7 +5473,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo no (mirar) este programa.",
+    "question": "Yo no (mirar, presente) este programa.",
     "answer": "Yo no miro este programa.",
     "sourceDoc": "rebecca-1"
   },
@@ -5482,7 +5482,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Las chicas (tomar) agua.",
+    "question": "Las chicas (tomar, presente) agua.",
     "answer": "Las chicas toman agua.",
     "sourceDoc": "rebecca-1"
   },
@@ -5491,7 +5491,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Los maestros (enseñar) el español.",
+    "question": "Los maestros (enseñar, presente) el español.",
     "answer": "Los maestros enseñan el español.",
     "sourceDoc": "rebecca-1"
   },
@@ -5500,7 +5500,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "La maestra (hablar) con Juan.",
+    "question": "La maestra (hablar, presente) con Juan.",
     "answer": "La maestra habla con Juan.",
     "sourceDoc": "rebecca-1"
   },
@@ -5509,7 +5509,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo (estudiar) la lección.",
+    "question": "Yo (estudiar, presente) la lección.",
     "answer": "Yo estudio la lección.",
     "sourceDoc": "rebecca-1"
   },
@@ -5518,7 +5518,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "El estudiante (tomar) la clase.",
+    "question": "El estudiante (tomar, presente) la clase.",
     "answer": "El estudiante toma la clase.",
     "sourceDoc": "rebecca-1"
   },
@@ -5527,7 +5527,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú (escuchar) a la maestra.",
+    "question": "Tú (escuchar, presente) a la maestra.",
     "answer": "Tú escuchas a la maestra.",
     "sourceDoc": "rebecca-1"
   },
@@ -5536,7 +5536,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros (usar) los cuadernos y los lapiceros.",
+    "question": "Nosotros (usar, presente) los cuadernos y los lapiceros.",
     "answer": "Nosotros usamos los cuadernos y los lapiceros.",
     "sourceDoc": "rebecca-1"
   },
@@ -5545,7 +5545,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Ellos (regresar) a casa en la tarde.",
+    "question": "Ellos (regresar, presente) a casa en la tarde.",
     "answer": "Ellos regresan a casa en la tarde.",
     "sourceDoc": "rebecca-1"
   },
@@ -5641,81 +5641,11 @@
     "sourceDoc": "rebecca-1"
   },
   {
-    "id": "rebecca-1--hablas-tu-muchos-idiomas",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Hablas tú muchos idiomas?",
-    "answer": "No, yo no hablo muchos idiomas. Sí, yo hablo inglés y francés.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--trabajas-tu-despues-de-la-clase",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Trabajas tú después de la clase?",
-    "answer": "Sí, yo trabajo después de clases todos los lunes.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--visitas-tu-la-playa-todas-las-semanas",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Visitas tú la playa todas las semanas?",
-    "answer": "Sí, yo visito la playa a menudo.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--caminas-tu-en-el-parque-todos-los-dias",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Caminas tú en el parque todos los días?",
-    "answer": "Sí, camino en el parque muchas veces.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--estudias-tu-en-la-noche",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Estudias tú en la noche?",
-    "answer": "No, no estudio en la noche porque yo quiero estar relajada, quiero relajarme.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--escuchas-tu-la-musica-pop-cada-tarde",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Escuchas tú la música pop cada tarde?",
-    "answer": "No, no escucho la música pop cada tarde, pero sí algunas veces.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--miras-tu-las-noticias-siempre",
-    "categories": [
-      "present-tense",
-      "grammar-expressions"
-    ],
-    "question": "¿Miras tú las noticias siempre?",
-    "answer": "No, yo nunca miro las noticias.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
     "id": "rebecca-1--yo-bebo-cafe-y-tu-beber-cafe",
     "categories": [
       "present-tense"
     ],
-    "question": "Yo bebo café y tú ___ (beber) café.",
+    "question": "Yo bebo café y tú ___ (beber, presente) café.",
     "answer": "Yo bebo café y tú bebes café.",
     "sourceDoc": "rebecca-1"
   },
@@ -5724,7 +5654,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Ustedes leen la historia y él ___ (leer) la historia.",
+    "question": "Ustedes leen la historia y él ___ (leer, presente) la historia.",
     "answer": "Ustedes leen la historia y él lee la historia.",
     "sourceDoc": "rebecca-1"
   },
@@ -5733,7 +5663,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros vendemos pan y Rosa ___ (vender) pan.",
+    "question": "Nosotros vendemos pan y Rosa ___ (vender, presente) pan.",
     "answer": "Nosotros vendemos pan y Rosa vende pan.",
     "sourceDoc": "rebecca-1"
   },
@@ -5742,7 +5672,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Las chicas corren en el parque y yo ___ (correr) en el parque.",
+    "question": "Las chicas corren en el parque y yo ___ (correr, presente) en el parque.",
     "answer": "Las chicas corren en el parque y yo corro en el parque.",
     "sourceDoc": "rebecca-1"
   },
@@ -5751,7 +5681,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú comprendes la lección y nosotros ___ (comprender) la lección.",
+    "question": "Tú comprendes la lección y nosotros ___ (comprender, presente) la lección.",
     "answer": "Tú comprendes la lección y nosotros comprendemos la lección.",
     "sourceDoc": "rebecca-1"
   },
@@ -5760,7 +5690,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Los chicos ___ (correr) cada día.",
+    "question": "Los chicos ___ (correr, presente) cada día.",
     "answer": "corren",
     "sourceDoc": "rebecca-1"
   },
@@ -5769,7 +5699,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú ___ (beber) jugo de naranja.",
+    "question": "Tú ___ (beber, presente) jugo de naranja.",
     "answer": "bebes",
     "sourceDoc": "rebecca-1"
   },
@@ -5778,7 +5708,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Pedro ___ (aprender) los verbos.",
+    "question": "Pedro ___ (aprender, presente) los verbos.",
     "answer": "aprende",
     "sourceDoc": "rebecca-1"
   },
@@ -5787,7 +5717,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo ___ (responder) las preguntas.",
+    "question": "Yo ___ (responder, presente) las preguntas.",
     "answer": "respondo",
     "sourceDoc": "rebecca-1"
   },
@@ -5796,7 +5726,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros ___ (comer) el desayuno.",
+    "question": "Nosotros ___ (comer, presente) el desayuno.",
     "answer": "comemos",
     "sourceDoc": "rebecca-1"
   },
@@ -5805,7 +5735,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "La maestra (dividir) la clase en grupos.",
+    "question": "La maestra (dividir, presente) la clase en grupos.",
     "answer": "La maestra divide la clase en grupos.",
     "sourceDoc": "rebecca-1"
   },
@@ -5814,7 +5744,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo (escribir) en la pizarra.",
+    "question": "Yo (escribir, presente) en la pizarra.",
     "answer": "Yo escribo en la pizarra.",
     "sourceDoc": "rebecca-1"
   },
@@ -5823,7 +5753,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros (asistir) a una conferencia.",
+    "question": "Nosotros (asistir, presente) a una conferencia.",
     "answer": "Nosotros asistimos a una conferencia.",
     "sourceDoc": "rebecca-1"
   },
@@ -5832,7 +5762,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Rafael (decidir) ser cómico en la clase.",
+    "question": "Rafael (decidir, presente) ser cómico en la clase.",
     "answer": "Rafael decide ser cómico en la clase.",
     "sourceDoc": "rebecca-1"
   },
@@ -5841,7 +5771,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Todos los estudiantes (subir) al laboratorio.",
+    "question": "Todos los estudiantes (subir, presente) al laboratorio.",
     "answer": "Todos los estudiantes suben al laboratorio.",
     "sourceDoc": "rebecca-1"
   },
@@ -5850,7 +5780,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú y yo (recibir) buenas notas.",
+    "question": "Tú y yo (recibir, presente) buenas notas.",
     "answer": "Nosotros recibimos buenas notas.",
     "sourceDoc": "rebecca-1"
   },
@@ -5859,7 +5789,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "El equipo de fútbol (partir) para México hoy.",
+    "question": "El equipo de fútbol (partir, presente) para México hoy.",
     "answer": "El equipo de fútbol parte para México hoy.",
     "sourceDoc": "rebecca-1"
   },
@@ -5868,7 +5798,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Mis amigos (decidir) visitar Tenochtitlán.",
+    "question": "Mis amigos (decidir, presente) visitar Tenochtitlán.",
     "answer": "Mis amigos deciden visitar Tenochtitlán.",
     "sourceDoc": "rebecca-1"
   },
@@ -5877,7 +5807,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "El autobús (partir) a las nueve y media.",
+    "question": "El autobús (partir, presente) a las nueve y media.",
     "answer": "El autobús parte a las nueve y media.",
     "sourceDoc": "rebecca-1"
   },
@@ -5895,7 +5825,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Los chicos y yo (subir) a las pirámides.",
+    "question": "Los chicos y yo (subir, presente) a las pirámides.",
     "answer": "Los chicos y yo subimos a las pirámides.",
     "sourceDoc": "rebecca-1"
   },
@@ -5904,7 +5834,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "El guía (permitir) cámaras en las pirámides.",
+    "question": "El guía (permitir, presente) cámaras en las pirámides.",
     "answer": "El guía permite cámaras en las pirámides.",
     "sourceDoc": "rebecca-1"
   },
@@ -5913,7 +5843,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo (descubrir) muchas cosas interesantes.",
+    "question": "Yo (descubrir, presente) muchas cosas interesantes.",
     "answer": "Yo descubro muchas cosas interesantes.",
     "sourceDoc": "rebecca-1"
   },
@@ -5922,7 +5852,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú (escribir) muchas tarjetas postales.",
+    "question": "Tú (escribir, presente) muchas tarjetas postales.",
     "answer": "Tú escribes muchas tarjetas postales.",
     "sourceDoc": "rebecca-1"
   },
@@ -5931,7 +5861,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Ustedes (describir) la experiencia a los primos.",
+    "question": "Ustedes (describir, presente) la experiencia a los primos.",
     "answer": "Ustedes describen la experiencia a los primos.",
     "sourceDoc": "rebecca-1"
   },
@@ -5940,7 +5870,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Mi amigo Tomás vive en el campo. Nosotros (vivir) en una ciudad grande. ¿Dónde (vivir) tus primos?",
+    "question": "Mi amigo Tomás vive en el campo. Nosotros (vivir, presente) en una ciudad grande. ¿Dónde (vivir, presente) tus primos?",
     "answer": "Mi amigo Tomás vive en el campo. Nosotros vivimos en una ciudad grande. ¿Dónde viven tus primos?",
     "sourceDoc": "rebecca-1"
   },
@@ -5949,7 +5879,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Este señor no comprende el español. Tú y yo (comprender) el español y el italiano. ¿Qué lengua (comprender) ellas?",
+    "question": "Este señor no comprende el español. Tú y yo (comprender, presente) el español y el italiano. ¿Qué lengua (comprender, presente) ellas?",
     "answer": "Este señor no comprende el español. Tú y yo comprendemos el español y el italiano. ¿Qué lengua comprenden ellas?",
     "sourceDoc": "rebecca-1"
   },
@@ -5958,7 +5888,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Pedro y Juan trabajan en una cadena de restaurantes. Yo (trabajar) en una compañía internacional. ¿Dónde (trabajar) tú?",
+    "question": "Pedro y Juan trabajan en una cadena de restaurantes. Yo (trabajar, presente) en una compañía internacional. ¿Dónde (trabajar, presente) tú?",
     "answer": "Pedro y Juan trabajan en una cadena de restaurantes. Yo trabajo en una compañía internacional. ¿Dónde trabajas tú?",
     "sourceDoc": "rebecca-1"
   },
@@ -5967,7 +5897,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿(Responder) tú bien? Sí, yo siempre (responder) bien. Alberto no (responder) en voz alta.",
+    "question": "¿(Responder, presente) tú bien? Sí, yo siempre (responder, presente) bien. Alberto no (responder, presente) en voz alta.",
     "answer": "¿Respondes tú bien? Sí, yo siempre respondo bien. Alberto no responde en voz alta.",
     "sourceDoc": "rebecca-1"
   },
@@ -5976,7 +5906,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿(Recibir) tú muchos regalos? Nosotros no (recibir) regalos en navidad. Pero yo (recibir) regalos en mi cumpleaños.",
+    "question": "¿(Recibir, presente) tú muchos regalos? Nosotros no (recibir, presente) regalos en navidad. Pero yo (recibir, presente) regalos en mi cumpleaños.",
     "answer": "¿Recibes tú muchos regalos? Nosotros no recibimos regalos en navidad. Pero yo recibo regalos en mi cumpleaños.",
     "sourceDoc": "rebecca-1"
   },
@@ -5985,7 +5915,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Mi madre lee el periódico en casa. Yo no (leer) el periódico en la escuela. ¿(Leer) tú el periódico los domingos?",
+    "question": "Mi madre lee el periódico en casa. Yo no (leer, presente) el periódico en la escuela. ¿(Leer, presente) tú el periódico los domingos?",
     "answer": "Mi madre lee el periódico en casa. Yo no leo el periódico en la escuela. ¿Lees tú el periódico los domingos?",
     "sourceDoc": "rebecca-1"
   },
@@ -5994,7 +5924,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo (comprar) una tarjeta en la tienda.",
+    "question": "Yo (comprar, presente) una tarjeta en la tienda.",
     "answer": "Yo compro una tarjeta en la tienda.",
     "sourceDoc": "rebecca-1"
   },
@@ -6003,7 +5933,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Los tíos (mandar) flores.",
+    "question": "Los tíos (mandar, presente) flores.",
     "answer": "Los tíos mandan flores.",
     "sourceDoc": "rebecca-1"
   },
@@ -6012,7 +5942,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "La madre (preparar) un pastel.",
+    "question": "La madre (preparar, presente) un pastel.",
     "answer": "La madre prepara un pastel.",
     "sourceDoc": "rebecca-1"
   },
@@ -6021,7 +5951,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros (buscar) un regalo.",
+    "question": "Nosotros (buscar, presente) un regalo.",
     "answer": "Nosotros buscamos un regalo.",
     "sourceDoc": "rebecca-1"
   },
@@ -6030,7 +5960,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo (abrir) las ventanas.",
+    "question": "Yo (abrir, presente) las ventanas.",
     "answer": "Yo abro las ventanas.",
     "sourceDoc": "rebecca-1"
   },
@@ -6039,7 +5969,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "María no (correr) en el patio.",
+    "question": "María no (correr, presente) en el patio.",
     "answer": "María no corre en el patio.",
     "sourceDoc": "rebecca-1"
   },
@@ -6048,7 +5978,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Los alumnos (comer) en la cafetería.",
+    "question": "Los alumnos (comer, presente) en la cafetería.",
     "answer": "Los alumnos comen en la cafetería.",
     "sourceDoc": "rebecca-1"
   },
@@ -6057,7 +5987,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Tú (recibir) buenos informes.",
+    "question": "Tú (recibir, presente) buenos informes.",
     "answer": "Tú recibes buenos informes.",
     "sourceDoc": "rebecca-1"
   },
@@ -6066,7 +5996,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros (aprender) la lección.",
+    "question": "Nosotros (aprender, presente) la lección.",
     "answer": "Nosotros aprendemos la lección.",
     "sourceDoc": "rebecca-1"
   },
@@ -6075,7 +6005,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "La maestra y yo (vivir) cerca de la escuela.",
+    "question": "La maestra y yo (vivir, presente) cerca de la escuela.",
     "answer": "La maestra y yo vivimos cerca de la escuela.",
     "sourceDoc": "rebecca-1"
   },
@@ -6085,7 +6015,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Nosotros (estar) en Los Estados Unidos.",
+    "question": "Nosotros (estar, presente) en Los Estados Unidos.",
     "answer": "Nosotros estamos en Los Estados Unidos.",
     "sourceDoc": "rebecca-1"
   },
@@ -6095,7 +6025,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Ellos (dar) el boleto a su amigo.",
+    "question": "Ellos (dar, presente) el boleto a su amigo.",
     "answer": "Ellos dan el boleto a su amigo.",
     "sourceDoc": "rebecca-1"
   },
@@ -6115,7 +6045,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "¿Por qué tú (estar) con Marta?",
+    "question": "¿Por qué tú (estar, presente) con Marta?",
     "answer": "¿Por qué tú estás con Marta?",
     "sourceDoc": "rebecca-1"
   },
@@ -6135,7 +6065,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "¿Cómo (estar) ustedes hoy?",
+    "question": "¿Cómo (estar, presente) ustedes hoy?",
     "answer": "¿Cómo están ustedes hoy?",
     "sourceDoc": "rebecca-1"
   },
@@ -6145,7 +6075,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Yo (dar) dinero a la anciana.",
+    "question": "Yo (dar, presente) dinero a la anciana.",
     "answer": "Yo doy dinero a la anciana.",
     "sourceDoc": "rebecca-1"
   },
@@ -6350,15 +6280,6 @@
     "sourceDoc": "rebecca-1"
   },
   {
-    "id": "rebecca-1--tu-pais-tiene-una-celebracion-similar",
-    "categories": [
-      "present-tense"
-    ],
-    "question": "¿Tu país tiene una celebración similar?",
-    "answer": "No, nosotros no tenemos un día para celebrar a los muertos, ¡pero creo que lo necesitamos!",
-    "sourceDoc": "rebecca-1"
-  },
-  {
     "id": "rebecca-1--ahora-estoy-en-el-banco-pero-mas-tarde-voy-a-teatr",
     "categories": [
       "present-tense",
@@ -6514,7 +6435,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Yo (estar) bien hoy.",
+    "question": "Yo (estar, presente) bien hoy.",
     "answer": "Yo estoy bien hoy.",
     "sourceDoc": "rebecca-1"
   },
@@ -6524,7 +6445,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Ustedes (estar) felices.",
+    "question": "Ustedes (estar, presente) felices.",
     "answer": "Ustedes están felices.",
     "sourceDoc": "rebecca-1"
   },
@@ -6534,7 +6455,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Tú (estar) triste ahora.",
+    "question": "Tú (estar, presente) triste ahora.",
     "answer": "Tú estás triste ahora.",
     "sourceDoc": "rebecca-1"
   },
@@ -6544,7 +6465,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Nosotros (estar) enfermos hoy.",
+    "question": "Nosotros (estar, presente) enfermos hoy.",
     "answer": "Nosotros estamos enfermos hoy.",
     "sourceDoc": "rebecca-1"
   },
@@ -6554,7 +6475,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Marta (estar) mal ahora.",
+    "question": "Marta (estar, presente) mal ahora.",
     "answer": "Marta está mal ahora.",
     "sourceDoc": "rebecca-1"
   },
@@ -6564,7 +6485,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Usted (estar) cansado hoy.",
+    "question": "Usted (estar, presente) cansado hoy.",
     "answer": "Usted está cansado hoy.",
     "sourceDoc": "rebecca-1"
   },
@@ -6574,7 +6495,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Juan y Marta (estar) emocionados ahora.",
+    "question": "Juan y Marta (estar, presente) emocionados ahora.",
     "answer": "Juan y Marta están emocionados ahora.",
     "sourceDoc": "rebecca-1"
   },
@@ -6644,7 +6565,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Yo (hacer) las tortillas para almorzar.",
+    "question": "Yo (hacer, presente) las tortillas para almorzar.",
     "answer": "Yo hago las tortillas para almorzar.",
     "sourceDoc": "rebecca-1"
   },
@@ -6654,7 +6575,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Tú (poner) la silla cerca de la mesa.",
+    "question": "Tú (poner, presente) la silla cerca de la mesa.",
     "answer": "Tú pones la silla cerca de la mesa.",
     "sourceDoc": "rebecca-1"
   },
@@ -6664,7 +6585,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Los chicos (traer) sus libros.",
+    "question": "Los chicos (traer, presente) sus libros.",
     "answer": "Los chicos traen sus libros.",
     "sourceDoc": "rebecca-1"
   },
@@ -6674,7 +6595,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Mis amigos y yo (salir) al jardín.",
+    "question": "Mis amigos y yo (salir, presente) al jardín.",
     "answer": "Mis amigos y yo salimos al jardín.",
     "sourceDoc": "rebecca-1"
   },
@@ -6684,7 +6605,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Los libros (valer) mucho dinero.",
+    "question": "Los libros (valer, presente) mucho dinero.",
     "answer": "Los libros valen mucho dinero.",
     "sourceDoc": "rebecca-1"
   },
@@ -6694,7 +6615,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Las hojas de los árboles (caer) en el otoño.",
+    "question": "Las hojas de los árboles (caer, presente) en el otoño.",
     "answer": "Las hojas de los árboles caen en el otoño.",
     "sourceDoc": "rebecca-1"
   },
@@ -6764,7 +6685,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Tú traes la bolsa y yo ___ (poner) las frutas.",
+    "question": "Tú traes la bolsa y yo ___ (poner, presente) las frutas.",
     "answer": "Tú traes la bolsa y yo pongo las frutas.",
     "sourceDoc": "rebecca-1"
   },
@@ -6774,7 +6695,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Nosotros hacemos la ensalada y Marta ___ (traer) las papas.",
+    "question": "Nosotros hacemos la ensalada y Marta ___ (traer, presente) las papas.",
     "answer": "Nosotros hacemos la ensalada y Marta trae las papas.",
     "sourceDoc": "rebecca-1"
   },
@@ -6784,7 +6705,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Yo pongo las flores en la mesa y ustedes ___ (caer) en la piscina.",
+    "question": "Yo pongo las flores en la mesa y ustedes ___ (caer, presente) en la piscina.",
     "answer": "Yo pongo las flores en la mesa y ustedes caen en la piscina.",
     "sourceDoc": "rebecca-1"
   },
@@ -6794,7 +6715,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Las chicas salen pronto y yo ___ (salir) después.",
+    "question": "Las chicas salen pronto y yo ___ (salir, presente) después.",
     "answer": "Las chicas salen pronto y yo salgo después.",
     "sourceDoc": "rebecca-1"
   },
@@ -6804,7 +6725,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Las perlas valen mucho y el diamante ___ (valer) más.",
+    "question": "Las perlas valen mucho y el diamante ___ (valer, presente) más.",
     "answer": "Las perlas valen mucho y el diamante vale más.",
     "sourceDoc": "rebecca-1"
   },
@@ -6814,7 +6735,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Juanito cae en la piscina y nosotros ___ (caer) también.",
+    "question": "Juanito cae en la piscina y nosotros ___ (caer, presente) también.",
     "answer": "Juanito cae en la piscina y nosotros caemos también.",
     "sourceDoc": "rebecca-1"
   },
@@ -6824,7 +6745,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Ustedes (tener) un perrito blanco.",
+    "question": "Ustedes (tener, presente) un perrito blanco.",
     "answer": "Ustedes tienen un perrito blanco.",
     "sourceDoc": "rebecca-1"
   },
@@ -6834,7 +6755,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Yo (tener) dos hermanos.",
+    "question": "Yo (tener, presente) dos hermanos.",
     "answer": "Yo tengo dos hermanos.",
     "sourceDoc": "rebecca-1"
   },
@@ -6844,7 +6765,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Mis hermanos (tener) una bicicleta.",
+    "question": "Mis hermanos (tener, presente) una bicicleta.",
     "answer": "Mis hermanos tienen una bicicleta.",
     "sourceDoc": "rebecca-1"
   },
@@ -6854,7 +6775,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Las chicas y yo (tener) una cita hoy.",
+    "question": "Las chicas y yo (tener, presente) una cita hoy.",
     "answer": "Las chicas y yo tenemos una cita hoy.",
     "sourceDoc": "rebecca-1"
   },
@@ -6864,7 +6785,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Mi papá (tener) un carro nuevo.",
+    "question": "Mi papá (tener, presente) un carro nuevo.",
     "answer": "Mi papá tiene un carro nuevo.",
     "sourceDoc": "rebecca-1"
   },
@@ -6874,7 +6795,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Tú no (tener) la tarea.",
+    "question": "Tú no (tener, presente) la tarea.",
     "answer": "Tú no tienes la tarea.",
     "sourceDoc": "rebecca-1"
   },
@@ -6884,7 +6805,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Pepe (tener) muy buenas notas.",
+    "question": "Pepe (tener, presente) muy buenas notas.",
     "answer": "Pepe tiene muy buenas notas.",
     "sourceDoc": "rebecca-1"
   },
@@ -6894,7 +6815,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Usted no (tener) muchos amigos.",
+    "question": "Usted no (tener, presente) muchos amigos.",
     "answer": "Usted no tiene muchos amigos.",
     "sourceDoc": "rebecca-1"
   },
@@ -6959,63 +6880,13 @@
     "sourceDoc": "rebecca-1"
   },
   {
-    "id": "rebecca-1--cuantos-hermanos-tienes",
-    "categories": [
-      "present-tense",
-      "exceptions"
-    ],
-    "question": "¿Cuántos hermanos tienes?",
-    "answer": "Solo tengo un hermano.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--cuantos-anos-tienen-tus-hermanos",
-    "categories": [
-      "present-tense",
-      "exceptions"
-    ],
-    "question": "¿Cuántos años tienen tus hermanos?",
-    "answer": "Mi hermano tiene treinta y siete años.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--tienes-abuelitos",
-    "categories": [
-      "present-tense",
-      "exceptions"
-    ],
-    "question": "¿Tienes abuelitos?",
-    "answer": "Todos mis abuelitos están muertos.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--tienes-algun-primo-favorito",
-    "categories": [
-      "present-tense",
-      "exceptions"
-    ],
-    "question": "¿Tienes algún primo favorito?",
-    "answer": "No tengo un primo favorito, todos son amables.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--cuantos-tios-tienes",
-    "categories": [
-      "present-tense",
-      "exceptions"
-    ],
-    "question": "¿Cuántos tíos tienes?",
-    "answer": "Tengo cinco tías, y muchos tíos.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
     "id": "rebecca-1--carlitos-tu-tienes-que-lavar-los-platos",
     "categories": [
       "exceptions",
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "Carlitos, tú (tener) que lavar los platos.",
+    "question": "Carlitos, tú (tener, presente) que lavar los platos.",
     "answer": "Carlitos, tú tienes que lavar los platos.",
     "sourceDoc": "rebecca-1"
   },
@@ -7026,7 +6897,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "Niños, ustedes (tener) que recoger la ropa.",
+    "question": "Niños, ustedes (tener, presente) que recoger la ropa.",
     "answer": "Niños, ustedes tienen que recoger la ropa.",
     "sourceDoc": "rebecca-1"
   },
@@ -7037,7 +6908,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "Esposo, tú (tener) que ordenar la cama.",
+    "question": "Esposo, tú (tener, presente) que ordenar la cama.",
     "answer": "Esposo, tú tienes que ordenar la cama.",
     "sourceDoc": "rebecca-1"
   },
@@ -7048,7 +6919,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "Yo (tener) que hacer la tarea.",
+    "question": "Yo (tener, presente) que hacer la tarea.",
     "answer": "Yo tengo que hacer la tarea.",
     "sourceDoc": "rebecca-1"
   },
@@ -7059,7 +6930,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "Niños, ustedes (tener) que ayudar a los otros niños.",
+    "question": "Niños, ustedes (tener, presente) que ayudar a los otros niños.",
     "answer": "Niños, ustedes tienen que ayudar a los otros niños.",
     "sourceDoc": "rebecca-1"
   },
@@ -7070,7 +6941,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "(Tener) que hacer la tarea.",
+    "question": "(Tener, presente) que hacer la tarea.",
     "answer": "Tengo que hacer la tarea.",
     "sourceDoc": "rebecca-1"
   },
@@ -7081,7 +6952,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "(Tener) que llamar a mi mamá.",
+    "question": "(Tener, presente) que llamar a mi mamá.",
     "answer": "Tengo que llamar a mi mamá.",
     "sourceDoc": "rebecca-1"
   },
@@ -7092,7 +6963,7 @@
       "grammar-expressions",
       "present-tense"
     ],
-    "question": "(Tener) que ir de compras.",
+    "question": "(Tener, presente) que ir de compras.",
     "answer": "Tengo que ir de compras.",
     "sourceDoc": "rebecca-1"
   },
@@ -7358,7 +7229,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú trabajas ___.",
+    "question": "Tú trabajas ___ (a lot).",
     "answer": "Tú trabajas mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7367,7 +7238,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros viajamos ___.",
+    "question": "Nosotros viajamos ___ (a lot).",
     "answer": "Nosotros viajamos mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7376,7 +7247,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las chicas hablan ___.",
+    "question": "Las chicas hablan ___ (a lot).",
     "answer": "Las chicas hablan mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7385,7 +7256,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted no camina ___.",
+    "question": "Usted no camina ___ (a lot).",
     "answer": "Usted no camina mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7394,7 +7265,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo no comprendo ___.",
+    "question": "Yo no comprendo ___ (a lot).",
     "answer": "Yo no comprendo mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7403,7 +7274,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú sabes ___.",
+    "question": "Tú sabes ___ (a lot).",
     "answer": "Tú sabes mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7601,7 +7472,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ricardo es ___ inteligente que Luisa.",
+    "question": "Ricardo es ___ (less) inteligente que Luisa.",
     "answer": "Ricardo es menos inteligente que Luisa.",
     "sourceDoc": "rebecca-1"
   },
@@ -7610,7 +7481,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Sus padres tienen ___ tiempo libre que los niños.",
+    "question": "Sus padres tienen ___ (less) tiempo libre que los niños.",
     "answer": "Sus padres tienen menos tiempo libre que los niños.",
     "sourceDoc": "rebecca-1"
   },
@@ -7619,7 +7490,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Estudiamos ___ que ellos.",
+    "question": "Estudiamos ___ (more) que ellos.",
     "answer": "Estudiamos más que ellos.",
     "sourceDoc": "rebecca-1"
   },
@@ -7628,7 +7499,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros comemos ___ frutas que ella.",
+    "question": "Nosotros comemos ___ (more) frutas que ella.",
     "answer": "Nosotros comemos más frutas que ella.",
     "sourceDoc": "rebecca-1"
   },
@@ -7637,7 +7508,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Eres ___ amable conmigo que Lucas.",
+    "question": "Eres ___ (less) amable conmigo que Lucas.",
     "answer": "Eres menos amable conmigo que Lucas.",
     "sourceDoc": "rebecca-1"
   },
@@ -7646,7 +7517,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi hermano trabaja ___ que tú.",
+    "question": "Mi hermano trabaja ___ (more) que tú.",
     "answer": "Mi hermano trabaja más que tú.",
     "sourceDoc": "rebecca-1"
   },
@@ -7655,7 +7526,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las tartas de mi madre son ___ sabrosas que las que venden en la pastelería.",
+    "question": "Las tartas de mi madre son ___ (more) sabrosas que las que venden en la pastelería.",
     "answer": "Las tartas de mi madre son más sabrosas que las que venden en la pastelería.",
     "sourceDoc": "rebecca-1"
   },
@@ -7664,7 +7535,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Creo que hoy estoy ___ contento que ayer.",
+    "question": "Creo que hoy estoy ___ (more) contento que ayer.",
     "answer": "Creo que hoy estoy más contento que ayer.",
     "sourceDoc": "rebecca-1"
   },
@@ -7673,7 +7544,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Estos ejercicios son ___ complicados que los ejercicios con los verbos.",
+    "question": "Estos ejercicios son ___ (less) complicados que los ejercicios con los verbos.",
     "answer": "Estos ejercicios son menos complicados que los ejercicios con los verbos.",
     "sourceDoc": "rebecca-1"
   },
@@ -7682,7 +7553,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú viajas ___ que yo.",
+    "question": "Tú viajas ___ (more) que yo.",
     "answer": "Tú viajas más que yo.",
     "sourceDoc": "rebecca-1"
   },
@@ -7691,7 +7562,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis primos siempre juegan fútbol ___ que nosotros.",
+    "question": "Mis primos siempre juegan fútbol ___ (more) que nosotros.",
     "answer": "Mis primos siempre juegan fútbol más que nosotros.",
     "sourceDoc": "rebecca-1"
   },
@@ -7700,7 +7571,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "El hipopótamo del zoológico es ___ gordo que el elefante.",
+    "question": "El hipopótamo del zoológico es ___ (less) gordo que el elefante.",
     "answer": "El hipopótamo del zoológico es menos gordo que el elefante.",
     "sourceDoc": "rebecca-1"
   },
@@ -7709,7 +7580,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "La profesora de matemáticas enseña ___ que la profesora de literatura.",
+    "question": "La profesora de matemáticas enseña ___ (more) que la profesora de literatura.",
     "answer": "La profesora de matemáticas enseña más que la profesora de literatura.",
     "sourceDoc": "rebecca-1"
   },
@@ -7718,7 +7589,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Creo que Praga es ___ bonita que Milán.",
+    "question": "Creo que Praga es ___ (more) bonita que Milán.",
     "answer": "Creo que Praga es más bonita que Milán.",
     "sourceDoc": "rebecca-1"
   },
@@ -7727,7 +7598,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo pienso que Madrid es ___ bonita que Praga.",
+    "question": "Yo pienso que Madrid es ___ (less) bonita que Praga.",
     "answer": "Yo pienso que Madrid es menos bonita que Praga.",
     "sourceDoc": "rebecca-1"
   },
@@ -7736,7 +7607,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi hermano tiene ___ amigos que Juanito.",
+    "question": "Mi hermano tiene ___ (more) amigos que Juanito.",
     "answer": "Mi hermano tiene más amigos que Juanito.",
     "sourceDoc": "rebecca-1"
   },
@@ -8213,7 +8084,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Nosotros (visitar) la playa. (pretérito)",
+    "question": "Nosotros (visitar, pretérito) la playa. (pretérito)",
     "answer": "Nosotros visitamos la playa.",
     "sourceDoc": "rebecca-1"
   },
@@ -8267,7 +8138,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Anoche (regresar) de mi trabajo.",
+    "question": "Anoche (regresar, pretérito) de mi trabajo.",
     "answer": "Anoche regresé de mi trabajo.",
     "sourceDoc": "rebecca-1"
   },
@@ -8276,7 +8147,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "La semana pasada (visitar) España con mi familia.",
+    "question": "La semana pasada (visitar, pretérito) España con mi familia.",
     "answer": "La semana pasada visité España con mi familia.",
     "sourceDoc": "rebecca-1"
   },
@@ -8285,7 +8156,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Ayer (hablar) con mis amigas en un café.",
+    "question": "Ayer (hablar, pretérito) con mis amigas en un café.",
     "answer": "Ayer hablé con mis amigas en un café.",
     "sourceDoc": "rebecca-1"
   },
@@ -8294,7 +8165,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "El año pasado (comer) comida de India.",
+    "question": "El año pasado (comer, pretérito) comida de India.",
     "answer": "El año pasado comí comida de India.",
     "sourceDoc": "rebecca-1"
   },
@@ -8303,7 +8174,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "La semana pasada le (escribir) una carta a una amiga.",
+    "question": "La semana pasada le (escribir, pretérito) una carta a una amiga.",
     "answer": "La semana pasada le escribí una carta a una amiga.",
     "sourceDoc": "rebecca-1"
   },
@@ -8312,80 +8183,8 @@
     "categories": [
       "preterite"
     ],
-    "question": "Hace dos semanas (recibir) un regalo costoso.",
+    "question": "Hace dos semanas (recibir, pretérito) un regalo costoso.",
     "answer": "Hace dos semanas recibí un regalo costoso.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--que-programa-miraste-anoche",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Qué programa miraste anoche?",
-    "answer": "Miré Below Deck.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--que-cancion-escuchaste-el-viernes-pasado",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Qué canción escuchaste el viernes pasado?",
-    "answer": "Escuché la música de Megan Thee Stallion.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--a-que-hora-terminaste-tu-trabajo-ayer",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿A qué hora terminaste tu trabajo ayer?",
-    "answer": "Terminé el trabajo a las cinco.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--donde-escribiste-las-notas-hoy",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Dónde escribiste las notas hoy?",
-    "answer": "Escribí las notas en mi computadora.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--que-bebiste-anoche-en-la-cena",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Qué bebiste anoche en la cena?",
-    "answer": "Bebí agua.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--cuantas-veces-tomaste-cafe-anoche",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Cuántas veces tomaste café anoche?",
-    "answer": "No tomé nada de café anoche.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--donde-caminaste-la-semana-pasada",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Dónde caminaste la semana pasada?",
-    "answer": "Caminé en el parque con Murphy.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--por-cuanto-tiempo-estudiaste-los-verbos-ayer",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Por cuánto tiempo estudiaste los verbos ayer?",
-    "answer": "Estudié por dos horas.",
     "sourceDoc": "rebecca-1"
   },
   {
@@ -8504,7 +8303,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Los muchachos vieron una película de horror y Pedro ___ (ver) una película.",
+    "question": "Los muchachos vieron una película de horror y Pedro ___ (ver, pretérito) una película.",
     "answer": "Los muchachos vieron una película de horror y Pedro vio una película.",
     "sourceDoc": "rebecca-1"
   },
@@ -8514,7 +8313,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú diste los libros a la profesora y usted ___ (dar) los libros.",
+    "question": "Tú diste los libros a la profesora y usted ___ (dar, pretérito) los libros.",
     "answer": "Tú diste los libros a la profesora y usted dio los libros.",
     "sourceDoc": "rebecca-1"
   },
@@ -8524,7 +8323,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Usted fue muy simpático y nosotros ___ (ser) muy simpáticos.",
+    "question": "Usted fue muy simpático y nosotros ___ (ser, pretérito) muy simpáticos.",
     "answer": "Usted fue muy simpático y nosotros fuimos muy simpáticos.",
     "sourceDoc": "rebecca-1"
   },
@@ -8534,7 +8333,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mi mamá vio una telenovela y yo ___ (ver) una telenovela.",
+    "question": "Mi mamá vio una telenovela y yo ___ (ver, pretérito) una telenovela.",
     "answer": "Mi mamá vio una telenovela y yo vi una telenovela.",
     "sourceDoc": "rebecca-1"
   },
@@ -8544,7 +8343,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Juan fue chef del restaurante y tú ___ (ser) chef.",
+    "question": "Juan fue chef del restaurante y tú ___ (ser, pretérito) chef.",
     "answer": "Juan fue chef del restaurante y tú fuiste chef.",
     "sourceDoc": "rebecca-1"
   },
@@ -8813,72 +8612,12 @@
     "sourceDoc": "rebecca-1"
   },
   {
-    "id": "rebecca-1--a-que-hora-viniste-a-la-fiesta",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿A qué hora viniste a la fiesta?",
-    "answer": "Vine a las ocho.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--quienes-estuvieron-en-la-fiesta-durante-la-mediano",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Quiénes estuvieron en la fiesta durante la medianoche?",
-    "answer": "Todas nuestras amigas y yo estuvimos a la medianoche.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--pudiste-bailar-salsa-con-los-chicos",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Pudiste bailar salsa con los chicos?",
-    "answer": "Pude bailar con mucha gente.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--quien-no-quiso-bailar-salsa",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Quién no quiso bailar salsa?",
-    "answer": "Todos quisieron bailar salsa.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--cupieron-todos-en-la-pista-de-baile",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Cupieron todos en la pista de baile?",
-    "answer": "Sí, nosotros cupimos en la pista.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
-    "id": "rebecca-1--quien-puso-la-musica",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Quién puso la música?",
-    "answer": "Una banda grande puso la música.",
-    "sourceDoc": "rebecca-1"
-  },
-  {
     "id": "rebecca-1--yo-puse-el-libro-en-el-escritorio-y-ustedes-poner",
     "categories": [
       "preterite",
       "exceptions"
     ],
-    "question": "Yo puse el libro en el escritorio y ustedes ___ (poner) el libro.",
+    "question": "Yo puse el libro en el escritorio y ustedes ___ (poner, pretérito) el libro.",
     "answer": "Yo puse el libro en el escritorio y ustedes pusieron el libro.",
     "sourceDoc": "rebecca-1"
   },
@@ -8888,7 +8627,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nosotros vinimos temprano y tú ___ (venir) temprano.",
+    "question": "Nosotros vinimos temprano y tú ___ (venir, pretérito) temprano.",
     "answer": "Nosotros vinimos temprano y tú viniste temprano.",
     "sourceDoc": "rebecca-1"
   },
@@ -8898,7 +8637,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Marta ___ (hacer) la tarea.",
+    "question": "Marta ___ (hacer, pretérito) la tarea.",
     "answer": "Marta hizo la tarea.",
     "sourceDoc": "rebecca-1"
   },
@@ -8908,7 +8647,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú no quisiste tomar café y Pedro ___ (querer) tomar café.",
+    "question": "Tú no quisiste tomar café y Pedro ___ (querer, pretérito) tomar café.",
     "answer": "Tú no quisiste tomar café y Pedro quiso tomar café.",
     "sourceDoc": "rebecca-1"
   },
@@ -8918,7 +8657,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "La profesora no supo la respuesta y nosotros ___ (saber) la respuesta.",
+    "question": "La profesora no supo la respuesta y nosotros ___ (saber, pretérito) la respuesta.",
     "answer": "La profesora no supo la respuesta y nosotros supimos la respuesta.",
     "sourceDoc": "rebecca-1"
   },
@@ -8928,7 +8667,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú pudiste entrar a la clase y yo ___ (poder) entrar.",
+    "question": "Tú pudiste entrar a la clase y yo ___ (poder, pretérito) entrar.",
     "answer": "Tú pudiste entrar a la clase y yo pude entrar.",
     "sourceDoc": "rebecca-1"
   },
@@ -8938,7 +8677,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ellos (andar) por el parque.",
+    "question": "Ellos (andar, pretérito) por el parque.",
     "answer": "Ellos anduvieron por el parque.",
     "sourceDoc": "rebecca-1"
   },
@@ -8948,7 +8687,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Su padre (estar) enfermo.",
+    "question": "Su padre (estar, pretérito) enfermo.",
     "answer": "Su padre estuvo enfermo.",
     "sourceDoc": "rebecca-1"
   },
@@ -8958,7 +8697,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nosotros no (tener) suficiente dinero.",
+    "question": "Nosotros no (tener, pretérito) suficiente dinero.",
     "answer": "Nosotros no tuvimos suficiente dinero.",
     "sourceDoc": "rebecca-1"
   },
@@ -8968,7 +8707,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo no (estar) allí.",
+    "question": "Yo no (estar, pretérito) allí.",
     "answer": "Yo no estuve allí.",
     "sourceDoc": "rebecca-1"
   },
@@ -8978,7 +8717,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Las chicas (tener) otra oportunidad.",
+    "question": "Las chicas (tener, pretérito) otra oportunidad.",
     "answer": "Las chicas tuvieron otra oportunidad.",
     "sourceDoc": "rebecca-1"
   },
@@ -9038,7 +8777,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo (andar) toda la tarde por allí.",
+    "question": "Yo (andar, pretérito) toda la tarde por allí.",
     "answer": "Yo anduve toda la tarde por allí.",
     "sourceDoc": "rebecca-1"
   },
@@ -9048,7 +8787,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú no (tener) buen tiempo.",
+    "question": "Tú no (tener, pretérito) buen tiempo.",
     "answer": "Tú no tuviste buen tiempo.",
     "sourceDoc": "rebecca-1"
   },
@@ -9058,7 +8797,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "El perro (andar) a la puerta.",
+    "question": "El perro (andar, pretérito) a la puerta.",
     "answer": "El perro anduvo a la puerta.",
     "sourceDoc": "rebecca-1"
   },
@@ -9068,7 +8807,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nosotros (estar) callados.",
+    "question": "Nosotros (estar, pretérito) callados.",
     "answer": "Nosotros estuvimos callados.",
     "sourceDoc": "rebecca-1"
   },
@@ -9078,7 +8817,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes (tener) que salir.",
+    "question": "Ustedes (tener, pretérito) que salir.",
     "answer": "Ustedes tuvieron que salir.",
     "sourceDoc": "rebecca-1"
   },
@@ -9088,7 +8827,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ellos (tener) buenas notas.",
+    "question": "Ellos (tener, pretérito) buenas notas.",
     "answer": "Ellos tuvieron buenas notas.",
     "sourceDoc": "rebecca-1"
   },
@@ -9098,7 +8837,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "La niña (estar) en el jardín.",
+    "question": "La niña (estar, pretérito) en el jardín.",
     "answer": "La niña estuvo en el jardín.",
     "sourceDoc": "rebecca-1"
   },
@@ -9108,7 +8847,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo siempre (tener) esa opinión.",
+    "question": "Yo siempre (tener, pretérito) esa opinión.",
     "answer": "Yo siempre tuve esa opinión.",
     "sourceDoc": "rebecca-1"
   },
@@ -9118,7 +8857,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "¿Dónde (estar) ustedes ayer?",
+    "question": "¿Dónde (estar, pretérito) ustedes ayer?",
     "answer": "¿Dónde estuvieron ustedes ayer?",
     "sourceDoc": "rebecca-1"
   },
@@ -9128,7 +8867,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú y yo nunca (andar) tanto.",
+    "question": "Tú y yo nunca (andar, pretérito) tanto.",
     "answer": "Tú y yo nunca anduvimos tanto.",
     "sourceDoc": "rebecca-1"
   },
@@ -9138,7 +8877,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Los chicos no (leer) toda la historia.",
+    "question": "Los chicos no (leer, pretérito) toda la historia.",
     "answer": "Los chicos no leyeron toda la historia.",
     "sourceDoc": "rebecca-1"
   },
@@ -9148,7 +8887,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo me (caer) afuera de la clase.",
+    "question": "Yo me (caer, pretérito) afuera de la clase.",
     "answer": "Yo me caí afuera de la clase.",
     "sourceDoc": "rebecca-1"
   },
@@ -9158,7 +8897,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes no (creer) ese cuento.",
+    "question": "Ustedes no (creer, pretérito) ese cuento.",
     "answer": "Ustedes no creyeron ese cuento.",
     "sourceDoc": "rebecca-1"
   },
@@ -9168,7 +8907,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Nadie (incluir) los verbos en la tarea.",
+    "question": "Nadie (incluir, pretérito) los verbos en la tarea.",
     "answer": "Nadie incluyó los verbos en la tarea.",
     "sourceDoc": "rebecca-1"
   },
@@ -9188,7 +8927,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú (distribuir) la pizza a los niños.",
+    "question": "Tú (distribuir, pretérito) la pizza a los niños.",
     "answer": "Tú distribuiste la pizza a los niños.",
     "sourceDoc": "rebecca-1"
   },
@@ -9198,7 +8937,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo leí el periódico y usted ___ (leer) el periódico.",
+    "question": "Yo leí el periódico y usted ___ (leer, pretérito) el periódico.",
     "answer": "Yo leí el periódico y usted leyó el periódico.",
     "sourceDoc": "rebecca-1"
   },
@@ -9208,7 +8947,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú no le creíste a Juan y ustedes ___ (creer) a Juan.",
+    "question": "Tú no le creíste a Juan y ustedes ___ (creer, pretérito) a Juan.",
     "answer": "Tú no le creíste a Juan y ustedes no le creyeron a Juan.",
     "sourceDoc": "rebecca-1"
   },
@@ -9228,7 +8967,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mi papá ___ (influir) también.",
+    "question": "Mi papá ___ (influir, pretérito) también.",
     "answer": "Mi papá también influyó.",
     "sourceDoc": "rebecca-1"
   },
@@ -9238,7 +8977,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes se cayeron en la calle y Marta ___ (caer).",
+    "question": "Ustedes se cayeron en la calle y Marta ___ (caer, pretérito).",
     "answer": "Ustedes se cayeron en la calle y Marta se cayó en la calle.",
     "sourceDoc": "rebecca-1"
   },
@@ -9248,7 +8987,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ellos destruyeron la casa y el ingeniero ___ (destruir) la casa.",
+    "question": "Ellos destruyeron la casa y el ingeniero ___ (destruir, pretérito) la casa.",
     "answer": "Ellos destruyeron la casa y el ingeniero destruyó la casa.",
     "sourceDoc": "rebecca-1"
   },
@@ -9536,7 +9275,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes toman ___ café con leche.",
+    "question": "Ustedes toman ___ (your) café con leche.",
     "answer": "Ustedes toman su café con leche.",
     "sourceDoc": "rebecca-2"
   },
@@ -9572,7 +9311,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los padres ayudan a ___ hijos con la tarea.",
+    "question": "Los padres ayudan a ___ (their) hijos con la tarea.",
     "answer": "Los padres ayudan a sus hijos con la tarea.",
     "sourceDoc": "rebecca-2"
   },
@@ -9590,7 +9329,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los muchachos trabajan en ___ apartamento.",
+    "question": "Los muchachos trabajan en ___ (their) apartamento.",
     "answer": "Los muchachos trabajan en su apartamento.",
     "sourceDoc": "rebecca-2"
   },
@@ -9608,7 +9347,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juanita usa ___ teléfono.",
+    "question": "Juanita usa ___ (her) teléfono.",
     "answer": "Juanita usa su teléfono.",
     "sourceDoc": "rebecca-2"
   },
@@ -9671,7 +9410,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mí no me ___ (gustar) esta obra de teatro.",
+    "question": "A mí no me ___ (gustar, presente) esta obra de teatro.",
     "answer": "A mí no me gusta esta obra de teatro.",
     "sourceDoc": "rebecca-2"
   },
@@ -9680,7 +9419,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Te ___ (gustar) salir con amigos por la noche?",
+    "question": "¿Te ___ (gustar, presente) salir con amigos por la noche?",
     "answer": "¿Te gusta salir con amigos por la noche?",
     "sourceDoc": "rebecca-2"
   },
@@ -9689,7 +9428,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Qué escritor español les ___ (gustar) a ustedes?",
+    "question": "¿Qué escritor español les ___ (gustar, presente) a ustedes?",
     "answer": "¿Qué escritor español les gusta a ustedes?",
     "sourceDoc": "rebecca-2"
   },
@@ -9698,7 +9437,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A nosotros nos ___ (gustar) los viajes por países orientales.",
+    "question": "A nosotros nos ___ (gustar, presente) los viajes por países orientales.",
     "answer": "A nosotros nos gustan los viajes por países orientales.",
     "sourceDoc": "rebecca-2"
   },
@@ -9707,7 +9446,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A los muchachos les ___ (gustar) las fiestas.",
+    "question": "A los muchachos les ___ (gustar, presente) las fiestas.",
     "answer": "A los muchachos les gustan las fiestas.",
     "sourceDoc": "rebecca-2"
   },
@@ -9716,7 +9455,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A Pedro no le ___ (gustar) los tacos picantes.",
+    "question": "A Pedro no le ___ (gustar, presente) los tacos picantes.",
     "answer": "A Pedro no le gustan los tacos picantes.",
     "sourceDoc": "rebecca-2"
   },
@@ -9725,7 +9464,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A tí te ___ (gustar) nadar en la piscina.",
+    "question": "A tí te ___ (gustar, presente) nadar en la piscina.",
     "answer": "A tí te gusta nadar en la piscina.",
     "sourceDoc": "rebecca-2"
   },
@@ -9734,7 +9473,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A usted le ___ (gustar) los cuadros de Rivera.",
+    "question": "A usted le ___ (gustar, presente) los cuadros de Rivera.",
     "answer": "A usted le gustan los cuadros de Rivera.",
     "sourceDoc": "rebecca-2"
   },
@@ -9743,7 +9482,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mi familia le ___ (gustar) cocinar los sábados.",
+    "question": "A mi familia le ___ (gustar, presente) cocinar los sábados.",
     "answer": "A mi familia le gusta cocinar los sábados.",
     "sourceDoc": "rebecca-2"
   },
@@ -9752,7 +9491,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A nosotros nos ___ (gustar) tomar el té frío.",
+    "question": "A nosotros nos ___ (gustar, presente) tomar el té frío.",
     "answer": "A nosotros nos gusta tomar el té frío.",
     "sourceDoc": "rebecca-2"
   },
@@ -9869,7 +9608,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Te ___ (encantar) salir con amigos por la noche?",
+    "question": "¿Te ___ (encantar, presente) salir con amigos por la noche?",
     "answer": "¿Te encanta salir con amigos por la noche?",
     "sourceDoc": "rebecca-2"
   },
@@ -9878,7 +9617,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "¿Qué escritor español les ___ (fascinar) a ustedes?",
+    "question": "¿Qué escritor español les ___ (fascinar, presente) a ustedes?",
     "answer": "¿Qué escritor español les fascina a ustedes?",
     "sourceDoc": "rebecca-2"
   },
@@ -9887,7 +9626,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A los muchachos les ___ (encantar) las fiestas.",
+    "question": "A los muchachos les ___ (encantar, presente) las fiestas.",
     "answer": "A los muchachos les encantan las fiestas.",
     "sourceDoc": "rebecca-2"
   },
@@ -9896,7 +9635,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A tí te ___ (fascinar) nadar en la piscina.",
+    "question": "A tí te ___ (fascinar, presente) nadar en la piscina.",
     "answer": "A tí te fascina nadar en la piscina.",
     "sourceDoc": "rebecca-2"
   },
@@ -9905,7 +9644,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A usted le ___ (encantar) los cuadros de Rivera.",
+    "question": "A usted le ___ (encantar, presente) los cuadros de Rivera.",
     "answer": "A usted le encantan los cuadros de Rivera.",
     "sourceDoc": "rebecca-2"
   },
@@ -9914,80 +9653,8 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A nosotros nos ___ (fascinar) tomar el té frío.",
+    "question": "A nosotros nos ___ (fascinar, presente) tomar el té frío.",
     "answer": "A nosotros nos fascina tomar el té frío.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-gusta-la-musica-de-taylor-swift",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gusta la música de Taylor Swift?",
-    "answer": "No, a mí no me gusta la música Country.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-encanta-la-musica-country",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te encanta la música Country?",
-    "answer": "No, a mí no me encanta la música Country.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-gustan-los-tacos-al-pastor",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gustan los tacos al Pastor?",
-    "answer": "Sí, a mí me gustan los tacos al Pastor (vegetarianos).",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-fascina-la-pizza-hawaiana",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te fascina la pizza hawaiana?",
-    "answer": "No, a mí no me fascina la pizza hawaiana.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-encanta-el-te-frio",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te encanta el té frío?",
-    "answer": "No, a mí no me encanta el té frío.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-gusta-bailar-bachata",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gusta bailar bachata?",
-    "answer": "Sí, a mí me gusta bailar bachata.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-fascinan-las-joyas",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te fascinan las joyas?",
-    "answer": "Sí, a mí me fascinan las joyas.",
-    "sourceDoc": "rebecca-2"
-  },
-  {
-    "id": "rebecca-2--te-gusta-hablar-espanol",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gusta hablar español?",
-    "answer": "Sí, a mí me encanta hablar español.",
     "sourceDoc": "rebecca-2"
   },
   {
@@ -9995,7 +9662,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "también ___ (gustar) los paseos por el parque.",
+    "question": "también ___ (gustar, presente) los paseos por el parque.",
     "answer": "también nos gustan los paseos por el parque.",
     "sourceDoc": "rebecca-2"
   },
@@ -10004,7 +9671,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "En invierno a nosotros ___ (gustar) mucho ir al cine.",
+    "question": "En invierno a nosotros ___ (gustar, presente) mucho ir al cine.",
     "answer": "En invierno a nosotros nos gusta mucho ir al cine.",
     "sourceDoc": "rebecca-2"
   },
@@ -10013,7 +9680,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "___ (encantar) las películas de acción y suspenso.",
+    "question": "___ (encantar, presente) las películas de acción y suspenso.",
     "answer": "Nos encantan las películas de acción y suspenso.",
     "sourceDoc": "rebecca-2"
   },
@@ -10022,7 +9689,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mí no me ___ (gustar) nada las películas de terror.",
+    "question": "A mí no me ___ (gustar, presente) nada las películas de terror.",
     "answer": "A mí no me gustan nada las películas de terror.",
     "sourceDoc": "rebecca-2"
   },
@@ -10031,7 +9698,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mi novio le ___ (gustar) navegar en internet.",
+    "question": "A mi novio le ___ (gustar, presente) navegar en internet.",
     "answer": "A mi novio le gusta navegar en internet.",
     "sourceDoc": "rebecca-2"
   },
@@ -10040,7 +9707,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mí me ___ (encantar) chatear con mis amigos.",
+    "question": "A mí me ___ (encantar, presente) chatear con mis amigos.",
     "answer": "A mí me encanta chatear con mis amigos.",
     "sourceDoc": "rebecca-2"
   },
@@ -10049,7 +9716,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A nosotros no nos ___ (gustar) quedarnos en casa.",
+    "question": "A nosotros no nos ___ (gustar, presente) quedarnos en casa.",
     "answer": "A nosotros no nos gusta quedarnos en casa.",
     "sourceDoc": "rebecca-2"
   },
@@ -10058,7 +9725,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nos ___ (gustar) tomar unas copas, comer unas tapas y bailar.",
+    "question": "Nos ___ (gustar, presente) tomar unas copas, comer unas tapas y bailar.",
     "answer": "Nos gusta tomar unas copas, comer unas tapas y bailar.",
     "sourceDoc": "rebecca-2"
   },
@@ -10067,7 +9734,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A nosotros nos ___ (encantar) las discotecas de la costanera.",
+    "question": "A nosotros nos ___ (encantar, presente) las discotecas de la costanera.",
     "answer": "A nosotros nos encantan las discotecas de la costanera.",
     "sourceDoc": "rebecca-2"
   },
@@ -10076,7 +9743,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A nosotros nos ___ (encantar) quedarnos en casa y comer comidas exquisitas.",
+    "question": "A nosotros nos ___ (encantar, presente) quedarnos en casa y comer comidas exquisitas.",
     "answer": "A nosotros nos encanta quedarnos en casa y comer comidas exquisitas.",
     "sourceDoc": "rebecca-2"
   },
@@ -10085,7 +9752,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mí me ___ (fascinar) las empanadas argentinas.",
+    "question": "A mí me ___ (fascinar, presente) las empanadas argentinas.",
     "answer": "A mí me fascinan las empanadas argentinas.",
     "sourceDoc": "rebecca-2"
   },
@@ -10094,7 +9761,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A mi novio le ___ (fascinar) la paella española.",
+    "question": "A mi novio le ___ (fascinar, presente) la paella española.",
     "answer": "A mi novio le fascina la paella española.",
     "sourceDoc": "rebecca-2"
   },
@@ -10103,7 +9770,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "A los dos nos ___ (encantar) los postres que tienen chocolate.",
+    "question": "A los dos nos ___ (encantar, presente) los postres que tienen chocolate.",
     "answer": "A los dos nos encantan los postres que tienen chocolate.",
     "sourceDoc": "rebecca-2"
   },
@@ -12922,7 +12589,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Yo (querer) ir al supermercado.",
+    "question": "Yo (querer, presente) ir al supermercado.",
     "answer": "Yo quiero ir al supermercado.",
     "sourceDoc": "molly-1"
   },
@@ -12932,7 +12599,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Ustedes (querer) mirar una película de horror.",
+    "question": "Ustedes (querer, presente) mirar una película de horror.",
     "answer": "Ustedes quieren mirar una película de horror.",
     "sourceDoc": "molly-1"
   },
@@ -12942,7 +12609,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Tú siempre (querer) una gaseosa.",
+    "question": "Tú siempre (querer, presente) una gaseosa.",
     "answer": "Tú siempre quieres una gaseosa.",
     "sourceDoc": "molly-1"
   },
@@ -12951,7 +12618,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Nosotros (querer) un helado de chocolate.",
+    "question": "Nosotros (querer, presente) un helado de chocolate.",
     "answer": "Nosotros queremos un helado de chocolate.",
     "sourceDoc": "molly-1"
   },
@@ -12961,7 +12628,7 @@
       "present-tense",
       "exceptions"
     ],
-    "question": "Pedro no (querer) escribir la tarea.",
+    "question": "Pedro no (querer, presente) escribir la tarea.",
     "answer": "Pedro no quiere escribir la tarea.",
     "sourceDoc": "molly-1"
   },
@@ -14002,7 +13669,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Ayer (regresar) de mi trabajo.",
+    "question": "Ayer (regresar, pretérito) de mi trabajo.",
     "answer": "Ayer regresé de mi trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -14011,7 +13678,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "El año pasado (visitar) España con mi familia.",
+    "question": "El año pasado (visitar, pretérito) España con mi familia.",
     "answer": "El año pasado visité España con mi familia.",
     "sourceDoc": "molly-1"
   },
@@ -14020,7 +13687,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Hace dos horas (hablar) con mis amigas en un café.",
+    "question": "Hace dos horas (hablar, pretérito) con mis amigas en un café.",
     "answer": "Hace dos horas hablé con mis amigas en un café.",
     "sourceDoc": "molly-1"
   },
@@ -14029,7 +13696,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "La semana pasada (comer) comida de India.",
+    "question": "La semana pasada (comer, pretérito) comida de India.",
     "answer": "La semana pasada comí comida de India.",
     "sourceDoc": "molly-1"
   },
@@ -14038,7 +13705,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Anoche le (escribir) una carta a una amiga.",
+    "question": "Anoche le (escribir, pretérito) una carta a una amiga.",
     "answer": "Anoche le escribí una carta a una amiga.",
     "sourceDoc": "molly-1"
   },
@@ -14047,7 +13714,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Ayer (recibir) un regalo costoso.",
+    "question": "Ayer (recibir, pretérito) un regalo costoso.",
     "answer": "Ayer recibí un regalo costoso.",
     "sourceDoc": "molly-1"
   },
@@ -14149,66 +13816,6 @@
     ],
     "question": "Yo no sé la respuesta. (pretérito)",
     "answer": "Yo no supe la respuesta.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--a-que-hora-viniste-a-la-fiesta",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿A qué hora viniste a la fiesta?",
-    "answer": "Yo vine a las 9.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--quienes-estuvieron-en-la-fiesta-durante-la-mediano",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Quiénes estuvieron en la fiesta durante la medianoche?",
-    "answer": "Solo yo y mi amiga Sarah estuvimos en la fiesta.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--pudiste-bailar-salsa-con-los-chicos",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Pudiste bailar Salsa con los chicos?",
-    "answer": "No pude bailar Salsa.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--quien-no-quiso-bailar-salsa",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Quién no quiso bailar Salsa?",
-    "answer": "Yo y los chicos no quisimos bailar Salsa.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--cupieron-todos-en-la-pista-de-baile",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Cupieron todos en la pista de baile?",
-    "answer": "Sí, todos cupieron en la pista de baile.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--quien-puso-la-musica",
-    "categories": [
-      "preterite",
-      "exceptions"
-    ],
-    "question": "¿Quién puso la música?",
-    "answer": "Mi amigo John puso la música.",
     "sourceDoc": "molly-1"
   },
   {
@@ -14789,7 +14396,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Los muchachos (ver) una película de horror y Pedro vio una película de amor.",
+    "question": "Los muchachos (ver, pretérito) una película de horror y Pedro vio una película de amor.",
     "answer": "Los muchachos vieron una película de horror y Pedro vio una película de amor.",
     "sourceDoc": "molly-1"
   },
@@ -14799,7 +14406,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú diste los libros a la profesora y usted (dar) los libros a mi amiga.",
+    "question": "Tú diste los libros a la profesora y usted (dar, pretérito) los libros a mi amiga.",
     "answer": "Tú diste los libros a la profesora y usted dio los libros a mi amiga.",
     "sourceDoc": "molly-1"
   },
@@ -14809,7 +14416,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Usted fue muy simpático y nosotros (ser) divertidos.",
+    "question": "Usted fue muy simpático y nosotros (ser, pretérito) divertidos.",
     "answer": "Usted fue muy simpático y nosotros fuimos divertidos.",
     "sourceDoc": "molly-1"
   },
@@ -14819,7 +14426,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mi mamá vio una telenovela y yo (ver) una película llamada Lilo y Stitch.",
+    "question": "Mi mamá vio una telenovela y yo (ver, pretérito) una película llamada Lilo y Stitch.",
     "answer": "Mi mamá vio una telenovela y yo vi una película llamada Lilo y Stitch.",
     "sourceDoc": "molly-1"
   },
@@ -14829,7 +14436,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Juan fue chef del restaurante y tú (ser) una profesora.",
+    "question": "Juan fue chef del restaurante y tú (ser, pretérito) una profesora.",
     "answer": "Juan fue chef del restaurante y tú fuiste una profesora.",
     "sourceDoc": "molly-1"
   },
@@ -15671,7 +15278,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "No sé ___.",
+    "question": "No sé ___ (this).",
     "answer": "No sé esto.",
     "sourceDoc": "molly-1"
   },
@@ -15689,7 +15296,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Qué es ___ que camina en la puerta?",
+    "question": "¿Qué es ___ (that) que camina en la puerta?",
     "answer": "¿Qué es eso que camina en la puerta?",
     "sourceDoc": "molly-1"
   },
@@ -15698,7 +15305,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿En dónde encontraste ___?",
+    "question": "¿En dónde encontraste ___ (this)?",
     "answer": "¿En dónde encontraste esto?",
     "sourceDoc": "molly-1"
   },
@@ -15707,7 +15314,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Todo ___ es muy bonito.",
+    "question": "Todo ___ (this) es muy bonito.",
     "answer": "Todo esto es muy bonito.",
     "sourceDoc": "molly-1"
   },
@@ -15716,7 +15323,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Cuándo dije ___?",
+    "question": "¿Cuándo dije ___ (that)?",
     "answer": "¿Cuándo dije eso?",
     "sourceDoc": "molly-1"
   },
@@ -15725,7 +15332,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¡Mira ___!",
+    "question": "¡Mira ___ (that)!",
     "answer": "¡Mira eso!",
     "sourceDoc": "molly-1"
   },
@@ -16515,280 +16122,231 @@
   {
     "id": "molly-1--a-mi-no-me-gustar-esta-obra-de-teatro",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A mí no me (gustar) esta obra de teatro.",
+    "question": "A mí no me (gustar, presente) esta obra de teatro.",
     "answer": "A mí no me gusta esta obra de teatro.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-ti-te-interesar-salir-con-amigos-por-la-noche",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "¿A ti te (interesar) salir con amigos por la noche?",
+    "question": "¿A ti te (interesar, presente) salir con amigos por la noche?",
     "answer": "¿A ti te interesa salir con amigos por la noche?",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-ustedes-no-les-importar-el-cambio-climatico",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A ustedes no les (importar) el cambio climático.",
+    "question": "A ustedes no les (importar, presente) el cambio climático.",
     "answer": "A ustedes no les importa el cambio climático.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-nosotros-nos-fascinar-los-deportes-extremos",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A nosotros nos (fascinar) los deportes extremos.",
+    "question": "A nosotros nos (fascinar, presente) los deportes extremos.",
     "answer": "A nosotros nos fascinan los deportes extremos.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-los-muchachos-les-sorprender-las-malas-noticias",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A los muchachos les (sorprender) las malas noticias.",
+    "question": "A los muchachos les (sorprender, presente) las malas noticias.",
     "answer": "A los muchachos les sorprenden las malas noticias.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-pedro-no-le-caer-bien-marta-y-juan",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A Pedro no le (caer) bien Marta y Juan.",
+    "question": "A Pedro no le (caer, presente) bien Marta y Juan.",
     "answer": "A Pedro no le cae bien Marta y Juan.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-ti-te-gustar-caminar-en-la-playa",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A tí te (gustar) caminar en la playa.",
+    "question": "A tí te (gustar, presente) caminar en la playa.",
     "answer": "A tí te gusta caminar en la playa.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-usted-le-encantar-los-cuadros-de-frida-kahlo",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A usted le (encantar) los cuadros de Frida Kahlo.",
+    "question": "A usted le (encantar, presente) los cuadros de Frida Kahlo.",
     "answer": "A usted le encantan los cuadros de Frida Kahlo.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-mi-familia-le-interesar-conocer-otras-culturas",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A mi familia le (interesar) conocer otras culturas.",
+    "question": "A mi familia le (interesar, presente) conocer otras culturas.",
     "answer": "A mi familia le interesa conocer otras culturas.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-nosotros-nos-extranar-tomar-el-te-frio-durante-e",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A nosotros nos (extrañar) tomar el té frío durante el invierno.",
+    "question": "A nosotros nos (extrañar, presente) tomar el té frío durante el invierno.",
     "answer": "A nosotros nos extraña tomar el té frío durante el invierno.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--en-verano-a-mi-novio-y-a-mi-ir-a-la-playa-gustar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "En verano a mi novio y a mí ___ ir a la playa. (gustar)",
+    "question": "En verano a mi novio y a mí ___ ir a la playa. (gustar, presente)",
     "answer": "En verano a mi novio y a mí nos gusta ir a la playa.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--tambien-los-paseos-por-el-parque-gustar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "También ___ los paseos por el parque. (gustar)",
+    "question": "También ___ los paseos por el parque. (gustar, presente)",
     "answer": "También nos gustan los paseos por el parque.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--porque-a-nosotros-tener-contacto-con-la-naturaleza",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Porque a nosotros ___ tener contacto con la naturaleza. (encantar)",
+    "question": "Porque a nosotros ___ tener contacto con la naturaleza. (encantar, presente)",
     "answer": "Porque a nosotros nos encanta tener contacto con la naturaleza.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--en-invierno-mucho-ir-al-cine-gustar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "En invierno ___ mucho ir al cine. (gustar)",
+    "question": "En invierno ___ mucho ir al cine. (gustar, presente)",
     "answer": "En invierno me gusta mucho ir al cine.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--las-peliculas-de-accion-y-suspenso-encantar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "___ las películas de acción y suspenso. (encantar)",
+    "question": "___ las películas de acción y suspenso. (encantar, presente)",
     "answer": "Me encantan las películas de acción y suspenso.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--pero-a-mi-no-nada-las-peliculas-de-terror-gustar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Pero a mí no ___ nada las películas de terror. (gustar)",
+    "question": "Pero a mí no ___ nada las películas de terror. (gustar, presente)",
     "answer": "Pero a mí no me gustan nada las películas de terror.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--por-la-noche-a-mi-novio-navegar-en-internet-gustar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Por la noche a mi novio ___ navegar en internet. (gustar)",
+    "question": "Por la noche a mi novio ___ navegar en internet. (gustar, presente)",
     "answer": "Por la noche a mi novio le gusta navegar en internet.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--y-a-mi-chatear-con-mis-amigos-encantar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Y a mí ___ chatear con mis amigos. (encantar)",
+    "question": "Y a mí ___ chatear con mis amigos. (encantar, presente)",
     "answer": "Y a mí me encanta chatear con mis amigos.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--los-sabados-a-nosotros-no-quedarnos-en-casa-gustar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Los sábados a nosotros no ___ quedarnos en casa. (gustar)",
+    "question": "Los sábados a nosotros no ___ quedarnos en casa. (gustar, presente)",
     "answer": "Los sábados a nosotros no nos gusta quedarnos en casa.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--nos-las-discotecas-de-la-costanera-encantar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Nos ___ las discotecas de la costanera. (encantar)",
+    "question": "Nos ___ las discotecas de la costanera. (encantar, presente)",
     "answer": "Nos encantan las discotecas de la costanera.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--los-domingos-a-nosotros-quedarnos-en-casa-encantar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Los domingos a nosotros ___ quedarnos en casa. (encantar)",
+    "question": "Los domingos a nosotros ___ quedarnos en casa. (encantar, presente)",
     "answer": "Los domingos a nosotros nos encanta quedarnos en casa.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--a-mi-las-empanadas-argentinas-fascinar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "A mí ___ las empanadas argentinas. (fascinar)",
+    "question": "A mí ___ las empanadas argentinas. (fascinar, presente)",
     "answer": "A mí me fascinan las empanadas argentinas.",
     "sourceDoc": "molly-1"
   },
   {
     "id": "molly-1--y-a-mi-novio-la-paella-espanola-fascinar",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Y a mi novio ___ la paella española. (fascinar)",
+    "question": "Y a mi novio ___ la paella española. (fascinar, presente)",
     "answer": "Y a mi novio le fascina la paella española.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-gusta-la-musica-de-taylor-swift",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gusta la música de Taylor Swift?",
-    "answer": "Me fascinó la música de Taylor Swift, pero ahora no me gusta.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-encanta-la-musica-country",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te encanta la música Country?",
-    "answer": "Sí, me encanta la música country.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-gustan-los-tacos-al-pastor",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gustan los tacos al Pastor?",
-    "answer": "Me gustan los tacos al pastor, pero me encantan los tacos con pollo.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-fascina-la-pizza-hawaiana",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te fascina la pizza hawaiana?",
-    "answer": "No, no me fascina la pizza hawaiana.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-encanta-el-te-frio",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te encanta el té frío?",
-    "answer": "No me encanta el té frío, pero me gusta el té frío.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-gusta-bailar-bachata",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gusta bailar bachata?",
-    "answer": "No me gusta bailar bachata porque no sé cómo bailar bachata.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-fascinan-las-joyas",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te fascinan las joyas?",
-    "answer": "Sí, me fascinan las joyas, pero no en mis orejas.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--te-gusta-hablar-espanol",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Te gusta hablar español?",
-    "answer": "Sí, me gusta hablar español.",
     "sourceDoc": "molly-1"
   },
   {
@@ -17041,51 +16599,6 @@
     ],
     "question": "A nosotros no nos gusta la nieve. ¿Y a ustedes?",
     "answer": "A ustedes no les gusta la nieve tampoco.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--que-idioma-te-interesa-aprender",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Qué idioma te interesa aprender?",
-    "answer": "Me interesa aprender español.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--por-que-te-sorprenden-las-noticias-de-politica",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Por qué te sorprenden las noticias de política?",
-    "answer": "Porque el mundo está loco.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--a-quien-no-le-importa-la-contaminacion-ambiental",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿A quién no le importa la contaminación ambiental?",
-    "answer": "A la gente que tiene mucho dinero.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--que-actor-te-gusta",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Qué actor te gusta?",
-    "answer": "Me gusta Hugh Grant.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--cual-de-tus-amigos-no-te-cae-muy-bien",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Cuál de tus amigos no te cae muy bien?",
-    "answer": "Me caen bien todos mis amigos.",
     "sourceDoc": "molly-1"
   },
   {
@@ -17865,7 +17378,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Yo leí el periódico y usted (leer) el libro.",
+    "question": "Yo leí el periódico y usted (leer, pretérito) el libro.",
     "answer": "Yo leí el periódico y usted leyó el libro.",
     "sourceDoc": "molly-1"
   },
@@ -17875,7 +17388,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Tú no le creíste a Juan y ustedes (creer) a María.",
+    "question": "Tú no le creíste a Juan y ustedes (creer, pretérito) a María.",
     "answer": "Tú no le creíste a Juan y ustedes creyeron a María.",
     "sourceDoc": "molly-1"
   },
@@ -17895,7 +17408,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mi mamá influyó en la comida y mi papá (influir) en el gimnasio.",
+    "question": "Mi mamá influyó en la comida y mi papá (influir, pretérito) en el gimnasio.",
     "answer": "Mi mamá influyó en la comida y mi papá influyó en el gimnasio.",
     "sourceDoc": "molly-1"
   },
@@ -17905,7 +17418,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ustedes se cayeron en la calle y Marta (caer) en la casa.",
+    "question": "Ustedes se cayeron en la calle y Marta (caer, pretérito) en la casa.",
     "answer": "Ustedes se cayeron en la calle y Marta se cayó en la casa.",
     "sourceDoc": "molly-1"
   },
@@ -17915,7 +17428,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Ellos destruyeron la casa y el ingeniero (construir) la casa.",
+    "question": "Ellos destruyeron la casa y el ingeniero (construir, pretérito) la casa.",
     "answer": "Ellos destruyeron la casa y el ingeniero construyó la casa.",
     "sourceDoc": "molly-1"
   },
@@ -18148,7 +17661,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy llegué a las siete pero ayer (llegar) a las ocho.",
+    "question": "Hoy llegué a las siete pero ayer (llegar, pretérito) a las ocho.",
     "answer": "Hoy llegué a las siete pero ayer llegué a las ocho.",
     "sourceDoc": "molly-1"
   },
@@ -18158,7 +17671,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy jugué al tenis pero ayer (jugar) al baloncesto.",
+    "question": "Hoy jugué al tenis pero ayer (jugar, pretérito) al baloncesto.",
     "answer": "Hoy jugué al tenis pero ayer jugué al baloncesto.",
     "sourceDoc": "molly-1"
   },
@@ -18168,7 +17681,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy practiqué natación pero ayer (practicar) el basquetbol.",
+    "question": "Hoy practiqué natación pero ayer (practicar, pretérito) el basquetbol.",
     "answer": "Hoy practiqué natación pero ayer practiqué el basquetbol.",
     "sourceDoc": "molly-1"
   },
@@ -18178,7 +17691,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy busqué mis lentes pero ayer (buscar) mi celular.",
+    "question": "Hoy busqué mis lentes pero ayer (buscar, pretérito) mi celular.",
     "answer": "Hoy busqué mis lentes pero ayer busqué mi celular.",
     "sourceDoc": "molly-1"
   },
@@ -18188,7 +17701,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy almorcé en el trabajo pero ayer (almorzar) en la casa.",
+    "question": "Hoy almorcé en el trabajo pero ayer (almorzar, pretérito) en la casa.",
     "answer": "Hoy almorcé en el trabajo pero ayer almorcé en la casa.",
     "sourceDoc": "molly-1"
   },
@@ -18198,7 +17711,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy llegué a tiempo pero ayer (llegar) tarde.",
+    "question": "Hoy llegué a tiempo pero ayer (llegar, pretérito) tarde.",
     "answer": "Hoy llegué a tiempo pero ayer llegué tarde.",
     "sourceDoc": "molly-1"
   },
@@ -18208,7 +17721,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy empecé las clases a las ocho y media pero ayer (empezar) a las nueve.",
+    "question": "Hoy empecé las clases a las ocho y media pero ayer (empezar, pretérito) a las nueve.",
     "answer": "Hoy empecé las clases a las ocho y media pero ayer empecé a las nueve.",
     "sourceDoc": "molly-1"
   },
@@ -18218,7 +17731,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy pesqué en el lago pero el año pasado (pescar) en el río.",
+    "question": "Hoy pesqué en el lago pero el año pasado (pescar, pretérito) en el río.",
     "answer": "Hoy pesqué en el lago pero el año pasado pesqué en el río.",
     "sourceDoc": "molly-1"
   },
@@ -18228,7 +17741,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy expliqué los verbos pero ayer (explicar) las palabras.",
+    "question": "Hoy expliqué los verbos pero ayer (explicar, pretérito) las palabras.",
     "answer": "Hoy expliqué los verbos pero ayer expliqué las palabras.",
     "sourceDoc": "molly-1"
   },
@@ -18238,7 +17751,7 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Hoy abracé a Pedro pero ayer no (abrazar) a nadie.",
+    "question": "Hoy abracé a Pedro pero ayer no (abrazar, pretérito) a nadie.",
     "answer": "Hoy abracé a Pedro pero ayer no abracé a nadie.",
     "sourceDoc": "molly-1"
   },
@@ -18283,7 +17796,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Todos los días tengo ___ trabajo.",
+    "question": "Todos los días tengo ___ (much) trabajo.",
     "answer": "Todos los días tengo mucho trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -18292,7 +17805,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes leen ___ libros.",
+    "question": "Ustedes leen ___ (many) libros.",
     "answer": "Ustedes leen muchos libros.",
     "sourceDoc": "molly-1"
   },
@@ -18301,7 +17814,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las muchachas hicieron ___ cosas antes de la clase.",
+    "question": "Las muchachas hicieron ___ (many) cosas antes de la clase.",
     "answer": "Las muchachas hicieron muchas cosas antes de la clase.",
     "sourceDoc": "molly-1"
   },
@@ -18310,7 +17823,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo voy a tomar ___ agua.",
+    "question": "Yo voy a tomar ___ (much) agua.",
     "answer": "Yo voy a tomar mucha agua.",
     "sourceDoc": "molly-1"
   },
@@ -18319,7 +17832,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Anoche trabajamos ___.",
+    "question": "Anoche trabajamos ___ (a lot).",
     "answer": "Anoche trabajamos mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18328,7 +17841,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú estás hablando ___ hoy.",
+    "question": "Tú estás hablando ___ (much) hoy.",
     "answer": "Tú estás hablando mucho hoy.",
     "sourceDoc": "molly-1"
   },
@@ -18337,7 +17850,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú trabajas ___.",
+    "question": "Tú trabajas ___ (a lot).",
     "answer": "Tú trabajas mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18346,7 +17859,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros viajamos ___.",
+    "question": "Nosotros viajamos ___ (a lot).",
     "answer": "Nosotros viajamos mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18355,7 +17868,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las chicas hablan ___.",
+    "question": "Las chicas hablan ___ (a lot).",
     "answer": "Las chicas hablan mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18364,7 +17877,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted no camina ___.",
+    "question": "Usted no camina ___ (a lot).",
     "answer": "Usted no camina mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18373,7 +17886,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo no comprendo ___.",
+    "question": "Yo no comprendo ___ (a lot).",
     "answer": "Yo no comprendo mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18382,7 +17895,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú sabes ___.",
+    "question": "Tú sabes ___ (a lot).",
     "answer": "Tú sabes mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18436,7 +17949,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú caminas ___.",
+    "question": "Tú caminas ___ (a lot).",
     "answer": "Tú caminas mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18445,7 +17958,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tengo ___ trabajo.",
+    "question": "Tengo ___ (much) trabajo.",
     "answer": "Tengo mucho trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -18454,7 +17967,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú lees ___ cada día.",
+    "question": "Tú lees ___ (much) cada día.",
     "answer": "Tú lees mucho cada día.",
     "sourceDoc": "molly-1"
   },
@@ -18463,7 +17976,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "___ días.",
+    "question": "___ (many) días.",
     "answer": "muchos días.",
     "sourceDoc": "molly-1"
   },
@@ -18472,7 +17985,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi familia viaja ___.",
+    "question": "Mi familia viaja ___ (a lot).",
     "answer": "Mi familia viaja mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18481,7 +17994,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Pedro y Pablo tienen ___ amigos.",
+    "question": "Pedro y Pablo tienen ___ (many) amigos.",
     "answer": "Pedro y Pablo tienen muchos amigos.",
     "sourceDoc": "molly-1"
   },
@@ -18490,7 +18003,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú miras ___ películas.",
+    "question": "Tú miras ___ (many) películas.",
     "answer": "Tú miras muchas películas.",
     "sourceDoc": "molly-1"
   },
@@ -18499,7 +18012,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta y yo visitamos ___ museos.",
+    "question": "Marta y yo visitamos ___ (many) museos.",
     "answer": "Marta y yo visitamos muchos museos.",
     "sourceDoc": "molly-1"
   },
@@ -18508,7 +18021,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los muchachos escuchan ___ canciones.",
+    "question": "Los muchachos escuchan ___ (many) canciones.",
     "answer": "Los muchachos escuchan muchas canciones.",
     "sourceDoc": "molly-1"
   },
@@ -18517,7 +18030,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis primos quieren estudiar ___.",
+    "question": "Mis primos quieren estudiar ___ (a lot).",
     "answer": "Mis primos quieren estudiar mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18526,7 +18039,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "No tenemos ___ tiempo libre.",
+    "question": "No tenemos ___ (much) tiempo libre.",
     "answer": "No tenemos mucho tiempo libre.",
     "sourceDoc": "molly-1"
   },
@@ -18535,7 +18048,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "La maestra explica con ___ paciencia.",
+    "question": "La maestra explica con ___ (much) paciencia.",
     "answer": "La maestra explica con mucha paciencia.",
     "sourceDoc": "molly-1"
   },
@@ -18544,7 +18057,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú bebes ___ té con leche.",
+    "question": "Tú bebes ___ (much) té con leche.",
     "answer": "Tú bebes mucho té con leche.",
     "sourceDoc": "molly-1"
   },
@@ -18553,7 +18066,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi abuelita prepara ___ comida deliciosa.",
+    "question": "Mi abuelita prepara ___ (much) comida deliciosa.",
     "answer": "Mi abuelita prepara mucha comida deliciosa.",
     "sourceDoc": "molly-1"
   },
@@ -18778,7 +18291,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los muchachos son ___ altos.",
+    "question": "Los muchachos son ___ (very) altos.",
     "answer": "Los muchachos son muy altos.",
     "sourceDoc": "molly-1"
   },
@@ -18787,7 +18300,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Me siento ___ enferma.",
+    "question": "Me siento ___ (very) enferma.",
     "answer": "Me siento muy enferma.",
     "sourceDoc": "molly-1"
   },
@@ -18796,7 +18309,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes caminaron ___ rápido.",
+    "question": "Ustedes caminaron ___ (very) rápido.",
     "answer": "Ustedes caminaron muy rápido.",
     "sourceDoc": "molly-1"
   },
@@ -18805,7 +18318,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Hoy me siento ___ bien.",
+    "question": "Hoy me siento ___ (very) bien.",
     "answer": "Hoy me siento muy bien.",
     "sourceDoc": "molly-1"
   },
@@ -18814,7 +18327,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes salieron ___ antes que nosotros.",
+    "question": "Ustedes salieron ___ (much) antes que nosotros.",
     "answer": "Ustedes salieron mucho antes que nosotros.",
     "sourceDoc": "molly-1"
   },
@@ -18823,7 +18336,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juanito es ___ menor que Pedro.",
+    "question": "Juanito es ___ (much) menor que Pedro.",
     "answer": "Juanito es mucho menor que Pedro.",
     "sourceDoc": "molly-1"
   },
@@ -18832,7 +18345,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Carlitos habla ___ más que tú.",
+    "question": "Carlitos habla ___ (much) más que tú.",
     "answer": "Carlitos habla mucho más que tú.",
     "sourceDoc": "molly-1"
   },
@@ -18841,7 +18354,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Este café es ___ mejor.",
+    "question": "Este café es ___ (much) mejor.",
     "answer": "Este café es mucho mejor.",
     "sourceDoc": "molly-1"
   },
@@ -18850,7 +18363,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú eres ___ más inteligente que Juanito.",
+    "question": "Tú eres ___ (much) más inteligente que Juanito.",
     "answer": "Tú eres mucho más inteligente que Juanito.",
     "sourceDoc": "molly-1"
   },
@@ -18859,7 +18372,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta es ___ mayor que su hermana.",
+    "question": "Marta es ___ (much) mayor que su hermana.",
     "answer": "Marta es mucho mayor que su hermana.",
     "sourceDoc": "molly-1"
   },
@@ -18868,7 +18381,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted gasta ___ menos que yo en la comida.",
+    "question": "Usted gasta ___ (much) menos que yo en la comida.",
     "answer": "Usted gasta mucho menos que yo en la comida.",
     "sourceDoc": "molly-1"
   },
@@ -18877,7 +18390,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros llegamos ___ antes que tú.",
+    "question": "Nosotros llegamos ___ (much) antes que tú.",
     "answer": "Nosotros llegamos mucho antes que tú.",
     "sourceDoc": "molly-1"
   },
@@ -18886,7 +18399,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "La comida hoy está ___ mejor que ayer.",
+    "question": "La comida hoy está ___ (much) mejor que ayer.",
     "answer": "La comida hoy está mucho mejor que ayer.",
     "sourceDoc": "molly-1"
   },
@@ -18895,7 +18408,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes salen ___ después que nosotros.",
+    "question": "Ustedes salen ___ (much) después que nosotros.",
     "answer": "Ustedes salen mucho después que nosotros.",
     "sourceDoc": "molly-1"
   },
@@ -18904,7 +18417,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Pedro es ___ menor que yo.",
+    "question": "Pedro es ___ (much) menor que yo.",
     "answer": "Pedro es mucho menor que yo.",
     "sourceDoc": "molly-1"
   },
@@ -18913,7 +18426,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "El café está ___ peor que el té.",
+    "question": "El café está ___ (much) peor que el té.",
     "answer": "El café está mucho peor que el té.",
     "sourceDoc": "molly-1"
   },
@@ -18922,7 +18435,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Necesitamos ___ información.",
+    "question": "Necesitamos ___ (more) información.",
     "answer": "Necesitamos más información.",
     "sourceDoc": "molly-1"
   },
@@ -18931,7 +18444,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Quieres estudiar ___ tiempo.",
+    "question": "Quieres estudiar ___ (more) tiempo.",
     "answer": "Quieres estudiar más tiempo.",
     "sourceDoc": "molly-1"
   },
@@ -18940,7 +18453,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi familia está ___ relajada.",
+    "question": "Mi familia está ___ (more) relajada.",
     "answer": "Mi familia está más relajada.",
     "sourceDoc": "molly-1"
   },
@@ -18949,7 +18462,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú eres ___ tímido.",
+    "question": "Tú eres ___ (more) tímido.",
     "answer": "Tú eres más tímido.",
     "sourceDoc": "molly-1"
   },
@@ -18958,7 +18471,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo vivo ___ lejos.",
+    "question": "Yo vivo ___ (more) lejos.",
     "answer": "Yo vivo más lejos.",
     "sourceDoc": "molly-1"
   },
@@ -18967,7 +18480,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Hablamos ___ despacio.",
+    "question": "Hablamos ___ (more) despacio.",
     "answer": "Hablamos más despacio.",
     "sourceDoc": "molly-1"
   },
@@ -18976,7 +18489,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las niñas hablan ___.",
+    "question": "Las niñas hablan ___ (more).",
     "answer": "Las niñas hablan más.",
     "sourceDoc": "molly-1"
   },
@@ -18985,7 +18498,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Cada día sabemos ___.",
+    "question": "Cada día sabemos ___ (more).",
     "answer": "Cada día sabemos más.",
     "sourceDoc": "molly-1"
   },
@@ -19138,7 +18651,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Anita es ___ alta.",
+    "question": "Anita es ___ (more) alta.",
     "answer": "Anita es más alta.",
     "sourceDoc": "molly-1"
   },
@@ -19147,7 +18660,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú tienes ___ cuadernos.",
+    "question": "Tú tienes ___ (more) cuadernos.",
     "answer": "Tú tienes más cuadernos.",
     "sourceDoc": "molly-1"
   },
@@ -19156,7 +18669,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los chicos son ___ guapos.",
+    "question": "Los chicos son ___ (very) guapos.",
     "answer": "Los chicos son muy guapos.",
     "sourceDoc": "molly-1"
   },
@@ -19165,7 +18678,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Viajamos ___ bien.",
+    "question": "Viajamos ___ (very) bien.",
     "answer": "Viajamos muy bien.",
     "sourceDoc": "molly-1"
   },
@@ -19174,7 +18687,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Bebemos ___ agua.",
+    "question": "Bebemos ___ (more) agua.",
     "answer": "Bebemos más agua.",
     "sourceDoc": "molly-1"
   },
@@ -19183,7 +18696,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo tengo ___ clases.",
+    "question": "Yo tengo ___ (more) clases.",
     "answer": "Yo tengo más clases.",
     "sourceDoc": "molly-1"
   },
@@ -19192,7 +18705,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Caminas ___ despacio.",
+    "question": "Caminas ___ (very) despacio.",
     "answer": "Caminas muy despacio.",
     "sourceDoc": "molly-1"
   },
@@ -19201,7 +18714,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta es ___ inteligente.",
+    "question": "Marta es ___ (more) inteligente.",
     "answer": "Marta es más inteligente.",
     "sourceDoc": "molly-1"
   },
@@ -19210,7 +18723,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes hablan ___ bajo.",
+    "question": "Ustedes hablan ___ (very) bajo.",
     "answer": "Ustedes hablan muy bajo.",
     "sourceDoc": "molly-1"
   },
@@ -19219,7 +18732,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Pedro vive ___ lejos.",
+    "question": "Pedro vive ___ (very) lejos.",
     "answer": "Pedro vive muy lejos.",
     "sourceDoc": "molly-1"
   },
@@ -19685,7 +19198,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Yo (tener) que lavar los platos.",
+    "question": "Yo (tener, futuro) que lavar los platos.",
     "answer": "Yo tendré que lavar los platos.",
     "sourceDoc": "molly-1"
   },
@@ -19695,7 +19208,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Los dueños nos (decir) el precio.",
+    "question": "Los dueños nos (decir, futuro) el precio.",
     "answer": "Los dueños nos dirán el precio.",
     "sourceDoc": "molly-1"
   },
@@ -19705,7 +19218,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Nosotros (poder) ir juntos.",
+    "question": "Nosotros (poder, futuro) ir juntos.",
     "answer": "Nosotros podremos ir juntos.",
     "sourceDoc": "molly-1"
   },
@@ -19715,7 +19228,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "¿Quién (saber) la respuesta?",
+    "question": "¿Quién (saber, futuro) la respuesta?",
     "answer": "¿Quién sabrá la respuesta?",
     "sourceDoc": "molly-1"
   },
@@ -19725,7 +19238,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "¿Los jóvenes (querer) bailar?",
+    "question": "¿Los jóvenes (querer, futuro) bailar?",
     "answer": "¿Los jóvenes querrán bailar?",
     "sourceDoc": "molly-1"
   },
@@ -19735,7 +19248,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "¿(Venir) tú a la fiesta?",
+    "question": "¿(Venir, futuro) tú a la fiesta?",
     "answer": "¿Vendrás tú a la fiesta?",
     "sourceDoc": "molly-1"
   },
@@ -19745,7 +19258,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Tú y Juan (hacer) una tortilla.",
+    "question": "Tú y Juan (hacer, futuro) una tortilla.",
     "answer": "Tú y Juan harán una tortilla.",
     "sourceDoc": "molly-1"
   },
@@ -19755,7 +19268,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "¿Cuánta gente (haber) hoy?",
+    "question": "¿Cuánta gente (haber, futuro) hoy?",
     "answer": "¿Cuánta gente habrá hoy?",
     "sourceDoc": "molly-1"
   },
@@ -19765,7 +19278,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Tú te (poner) tus gafas de sol.",
+    "question": "Tú te (poner, futuro) tus gafas de sol.",
     "answer": "Tú te pondrás tus gafas de sol.",
     "sourceDoc": "molly-1"
   },
@@ -19775,7 +19288,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "¿Cuándo (salir) los actores?",
+    "question": "¿Cuándo (salir, futuro) los actores?",
     "answer": "¿Cuándo saldrán los actores?",
     "sourceDoc": "molly-1"
   },
@@ -19785,7 +19298,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Ustedes no (caber) en la tienda.",
+    "question": "Ustedes no (caber, futuro) en la tienda.",
     "answer": "Ustedes no cabrán en la tienda.",
     "sourceDoc": "molly-1"
   },
@@ -19795,7 +19308,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "¿Cuánto (valer) esos anillos?",
+    "question": "¿Cuánto (valer, futuro) esos anillos?",
     "answer": "¿Cuánto valdrán esos anillos?",
     "sourceDoc": "molly-1"
   },
@@ -19804,7 +19317,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Si hace buen tiempo, (jugar) afuera.",
+    "question": "Si hace buen tiempo, (jugar, futuro) afuera.",
     "answer": "Si hace buen tiempo, jugará afuera.",
     "sourceDoc": "molly-1"
   },
@@ -19813,7 +19326,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Si tienes hambre, (comer) mucha comida.",
+    "question": "Si tienes hambre, (comer, futuro) mucha comida.",
     "answer": "Si tienes hambre, comerás mucha comida.",
     "sourceDoc": "molly-1"
   },
@@ -19822,7 +19335,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Si no haces la tarea, (dormir) más temprano.",
+    "question": "Si no haces la tarea, (dormir, futuro) más temprano.",
     "answer": "Si no haces la tarea, dormirás más temprano.",
     "sourceDoc": "molly-1"
   },
@@ -19831,7 +19344,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Si es tu cumpleaños, te (divertir).",
+    "question": "Si es tu cumpleaños, te (divertir, futuro).",
     "answer": "Si es tu cumpleaños, te divertirás.",
     "sourceDoc": "molly-1"
   },
@@ -19840,7 +19353,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Si no duermes bien, (descansar).",
+    "question": "Si no duermes bien, (descansar, futuro).",
     "answer": "Si no duermes bien, descansarás.",
     "sourceDoc": "molly-1"
   },
@@ -19849,7 +19362,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "(Comer) menos, porque comí antes de la cena.",
+    "question": "(Comer, futuro) menos, porque comí antes de la cena.",
     "answer": "Comeré menos, porque comí antes de la cena.",
     "sourceDoc": "molly-1"
   },
@@ -19858,7 +19371,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "(Mirar) una película, pero solo si es de horror.",
+    "question": "(Mirar, futuro) una película, pero solo si es de horror.",
     "answer": "Miraremos una película, pero solo si es de horror.",
     "sourceDoc": "molly-1"
   },
@@ -19876,7 +19389,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Mis amigas (preparar) la cena, porque están en casa.",
+    "question": "Mis amigas (preparar, futuro) la cena, porque están en casa.",
     "answer": "Mis amigas prepararán la cena, porque están en casa.",
     "sourceDoc": "molly-1"
   },
@@ -19885,7 +19398,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Ustedes se (dormir) temprano, porque surfean por la mañana.",
+    "question": "Ustedes se (dormir, futuro) temprano, porque surfean por la mañana.",
     "answer": "Ustedes se dormirán temprano, porque surfean por la mañana.",
     "sourceDoc": "molly-1"
   },
@@ -20049,61 +19562,6 @@
     ],
     "question": "¿Por qué los amigos harán un viaje?",
     "answer": "Por una fiesta.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--a-donde-viajo-ud-la-ultima-vez",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿A dónde viajó Ud. la última vez?",
-    "answer": "Yo viajé a la ciudad de México.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--quienes-fueron-con-ud",
-    "categories": [
-      "preterite"
-    ],
-    "question": "¿Quiénes fueron con Ud.?",
-    "answer": "Mis primos fueron conmigo.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--que-necesita-usted-para-viajar",
-    "categories": [
-      "present-tense"
-    ],
-    "question": "¿Qué necesita usted para viajar?",
-    "answer": "Necesito dinero y una chaqueta.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--como-viaja-usted-por-avion-por-tren-o-por-carro",
-    "categories": [
-      "present-tense"
-    ],
-    "question": "¿Cómo viaja usted, por avión, por tren o por carro?",
-    "answer": "Por avión.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--que-pone-usted-en-su-maleta",
-    "categories": [
-      "present-tense",
-      "exceptions"
-    ],
-    "question": "¿Qué pone usted en su maleta?",
-    "answer": "Pongo toda la ropa.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--a-donde-ira-en-sus-proximas-vacaciones",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿A dónde irá en sus próximas vacaciones?",
-    "answer": "Iré a Costa Rica el viernes.",
     "sourceDoc": "molly-1"
   },
   {
@@ -20633,94 +20091,12 @@
     "sourceDoc": "molly-1"
   },
   {
-    "id": "molly-1--que-haras-despues-de-la-clase",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Qué harás después de la clase?",
-    "answer": "Surfearé a las 2:30.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--saldras-el-fin-de-semana",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Saldrás el fin de semana?",
-    "answer": "No saldré el lunes.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--que-pelicula-miraras-proximamente",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Qué película mirarás próximamente?",
-    "answer": "Miraré Zootopia 2.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--quienes-vendran-a-tu-fiesta-de-cumpleanos",
-    "categories": [
-      "future-conditional",
-      "exceptions"
-    ],
-    "question": "¿Quiénes vendrán a tu fiesta de cumpleaños?",
-    "answer": "Mis amigas Allie y Rebecca vendrán a mi fiesta.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--por-que-estara-enojado-tu-amigo",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Por qué estará enojado tu amigo?",
-    "answer": "Mi amigo estará enojado porque él perdió su trabajo.",
-    "sourceDoc": "molly-1"
-  },
-  {
     "id": "molly-1--si-hace-buen-tiempo-manana-practicaras-algun-depor",
     "categories": [
       "future-conditional"
     ],
     "question": "Si hace buen tiempo mañana, ¿practicarás algún deporte?",
     "answer": "Practicaré el tenis.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--que-comeras-para-el-almuerzo",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Qué comerás para el almuerzo?",
-    "answer": "Comeré una ensalada con pollo.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--bailaras-el-fin-de-semana",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Bailarás el fin de semana?",
-    "answer": "Mis amigos y yo no bailaremos.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--estudiaras-tu-vocabulario-mas-tarde",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Estudiarás tu vocabulario más tarde?",
-    "answer": "Sí, yo estudiaré mi vocabulario.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--quien-preparara-tu-desayuno-manana",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "¿Quién preparará tu desayuno mañana?",
-    "answer": "Un restaurante preparará mi desayuno.",
     "sourceDoc": "molly-1"
   },
   {
@@ -21349,7 +20725,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Dentro de una década no (quedar) bosques en estas montañas.",
+    "question": "Dentro de una década no (quedar, futuro) bosques en estas montañas.",
     "answer": "Dentro de una década no quedarán bosques en estas montañas.",
     "sourceDoc": "molly-1"
   },
@@ -21358,7 +20734,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Este domingo tal vez (abrir) todos los centros comerciales.",
+    "question": "Este domingo tal vez (abrir, futuro) todos los centros comerciales.",
     "answer": "Este domingo tal vez abrirán todos los centros comerciales.",
     "sourceDoc": "molly-1"
   },
@@ -21397,7 +20773,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "La policía (poder) capturar al ladrón que tomó el dinero.",
+    "question": "La policía (poder, condicional) capturar al ladrón que tomó el dinero.",
     "answer": "La policía podrá capturar al ladrón que tomó el dinero.",
     "sourceDoc": "molly-1"
   },
@@ -21407,7 +20783,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "No sé si otra mochila (caber) en el maletero.",
+    "question": "No sé si otra mochila (caber, futuro) en el maletero.",
     "answer": "No sé si otra mochila cabrá en el maletero.",
     "sourceDoc": "molly-1"
   },
@@ -21417,7 +20793,7 @@
       "future-conditional",
       "exceptions"
     ],
-    "question": "Desde mañana (tener) que trabajar todos los días.",
+    "question": "Desde mañana (tener, condicional) que trabajar todos los días.",
     "answer": "Desde mañana tendré que trabajar todos los días.",
     "sourceDoc": "molly-1"
   },
@@ -21444,7 +20820,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Nuestros amigos no (tardar) en llegar.",
+    "question": "Nuestros amigos no (tardar, futuro próximo con \"ir a\") en llegar.",
     "answer": "Nuestros amigos no van a tardar en llegar.",
     "sourceDoc": "molly-1"
   },
@@ -21462,7 +20838,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "El profesor (revisar) nuestros ejercicios.",
+    "question": "El profesor (revisar, futuro próximo con \"ir a\") nuestros ejercicios.",
     "answer": "El profesor va a revisar nuestros ejercicios.",
     "sourceDoc": "molly-1"
   },
@@ -22031,51 +21407,6 @@
     "sourceDoc": "molly-2"
   },
   {
-    "id": "molly-2--a-que-hora-te-vas-a-levantar-manana",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿A qué hora te vas a levantar mañana?",
-    "answer": "Me voy a levantar a las 6.",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--por-que-quieres-mudarte-de-casa",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Por qué quieres mudarte de casa?",
-    "answer": "Yo me quiero mudar de casa porque mi casa es pequeña.",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--en-donde-te-gusta-sentarte-para-estudiar",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿En dónde te gusta sentarte para estudiar?",
-    "answer": "Me gusta sentarme en el sofá.",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--cuantas-veces-te-vas-a-cepillar-los-dientes",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Cuántas veces te vas a cepillar los dientes?",
-    "answer": "Me voy a cepillar los dientes dos veces cada día.",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--por-que-necesitas-lavarte-las-manos-antes-de-comer",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "¿Por qué necesitas lavarte las manos antes de comer?",
-    "answer": "Necesito lavarme las manos porque hay sucios.",
-    "sourceDoc": "molly-2"
-  },
-  {
     "id": "molly-2--el-ella-uds-usar-presente",
     "categories": [
       "present-tense"
@@ -22250,7 +21581,7 @@
     "categories": [
       "present-tense"
     ],
-    "question": "Yo uso una camiseta y tú ___ (usar) un suéter.",
+    "question": "Yo uso una camiseta y tú ___ (usar, presente) un suéter.",
     "answer": "Yo uso una camiseta y tú usas un suéter.",
     "sourceDoc": "molly-2"
   },
@@ -22969,7 +22300,7 @@
     "categories": [
       "future-conditional"
     ],
-    "question": "Me gustaría ir al cine, pero tú ___ (preferir) ir a la playa.",
+    "question": "Me gustaría ir al cine, pero tú ___ (preferir, condicional) ir a la playa.",
     "answer": "Me gustaría ir al cine, pero tú preferirías ir a la playa.",
     "sourceDoc": "molly-2"
   },
@@ -23437,5 +22768,914 @@
     "question": "\"ellos\" + reciclar (presente)",
     "answer": "reciclan",
     "sourceDoc": "molly-2"
+  },
+  {
+    "id": "numbers--cero",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cero",
+    "answer": "0",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "uno",
+    "answer": "1",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "dos",
+    "answer": "2",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "tres",
+    "answer": "3",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuatro",
+    "answer": "4",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cinco",
+    "answer": "5",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "seis",
+    "answer": "6",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "siete",
+    "answer": "7",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ocho",
+    "answer": "8",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "nueve",
+    "answer": "9",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--diez",
+    "categories": [
+      "numbers"
+    ],
+    "question": "diez",
+    "answer": "10",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--once",
+    "categories": [
+      "numbers"
+    ],
+    "question": "once",
+    "answer": "11",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--doce",
+    "categories": [
+      "numbers"
+    ],
+    "question": "doce",
+    "answer": "12",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--trece",
+    "categories": [
+      "numbers"
+    ],
+    "question": "trece",
+    "answer": "13",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--catorce",
+    "categories": [
+      "numbers"
+    ],
+    "question": "catorce",
+    "answer": "14",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--quince",
+    "categories": [
+      "numbers"
+    ],
+    "question": "quince",
+    "answer": "15",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--dieciseis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "dieciséis",
+    "answer": "16",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--diecisiete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "diecisiete",
+    "answer": "17",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--dieciocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "dieciocho",
+    "answer": "18",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--diecinueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "diecinueve",
+    "answer": "19",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veinte",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veinte",
+    "answer": "20",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintiuno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintiuno",
+    "answer": "21",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintidos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintidós",
+    "answer": "22",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintitres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintitrés",
+    "answer": "23",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veinticuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veinticuatro",
+    "answer": "24",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veinticinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veinticinco",
+    "answer": "25",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintiseis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintiséis",
+    "answer": "26",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintisiete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintisiete",
+    "answer": "27",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintiocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintiocho",
+    "answer": "28",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--veintinueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "veintinueve",
+    "answer": "29",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta",
+    "answer": "30",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y uno",
+    "answer": "31",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y dos",
+    "answer": "32",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y tres",
+    "answer": "33",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y cuatro",
+    "answer": "34",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y cinco",
+    "answer": "35",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y seis",
+    "answer": "36",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y siete",
+    "answer": "37",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y ocho",
+    "answer": "38",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--treinta-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "treinta y nueve",
+    "answer": "39",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta",
+    "answer": "40",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y uno",
+    "answer": "41",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y dos",
+    "answer": "42",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y tres",
+    "answer": "43",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y cuatro",
+    "answer": "44",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y cinco",
+    "answer": "45",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y seis",
+    "answer": "46",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y siete",
+    "answer": "47",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y ocho",
+    "answer": "48",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cuarenta-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cuarenta y nueve",
+    "answer": "49",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta",
+    "answer": "50",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y uno",
+    "answer": "51",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y dos",
+    "answer": "52",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y tres",
+    "answer": "53",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y cuatro",
+    "answer": "54",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y cinco",
+    "answer": "55",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y seis",
+    "answer": "56",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y siete",
+    "answer": "57",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y ocho",
+    "answer": "58",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cincuenta-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cincuenta y nueve",
+    "answer": "59",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta",
+    "answer": "60",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y uno",
+    "answer": "61",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y dos",
+    "answer": "62",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y tres",
+    "answer": "63",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y cuatro",
+    "answer": "64",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y cinco",
+    "answer": "65",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y seis",
+    "answer": "66",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y siete",
+    "answer": "67",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y ocho",
+    "answer": "68",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--sesenta-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "sesenta y nueve",
+    "answer": "69",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta",
+    "answer": "70",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y uno",
+    "answer": "71",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y dos",
+    "answer": "72",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y tres",
+    "answer": "73",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y cuatro",
+    "answer": "74",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y cinco",
+    "answer": "75",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y seis",
+    "answer": "76",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y siete",
+    "answer": "77",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y ocho",
+    "answer": "78",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--setenta-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "setenta y nueve",
+    "answer": "79",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta",
+    "answer": "80",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y uno",
+    "answer": "81",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y dos",
+    "answer": "82",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y tres",
+    "answer": "83",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y cuatro",
+    "answer": "84",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y cinco",
+    "answer": "85",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y seis",
+    "answer": "86",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y siete",
+    "answer": "87",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y ocho",
+    "answer": "88",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--ochenta-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "ochenta y nueve",
+    "answer": "89",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa",
+    "answer": "90",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-uno",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y uno",
+    "answer": "91",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-dos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y dos",
+    "answer": "92",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-tres",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y tres",
+    "answer": "93",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-cuatro",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y cuatro",
+    "answer": "94",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-cinco",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y cinco",
+    "answer": "95",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-seis",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y seis",
+    "answer": "96",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-siete",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y siete",
+    "answer": "97",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-ocho",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y ocho",
+    "answer": "98",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--noventa-y-nueve",
+    "categories": [
+      "numbers"
+    ],
+    "question": "noventa y nueve",
+    "answer": "99",
+    "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "numbers--cien",
+    "categories": [
+      "numbers"
+    ],
+    "question": "cien",
+    "answer": "100",
+    "sourceDoc": "numbers-reference"
   }
 ]
