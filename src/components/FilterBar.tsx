@@ -1,8 +1,13 @@
 import Box from '@mui/material/Box'
 import Chip from '@mui/material/Chip'
+import IconButton from '@mui/material/IconButton'
 import ToggleButton from '@mui/material/ToggleButton'
 import ToggleButtonGroup from '@mui/material/ToggleButtonGroup'
+import Tooltip from '@mui/material/Tooltip'
 import Typography from '@mui/material/Typography'
+import DarkModeIcon from '@mui/icons-material/DarkMode'
+import LightModeIcon from '@mui/icons-material/LightMode'
+import type { PaletteMode } from '@mui/material'
 import { CATEGORIES, CATEGORY_LABELS, type Category, type MatchMode } from '../types'
 
 interface FilterBarProps {
@@ -10,9 +15,11 @@ interface FilterBarProps {
   reviewFilterActive: boolean
   reviewCount: number
   matchMode: MatchMode
+  mode: PaletteMode
   onToggleCategory: (category: Category) => void
   onToggleReview: () => void
   onMatchModeChange: (mode: MatchMode) => void
+  onToggleMode: () => void
 }
 
 export function FilterBar({
@@ -20,9 +27,11 @@ export function FilterBar({
   reviewFilterActive,
   reviewCount,
   matchMode,
+  mode,
   onToggleCategory,
   onToggleReview,
   onMatchModeChange,
+  onToggleMode,
 }: FilterBarProps) {
   return (
     <Box
@@ -69,6 +78,12 @@ export function FilterBar({
         <ToggleButton value="any">Any</ToggleButton>
         <ToggleButton value="all">All</ToggleButton>
       </ToggleButtonGroup>
+
+      <Tooltip title={mode === 'dark' ? 'Switch to light theme' : 'Switch to dark theme'}>
+        <IconButton onClick={onToggleMode} size="small" color="inherit">
+          {mode === 'dark' ? <LightModeIcon fontSize="small" /> : <DarkModeIcon fontSize="small" />}
+        </IconButton>
+      </Tooltip>
     </Box>
   )
 }

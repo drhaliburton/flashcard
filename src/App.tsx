@@ -3,21 +3,21 @@ import Box from '@mui/material/Box'
 import CssBaseline from '@mui/material/CssBaseline'
 import Typography from '@mui/material/Typography'
 import { ThemeProvider } from '@mui/material/styles'
-import useMediaQuery from '@mui/material/useMediaQuery'
 import rawFlashcards from './data/flashcards.json'
 import { FilterBar } from './components/FilterBar'
 import { FlashcardView } from './components/FlashcardView'
 import { EmptyState } from './components/EmptyState'
 import { useDeck } from './hooks/useDeck'
 import { useReviewBacklog } from './hooks/useReviewBacklog'
+import { useThemeMode } from './hooks/useThemeMode'
 import { getTheme } from './theme'
 import { CATEGORIES, type Category, type Flashcard, type MatchMode } from './types'
 
 const cards = rawFlashcards as unknown as Flashcard[]
 
 function App() {
-  const prefersDarkMode = useMediaQuery('(prefers-color-scheme: dark)')
-  const theme = useMemo(() => getTheme(prefersDarkMode ? 'dark' : 'light'), [prefersDarkMode])
+  const { mode, toggleMode } = useThemeMode()
+  const theme = useMemo(() => getTheme(mode), [mode])
 
   const [activeCategories, setActiveCategories] = useState<Set<Category>>(new Set(CATEGORIES))
   const [reviewFilterActive, setReviewFilterActive] = useState(true)
@@ -62,9 +62,11 @@ function App() {
           reviewFilterActive={reviewFilterActive}
           reviewCount={backlog.size}
           matchMode={matchMode}
+          mode={mode}
           onToggleCategory={toggleCategory}
           onToggleReview={() => setReviewFilterActive((prev) => !prev)}
           onMatchModeChange={setMatchMode}
+          onToggleMode={toggleMode}
         />
 
         {currentCard ? (

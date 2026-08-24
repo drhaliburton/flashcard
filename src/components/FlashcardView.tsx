@@ -76,7 +76,7 @@ export function FlashcardView({
           </Typography>
           <Button
             variant="outlined"
-            color={isInBacklog ? 'secondary' : 'primary'}
+            color={isInBacklog ? 'primary' : 'secondary'}
             onClick={handleReviewButtonClick}
           >
             {isInBacklog ? 'Remove from review' : 'Mark for review'}

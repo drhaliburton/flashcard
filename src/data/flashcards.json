@@ -6214,7 +6214,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes van (a la) ___ estación de buses.",
+    "question": "Ustedes van ___ estación de buses.",
     "answer": "Ustedes van a la estación de buses.",
     "sourceDoc": "rebecca-1"
   },
@@ -6223,7 +6223,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros vamos (al) ___ súper.",
+    "question": "Nosotros vamos ___ súper.",
     "answer": "Nosotros vamos al súper.",
     "sourceDoc": "rebecca-1"
   },
@@ -6232,7 +6232,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis amigos van (a la) ___ cafetería.",
+    "question": "Mis amigos van ___ cafetería.",
     "answer": "Mis amigos van a la cafetería.",
     "sourceDoc": "rebecca-1"
   },
@@ -6241,7 +6241,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú vas (a los) ___ restaurantes.",
+    "question": "Tú vas ___ restaurantes.",
     "answer": "Tú vas a los restaurantes.",
     "sourceDoc": "rebecca-1"
   },
@@ -6250,7 +6250,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juan va (al) ___ banco.",
+    "question": "Juan va ___ banco.",
     "answer": "Juan va al banco.",
     "sourceDoc": "rebecca-1"
   },
@@ -6259,7 +6259,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta va (a las) ___ tiendas.",
+    "question": "Marta va ___ tiendas.",
     "answer": "Marta va a las tiendas.",
     "sourceDoc": "rebecca-1"
   },
@@ -7011,80 +7011,88 @@
   {
     "id": "rebecca-1--carlitos-tu-tienes-que-lavar-los-platos",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Carlitos, tú tienes que ___ (lavar los platos).",
+    "question": "Carlitos, tú (tener) que lavar los platos.",
     "answer": "Carlitos, tú tienes que lavar los platos.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--ninos-ustedes-tienen-que-recoger-la-ropa",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Niños, ustedes tienen que ___ (recoger la ropa).",
+    "question": "Niños, ustedes (tener) que recoger la ropa.",
     "answer": "Niños, ustedes tienen que recoger la ropa.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--esposo-tu-tienes-que-ordenar-la-cama",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Esposo, tú tienes que ___ (ordenar la cama).",
+    "question": "Esposo, tú (tener) que ordenar la cama.",
     "answer": "Esposo, tú tienes que ordenar la cama.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--yo-tengo-que-hacer-la-tarea",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Yo tengo que ___ (hacer la tarea).",
+    "question": "Yo (tener) que hacer la tarea.",
     "answer": "Yo tengo que hacer la tarea.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--ninos-ustedes-tienen-que-ayudar-a-los-otros-ninos",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "Niños, ustedes tienen que ___ (ayudar a los otros niños).",
+    "question": "Niños, ustedes (tener) que ayudar a los otros niños.",
     "answer": "Niños, ustedes tienen que ayudar a los otros niños.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--que-tienes-que-hacer-hoy-la-tarea",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "¿Qué tienes que hacer hoy? (la tarea)",
+    "question": "(Tener) que hacer la tarea.",
     "answer": "Tengo que hacer la tarea.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--que-tienes-que-hacer-hoy-llamar-a-mi-mama",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "¿Qué tienes que hacer hoy? (llamar a mi mamá)",
+    "question": "(Tener) que llamar a mi mamá.",
     "answer": "Tengo que llamar a mi mamá.",
     "sourceDoc": "rebecca-1"
   },
   {
     "id": "rebecca-1--que-tienes-que-hacer-hoy-ir-de-compras",
     "categories": [
-      "present-tense",
-      "grammar-expressions"
+      "exceptions",
+      "grammar-expressions",
+      "present-tense"
     ],
-    "question": "¿Qué tienes que hacer hoy? (ir de compras)",
+    "question": "(Tener) que ir de compras.",
     "answer": "Tengo que ir de compras.",
     "sourceDoc": "rebecca-1"
   },
@@ -7215,7 +7223,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ tarea. (mucho)",
+    "question": "Completa: ___ tarea.",
     "answer": "mucha tarea",
     "sourceDoc": "rebecca-1"
   },
@@ -7224,7 +7232,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ café. (mucho)",
+    "question": "Completa: ___ café.",
     "answer": "mucho café",
     "sourceDoc": "rebecca-1"
   },
@@ -7233,7 +7241,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ ciudades. (mucho)",
+    "question": "Completa: ___ ciudades.",
     "answer": "muchas ciudades",
     "sourceDoc": "rebecca-1"
   },
@@ -7242,7 +7250,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ niños. (mucho)",
+    "question": "Completa: ___ niños.",
     "answer": "muchos niños",
     "sourceDoc": "rebecca-1"
   },
@@ -7251,7 +7259,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ comida. (mucho)",
+    "question": "Completa: ___ comida.",
     "answer": "mucha comida",
     "sourceDoc": "rebecca-1"
   },
@@ -7260,7 +7268,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ dinero. (mucho)",
+    "question": "Completa: ___ dinero.",
     "answer": "mucho dinero",
     "sourceDoc": "rebecca-1"
   },
@@ -7269,7 +7277,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ tiempo. (mucho)",
+    "question": "Completa: ___ tiempo.",
     "answer": "mucho tiempo",
     "sourceDoc": "rebecca-1"
   },
@@ -7278,7 +7286,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ mensajes. (mucho)",
+    "question": "Completa: ___ mensajes.",
     "answer": "muchos mensajes",
     "sourceDoc": "rebecca-1"
   },
@@ -7287,7 +7295,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ bebidas. (mucho)",
+    "question": "Completa: ___ bebidas.",
     "answer": "muchas bebidas",
     "sourceDoc": "rebecca-1"
   },
@@ -7296,7 +7304,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ cosas. (mucho)",
+    "question": "Completa: ___ cosas.",
     "answer": "muchas cosas",
     "sourceDoc": "rebecca-1"
   },
@@ -7305,7 +7313,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ calor. (mucho)",
+    "question": "Completa: ___ calor.",
     "answer": "mucho calor",
     "sourceDoc": "rebecca-1"
   },
@@ -7314,7 +7322,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ noches. (mucho)",
+    "question": "Completa: ___ noches.",
     "answer": "muchas noches",
     "sourceDoc": "rebecca-1"
   },
@@ -7323,7 +7331,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ días. (mucho)",
+    "question": "Completa: ___ días.",
     "answer": "muchos días",
     "sourceDoc": "rebecca-1"
   },
@@ -7332,7 +7340,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ frío. (mucho)",
+    "question": "Completa: ___ frío.",
     "answer": "mucho frío",
     "sourceDoc": "rebecca-1"
   },
@@ -7341,7 +7349,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ libros. (mucho)",
+    "question": "Completa: ___ libros.",
     "answer": "muchos libros",
     "sourceDoc": "rebecca-1"
   },
@@ -7350,7 +7358,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú trabajas ___. (mucho)",
+    "question": "Tú trabajas ___.",
     "answer": "Tú trabajas mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7359,7 +7367,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros viajamos ___. (mucho)",
+    "question": "Nosotros viajamos ___.",
     "answer": "Nosotros viajamos mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7368,7 +7376,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las chicas hablan ___. (mucho)",
+    "question": "Las chicas hablan ___.",
     "answer": "Las chicas hablan mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7377,7 +7385,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted no camina ___. (mucho)",
+    "question": "Usted no camina ___.",
     "answer": "Usted no camina mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7386,7 +7394,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo no comprendo ___. (mucho)",
+    "question": "Yo no comprendo ___.",
     "answer": "Yo no comprendo mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7395,7 +7403,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú sabes ___. (mucho)",
+    "question": "Tú sabes ___.",
     "answer": "Tú sabes mucho.",
     "sourceDoc": "rebecca-1"
   },
@@ -7467,7 +7475,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Lo está más gordo que Li. Entonces, Li está más ___ (flaco) que Lo.",
+    "question": "Lo está más gordo que Li. Entonces, Li está más ___ que Lo.",
     "answer": "Li está más flaco que Lo.",
     "sourceDoc": "rebecca-1"
   },
@@ -7476,7 +7484,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Isa es más grande que Ben. Entonces, Ben es más ___ (pequeño) que Isa.",
+    "question": "Isa es más grande que Ben. Entonces, Ben es más ___ que Isa.",
     "answer": "Ben es más pequeño que Isa.",
     "sourceDoc": "rebecca-1"
   },
@@ -7485,7 +7493,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Sue tiene más calor que Ro. Ro tiene más ___ (frío) que Sue.",
+    "question": "Sue tiene más calor que Ro. Ro tiene más ___ que Sue.",
     "answer": "Ro tiene más frío que Sue.",
     "sourceDoc": "rebecca-1"
   },
@@ -7494,7 +7502,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "An es más bueno que De. Entonces, De es más ___ (malo) que An.",
+    "question": "An es más bueno que De. Entonces, De es más ___ que An.",
     "answer": "De es más malo que An.",
     "sourceDoc": "rebecca-1"
   },
@@ -7593,7 +7601,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ricardo es ___ (menos) inteligente que Luisa.",
+    "question": "Ricardo es ___ inteligente que Luisa.",
     "answer": "Ricardo es menos inteligente que Luisa.",
     "sourceDoc": "rebecca-1"
   },
@@ -7602,7 +7610,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Sus padres tienen ___ (menos) tiempo libre que los niños.",
+    "question": "Sus padres tienen ___ tiempo libre que los niños.",
     "answer": "Sus padres tienen menos tiempo libre que los niños.",
     "sourceDoc": "rebecca-1"
   },
@@ -7611,7 +7619,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Estudiamos ___ (más) que ellos.",
+    "question": "Estudiamos ___ que ellos.",
     "answer": "Estudiamos más que ellos.",
     "sourceDoc": "rebecca-1"
   },
@@ -7620,7 +7628,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros comemos ___ (más) frutas que ella.",
+    "question": "Nosotros comemos ___ frutas que ella.",
     "answer": "Nosotros comemos más frutas que ella.",
     "sourceDoc": "rebecca-1"
   },
@@ -7629,7 +7637,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Eres ___ (menos) amable conmigo que Lucas.",
+    "question": "Eres ___ amable conmigo que Lucas.",
     "answer": "Eres menos amable conmigo que Lucas.",
     "sourceDoc": "rebecca-1"
   },
@@ -7638,7 +7646,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi hermano trabaja ___ (más) que tú.",
+    "question": "Mi hermano trabaja ___ que tú.",
     "answer": "Mi hermano trabaja más que tú.",
     "sourceDoc": "rebecca-1"
   },
@@ -7647,7 +7655,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las tartas de mi madre son ___ (más) sabrosas que las que venden en la pastelería.",
+    "question": "Las tartas de mi madre son ___ sabrosas que las que venden en la pastelería.",
     "answer": "Las tartas de mi madre son más sabrosas que las que venden en la pastelería.",
     "sourceDoc": "rebecca-1"
   },
@@ -7656,7 +7664,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Creo que hoy estoy ___ (más) contento que ayer.",
+    "question": "Creo que hoy estoy ___ contento que ayer.",
     "answer": "Creo que hoy estoy más contento que ayer.",
     "sourceDoc": "rebecca-1"
   },
@@ -7665,7 +7673,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Estos ejercicios son ___ (menos) complicados que los ejercicios con los verbos.",
+    "question": "Estos ejercicios son ___ complicados que los ejercicios con los verbos.",
     "answer": "Estos ejercicios son menos complicados que los ejercicios con los verbos.",
     "sourceDoc": "rebecca-1"
   },
@@ -7674,7 +7682,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú viajas ___ (más) que yo.",
+    "question": "Tú viajas ___ que yo.",
     "answer": "Tú viajas más que yo.",
     "sourceDoc": "rebecca-1"
   },
@@ -7683,7 +7691,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis primos siempre juegan fútbol ___ (más) que nosotros.",
+    "question": "Mis primos siempre juegan fútbol ___ que nosotros.",
     "answer": "Mis primos siempre juegan fútbol más que nosotros.",
     "sourceDoc": "rebecca-1"
   },
@@ -7692,7 +7700,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "El hipopótamo del zoológico es ___ (menos) gordo que el elefante.",
+    "question": "El hipopótamo del zoológico es ___ gordo que el elefante.",
     "answer": "El hipopótamo del zoológico es menos gordo que el elefante.",
     "sourceDoc": "rebecca-1"
   },
@@ -7701,7 +7709,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "La profesora de matemáticas enseña ___ (más) que la profesora de literatura.",
+    "question": "La profesora de matemáticas enseña ___ que la profesora de literatura.",
     "answer": "La profesora de matemáticas enseña más que la profesora de literatura.",
     "sourceDoc": "rebecca-1"
   },
@@ -7710,7 +7718,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Creo que Praga es ___ (más) bonita que Milán.",
+    "question": "Creo que Praga es ___ bonita que Milán.",
     "answer": "Creo que Praga es más bonita que Milán.",
     "sourceDoc": "rebecca-1"
   },
@@ -7719,7 +7727,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo pienso que Madrid es ___ (menos) bonita que Praga.",
+    "question": "Yo pienso que Madrid es ___ bonita que Praga.",
     "answer": "Yo pienso que Madrid es menos bonita que Praga.",
     "sourceDoc": "rebecca-1"
   },
@@ -7728,7 +7736,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi hermano tiene ___ (más) amigos que Juanito.",
+    "question": "Mi hermano tiene ___ amigos que Juanito.",
     "answer": "Mi hermano tiene más amigos que Juanito.",
     "sourceDoc": "rebecca-1"
   },
@@ -8205,7 +8213,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Nosotros visitamos la playa. (pasado)",
+    "question": "Nosotros (visitar) la playa. (pretérito)",
     "answer": "Nosotros visitamos la playa.",
     "sourceDoc": "rebecca-1"
   },
@@ -8259,7 +8267,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Regresé de mi trabajo. (anoche)",
+    "question": "Anoche (regresar) de mi trabajo.",
     "answer": "Anoche regresé de mi trabajo.",
     "sourceDoc": "rebecca-1"
   },
@@ -8268,8 +8276,8 @@
     "categories": [
       "preterite"
     ],
-    "question": "Visité España con mi familia. (la semana pasada)",
-    "answer": "La semana pasada visité España.",
+    "question": "La semana pasada (visitar) España con mi familia.",
+    "answer": "La semana pasada visité España con mi familia.",
     "sourceDoc": "rebecca-1"
   },
   {
@@ -8277,7 +8285,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Hablé con mis amigas en un café. (ayer)",
+    "question": "Ayer (hablar) con mis amigas en un café.",
     "answer": "Ayer hablé con mis amigas en un café.",
     "sourceDoc": "rebecca-1"
   },
@@ -8286,7 +8294,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Comí comida de India. (el año pasado)",
+    "question": "El año pasado (comer) comida de India.",
     "answer": "El año pasado comí comida de India.",
     "sourceDoc": "rebecca-1"
   },
@@ -8295,7 +8303,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Le escribí una carta a una amiga. (la semana pasada)",
+    "question": "La semana pasada le (escribir) una carta a una amiga.",
     "answer": "La semana pasada le escribí una carta a una amiga.",
     "sourceDoc": "rebecca-1"
   },
@@ -8304,7 +8312,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Recibí un regalo costoso. (hace dos semanas)",
+    "question": "Hace dos semanas (recibir) un regalo costoso.",
     "answer": "Hace dos semanas recibí un regalo costoso.",
     "sourceDoc": "rebecca-1"
   },
@@ -8890,8 +8898,8 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Juan hizo la tarea y Marta ___ (hacer) la tarea.",
-    "answer": "Juan hizo la tarea y Marta hizo la tarea.",
+    "question": "Marta ___ (hacer) la tarea.",
+    "answer": "Marta hizo la tarea.",
     "sourceDoc": "rebecca-1"
   },
   {
@@ -9220,8 +9228,8 @@
       "preterite",
       "exceptions"
     ],
-    "question": "Mi mamá influyó en la comida y mi papá ___ (influir) también.",
-    "answer": "Mi mamá influyó en la comida y mi papá también influyó.",
+    "question": "Mi papá ___ (influir) también.",
+    "answer": "Mi papá también influyó.",
     "sourceDoc": "rebecca-1"
   },
   {
@@ -13945,15 +13953,6 @@
     "sourceDoc": "molly-1"
   },
   {
-    "id": "molly-1--nosotros-visitamos-la-playa-preterito",
-    "categories": [
-      "preterite"
-    ],
-    "question": "Nosotros visitamos la playa. (pretérito)",
-    "answer": "Nosotros visitamos la playa.",
-    "sourceDoc": "molly-1"
-  },
-  {
     "id": "molly-1--ustedes-salen-pronto-preterito",
     "categories": [
       "preterite"
@@ -15357,7 +15356,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usamos (estos) papeles en la oficina.",
+    "question": "Usamos (these) papeles en la oficina.",
     "answer": "Usamos estos papeles en la oficina.",
     "sourceDoc": "molly-1"
   },
@@ -15366,7 +15365,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Te gusta (esa) lámpara para el salón?",
+    "question": "¿Te gusta (that) lámpara para el salón?",
     "answer": "¿Te gusta esa lámpara para el salón?",
     "sourceDoc": "molly-1"
   },
@@ -15375,7 +15374,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú vives en (aquella) casa azul.",
+    "question": "Tú vives en (that, over there) casa azul.",
     "answer": "Tú vives en aquella casa azul.",
     "sourceDoc": "molly-1"
   },
@@ -15384,7 +15383,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted pinta (este) cuadro.",
+    "question": "Usted pinta (this) cuadro.",
     "answer": "Usted pinta este cuadro.",
     "sourceDoc": "molly-1"
   },
@@ -15393,7 +15392,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los niños miran (esta) película.",
+    "question": "Los niños miran (this) película.",
     "answer": "Los niños miran esta película.",
     "sourceDoc": "molly-1"
   },
@@ -15402,7 +15401,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las chicas cantan (esas) canciones.",
+    "question": "Las chicas cantan (those) canciones.",
     "answer": "Las chicas cantan esas canciones.",
     "sourceDoc": "molly-1"
   },
@@ -15411,7 +15410,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros vamos a (aquellas) montañas.",
+    "question": "Nosotros vamos a (those, over there) montañas.",
     "answer": "Nosotros vamos a aquellas montañas.",
     "sourceDoc": "molly-1"
   },
@@ -15420,7 +15419,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes prefieren (esos) colores.",
+    "question": "Ustedes prefieren (those) colores.",
     "answer": "Ustedes prefieren esos colores.",
     "sourceDoc": "molly-1"
   },
@@ -18284,7 +18283,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Todos los días tengo (mucho) trabajo.",
+    "question": "Todos los días tengo ___ trabajo.",
     "answer": "Todos los días tengo mucho trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -18293,7 +18292,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes leen (muchos) libros.",
+    "question": "Ustedes leen ___ libros.",
     "answer": "Ustedes leen muchos libros.",
     "sourceDoc": "molly-1"
   },
@@ -18302,7 +18301,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las muchachas hicieron (muchas) cosas antes de la clase.",
+    "question": "Las muchachas hicieron ___ cosas antes de la clase.",
     "answer": "Las muchachas hicieron muchas cosas antes de la clase.",
     "sourceDoc": "molly-1"
   },
@@ -18311,53 +18310,8 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo voy a tomar (mucha) agua.",
+    "question": "Yo voy a tomar ___ agua.",
     "answer": "Yo voy a tomar mucha agua.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--mucha-tarea-mucho-cafe-muchas-ciudades",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "(mucha) tarea, (mucho) café, (muchas) ciudades",
-    "answer": "mucha tarea, mucho café, muchas ciudades",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--muchos-ninos-mucha-comida-mucho-dinero",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "(muchos) niños, (mucha) comida, (mucho) dinero",
-    "answer": "muchos niños, mucha comida, mucho dinero",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--mucho-tiempo-muchos-mensajes-muchas-bebidas",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "(mucho) tiempo, (muchos) mensajes, (muchas) bebidas",
-    "answer": "mucho tiempo, muchos mensajes, muchas bebidas",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--muchas-cosas-mucho-calor-muchas-noches",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "(muchas) cosas, (mucho) calor, (muchas) noches",
-    "answer": "muchas cosas, mucho calor, muchas noches",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--muchos-dias-mucho-frio-muchos-libros",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "(muchos) días, (mucho) frío, (muchos) libros",
-    "answer": "muchos días, mucho frío, muchos libros",
     "sourceDoc": "molly-1"
   },
   {
@@ -18365,7 +18319,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Anoche trabajamos (mucho).",
+    "question": "Anoche trabajamos ___.",
     "answer": "Anoche trabajamos mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18374,7 +18328,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú estás hablando (mucho) hoy.",
+    "question": "Tú estás hablando ___ hoy.",
     "answer": "Tú estás hablando mucho hoy.",
     "sourceDoc": "molly-1"
   },
@@ -18383,7 +18337,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú trabajas (mucho).",
+    "question": "Tú trabajas ___.",
     "answer": "Tú trabajas mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18392,7 +18346,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros viajamos (mucho).",
+    "question": "Nosotros viajamos ___.",
     "answer": "Nosotros viajamos mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18401,7 +18355,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las chicas hablan (mucho).",
+    "question": "Las chicas hablan ___.",
     "answer": "Las chicas hablan mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18410,7 +18364,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted no camina (mucho).",
+    "question": "Usted no camina ___.",
     "answer": "Usted no camina mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18419,7 +18373,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo no comprendo (mucho).",
+    "question": "Yo no comprendo ___.",
     "answer": "Yo no comprendo mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18428,7 +18382,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú sabes (mucho).",
+    "question": "Tú sabes ___.",
     "answer": "Tú sabes mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18437,7 +18391,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "(mucha) gente.",
+    "question": "Completa: ___ gente.",
     "answer": "mucha gente.",
     "sourceDoc": "molly-1"
   },
@@ -18446,7 +18400,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "(muchos) libros.",
+    "question": "Completa: ___ libros.",
     "answer": "muchos libros.",
     "sourceDoc": "molly-1"
   },
@@ -18455,7 +18409,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "(muchas) personas.",
+    "question": "Completa: ___ personas.",
     "answer": "muchas personas.",
     "sourceDoc": "molly-1"
   },
@@ -18464,7 +18418,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "(mucha) agua.",
+    "question": "Completa: ___ agua.",
     "answer": "mucha agua.",
     "sourceDoc": "molly-1"
   },
@@ -18473,7 +18427,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "(muchas) flores.",
+    "question": "Completa: ___ flores.",
     "answer": "muchas flores.",
     "sourceDoc": "molly-1"
   },
@@ -18482,7 +18436,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú caminas (mucho).",
+    "question": "Tú caminas ___.",
     "answer": "Tú caminas mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18491,7 +18445,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tengo (mucho) trabajo.",
+    "question": "Tengo ___ trabajo.",
     "answer": "Tengo mucho trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -18500,7 +18454,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú lees (mucho) cada día.",
+    "question": "Tú lees ___ cada día.",
     "answer": "Tú lees mucho cada día.",
     "sourceDoc": "molly-1"
   },
@@ -18509,7 +18463,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "(muchos) días.",
+    "question": "___ días.",
     "answer": "muchos días.",
     "sourceDoc": "molly-1"
   },
@@ -18518,7 +18472,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi familia viaja (mucho).",
+    "question": "Mi familia viaja ___.",
     "answer": "Mi familia viaja mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18527,7 +18481,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Pedro y Pablo tienen (muchos) amigos.",
+    "question": "Pedro y Pablo tienen ___ amigos.",
     "answer": "Pedro y Pablo tienen muchos amigos.",
     "sourceDoc": "molly-1"
   },
@@ -18536,7 +18490,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú miras (muchas) películas.",
+    "question": "Tú miras ___ películas.",
     "answer": "Tú miras muchas películas.",
     "sourceDoc": "molly-1"
   },
@@ -18545,7 +18499,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta y yo visitamos (muchos) museos.",
+    "question": "Marta y yo visitamos ___ museos.",
     "answer": "Marta y yo visitamos muchos museos.",
     "sourceDoc": "molly-1"
   },
@@ -18554,7 +18508,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los muchachos escuchan (muchas) canciones.",
+    "question": "Los muchachos escuchan ___ canciones.",
     "answer": "Los muchachos escuchan muchas canciones.",
     "sourceDoc": "molly-1"
   },
@@ -18563,7 +18517,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis primos quieren estudiar (mucho).",
+    "question": "Mis primos quieren estudiar ___.",
     "answer": "Mis primos quieren estudiar mucho.",
     "sourceDoc": "molly-1"
   },
@@ -18572,7 +18526,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "No tenemos (mucho) tiempo libre.",
+    "question": "No tenemos ___ tiempo libre.",
     "answer": "No tenemos mucho tiempo libre.",
     "sourceDoc": "molly-1"
   },
@@ -18581,7 +18535,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "La maestra explica con (mucha) paciencia.",
+    "question": "La maestra explica con ___ paciencia.",
     "answer": "La maestra explica con mucha paciencia.",
     "sourceDoc": "molly-1"
   },
@@ -18590,7 +18544,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú bebes (mucho) té con leche.",
+    "question": "Tú bebes ___ té con leche.",
     "answer": "Tú bebes mucho té con leche.",
     "sourceDoc": "molly-1"
   },
@@ -18599,7 +18553,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi abuelita prepara (mucha) comida deliciosa.",
+    "question": "Mi abuelita prepara ___ comida deliciosa.",
     "answer": "Mi abuelita prepara mucha comida deliciosa.",
     "sourceDoc": "molly-1"
   },
@@ -18824,7 +18778,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los muchachos son (muy) altos.",
+    "question": "Los muchachos son ___ altos.",
     "answer": "Los muchachos son muy altos.",
     "sourceDoc": "molly-1"
   },
@@ -18833,7 +18787,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Me siento (muy) enferma.",
+    "question": "Me siento ___ enferma.",
     "answer": "Me siento muy enferma.",
     "sourceDoc": "molly-1"
   },
@@ -18842,7 +18796,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes caminaron (muy) rápido.",
+    "question": "Ustedes caminaron ___ rápido.",
     "answer": "Ustedes caminaron muy rápido.",
     "sourceDoc": "molly-1"
   },
@@ -18851,7 +18805,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Hoy me siento (muy) bien.",
+    "question": "Hoy me siento ___ bien.",
     "answer": "Hoy me siento muy bien.",
     "sourceDoc": "molly-1"
   },
@@ -18860,7 +18814,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes salieron (mucho) antes que nosotros.",
+    "question": "Ustedes salieron ___ antes que nosotros.",
     "answer": "Ustedes salieron mucho antes que nosotros.",
     "sourceDoc": "molly-1"
   },
@@ -18869,7 +18823,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juanito es (mucho) menor que Pedro.",
+    "question": "Juanito es ___ menor que Pedro.",
     "answer": "Juanito es mucho menor que Pedro.",
     "sourceDoc": "molly-1"
   },
@@ -18878,7 +18832,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Carlitos habla (mucho) más que tú.",
+    "question": "Carlitos habla ___ más que tú.",
     "answer": "Carlitos habla mucho más que tú.",
     "sourceDoc": "molly-1"
   },
@@ -18887,7 +18841,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Este café es (mucho) mejor.",
+    "question": "Este café es ___ mejor.",
     "answer": "Este café es mucho mejor.",
     "sourceDoc": "molly-1"
   },
@@ -18896,7 +18850,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú eres (mucho) más inteligente que Juanito.",
+    "question": "Tú eres ___ más inteligente que Juanito.",
     "answer": "Tú eres mucho más inteligente que Juanito.",
     "sourceDoc": "molly-1"
   },
@@ -18905,7 +18859,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta es (mucho) mayor que su hermana.",
+    "question": "Marta es ___ mayor que su hermana.",
     "answer": "Marta es mucho mayor que su hermana.",
     "sourceDoc": "molly-1"
   },
@@ -18914,7 +18868,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Usted gasta (mucho) menos que yo en la comida.",
+    "question": "Usted gasta ___ menos que yo en la comida.",
     "answer": "Usted gasta mucho menos que yo en la comida.",
     "sourceDoc": "molly-1"
   },
@@ -18923,7 +18877,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros llegamos (mucho) antes que tú.",
+    "question": "Nosotros llegamos ___ antes que tú.",
     "answer": "Nosotros llegamos mucho antes que tú.",
     "sourceDoc": "molly-1"
   },
@@ -18932,7 +18886,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "La comida hoy está (mucho) mejor que ayer.",
+    "question": "La comida hoy está ___ mejor que ayer.",
     "answer": "La comida hoy está mucho mejor que ayer.",
     "sourceDoc": "molly-1"
   },
@@ -18941,7 +18895,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes salen (mucho) después que nosotros.",
+    "question": "Ustedes salen ___ después que nosotros.",
     "answer": "Ustedes salen mucho después que nosotros.",
     "sourceDoc": "molly-1"
   },
@@ -18950,7 +18904,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Pedro es (mucho) menor que yo.",
+    "question": "Pedro es ___ menor que yo.",
     "answer": "Pedro es mucho menor que yo.",
     "sourceDoc": "molly-1"
   },
@@ -18959,7 +18913,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "El café está (mucho) peor que el té.",
+    "question": "El café está ___ peor que el té.",
     "answer": "El café está mucho peor que el té.",
     "sourceDoc": "molly-1"
   },
@@ -18968,7 +18922,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Necesitamos (más) información.",
+    "question": "Necesitamos ___ información.",
     "answer": "Necesitamos más información.",
     "sourceDoc": "molly-1"
   },
@@ -18977,7 +18931,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Quieres estudiar (más) tiempo.",
+    "question": "Quieres estudiar ___ tiempo.",
     "answer": "Quieres estudiar más tiempo.",
     "sourceDoc": "molly-1"
   },
@@ -18986,7 +18940,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi familia está (más) relajada.",
+    "question": "Mi familia está ___ relajada.",
     "answer": "Mi familia está más relajada.",
     "sourceDoc": "molly-1"
   },
@@ -18995,7 +18949,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú eres (más) tímido.",
+    "question": "Tú eres ___ tímido.",
     "answer": "Tú eres más tímido.",
     "sourceDoc": "molly-1"
   },
@@ -19004,7 +18958,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo vivo (más) lejos.",
+    "question": "Yo vivo ___ lejos.",
     "answer": "Yo vivo más lejos.",
     "sourceDoc": "molly-1"
   },
@@ -19013,7 +18967,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Hablamos (más) despacio.",
+    "question": "Hablamos ___ despacio.",
     "answer": "Hablamos más despacio.",
     "sourceDoc": "molly-1"
   },
@@ -19022,7 +18976,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las niñas hablan (más).",
+    "question": "Las niñas hablan ___.",
     "answer": "Las niñas hablan más.",
     "sourceDoc": "molly-1"
   },
@@ -19031,7 +18985,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Cada día sabemos (más).",
+    "question": "Cada día sabemos ___.",
     "answer": "Cada día sabemos más.",
     "sourceDoc": "molly-1"
   },
@@ -19184,7 +19138,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Anita es (más) alta.",
+    "question": "Anita es ___ alta.",
     "answer": "Anita es más alta.",
     "sourceDoc": "molly-1"
   },
@@ -19193,7 +19147,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú tienes (más) cuadernos.",
+    "question": "Tú tienes ___ cuadernos.",
     "answer": "Tú tienes más cuadernos.",
     "sourceDoc": "molly-1"
   },
@@ -19202,7 +19156,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Los chicos son (muy) guapos.",
+    "question": "Los chicos son ___ guapos.",
     "answer": "Los chicos son muy guapos.",
     "sourceDoc": "molly-1"
   },
@@ -19211,7 +19165,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Viajamos (muy) bien.",
+    "question": "Viajamos ___ bien.",
     "answer": "Viajamos muy bien.",
     "sourceDoc": "molly-1"
   },
@@ -19220,7 +19174,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Bebemos (más) agua.",
+    "question": "Bebemos ___ agua.",
     "answer": "Bebemos más agua.",
     "sourceDoc": "molly-1"
   },
@@ -19229,7 +19183,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo tengo (más) clases.",
+    "question": "Yo tengo ___ clases.",
     "answer": "Yo tengo más clases.",
     "sourceDoc": "molly-1"
   },
@@ -19238,7 +19192,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Caminas (muy) despacio.",
+    "question": "Caminas ___ despacio.",
     "answer": "Caminas muy despacio.",
     "sourceDoc": "molly-1"
   },
@@ -19247,7 +19201,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta es (más) inteligente.",
+    "question": "Marta es ___ inteligente.",
     "answer": "Marta es más inteligente.",
     "sourceDoc": "molly-1"
   },
@@ -19256,7 +19210,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes hablan (muy) bajo.",
+    "question": "Ustedes hablan ___ bajo.",
     "answer": "Ustedes hablan muy bajo.",
     "sourceDoc": "molly-1"
   },
@@ -19265,7 +19219,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Pedro vive (muy) lejos.",
+    "question": "Pedro vive ___ lejos.",
     "answer": "Pedro vive muy lejos.",
     "sourceDoc": "molly-1"
   },
@@ -22362,8 +22316,8 @@
       "present-tense",
       "grammar-expressions"
     ],
-    "question": "Pedro se pone los calcetines y Juanito ___ (ponerse) los calzoncillos.",
-    "answer": "Pedro se pone los calcetines y Juanito se pone los calzoncillos.",
+    "question": "Juanito ___ (ponerse) los calzoncillos.",
+    "answer": "Juanito se pone los calzoncillos.",
     "sourceDoc": "molly-2"
   },
   {
