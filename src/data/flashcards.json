@@ -7223,7 +7223,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ tarea.",
+    "question": "Completa: ___ (much) tarea.",
     "answer": "mucha tarea",
     "sourceDoc": "rebecca-1"
   },
@@ -7232,7 +7232,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ café.",
+    "question": "Completa: ___ (much) café.",
     "answer": "mucho café",
     "sourceDoc": "rebecca-1"
   },
@@ -7241,7 +7241,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ ciudades.",
+    "question": "Completa: ___ (many) ciudades.",
     "answer": "muchas ciudades",
     "sourceDoc": "rebecca-1"
   },
@@ -7250,7 +7250,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ niños.",
+    "question": "Completa: ___ (many) niños.",
     "answer": "muchos niños",
     "sourceDoc": "rebecca-1"
   },
@@ -7259,7 +7259,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ comida.",
+    "question": "Completa: ___ (much) comida.",
     "answer": "mucha comida",
     "sourceDoc": "rebecca-1"
   },
@@ -7268,7 +7268,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ dinero.",
+    "question": "Completa: ___ (much) dinero.",
     "answer": "mucho dinero",
     "sourceDoc": "rebecca-1"
   },
@@ -7277,7 +7277,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ tiempo.",
+    "question": "Completa: ___ (much) tiempo.",
     "answer": "mucho tiempo",
     "sourceDoc": "rebecca-1"
   },
@@ -7286,7 +7286,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ mensajes.",
+    "question": "Completa: ___ (many) mensajes.",
     "answer": "muchos mensajes",
     "sourceDoc": "rebecca-1"
   },
@@ -7295,7 +7295,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ bebidas.",
+    "question": "Completa: ___ (many) bebidas.",
     "answer": "muchas bebidas",
     "sourceDoc": "rebecca-1"
   },
@@ -7304,7 +7304,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ cosas.",
+    "question": "Completa: ___ (many) cosas.",
     "answer": "muchas cosas",
     "sourceDoc": "rebecca-1"
   },
@@ -7313,7 +7313,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ calor.",
+    "question": "Completa: ___ (much) calor.",
     "answer": "mucho calor",
     "sourceDoc": "rebecca-1"
   },
@@ -7322,7 +7322,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ noches.",
+    "question": "Completa: ___ (many) noches.",
     "answer": "muchas noches",
     "sourceDoc": "rebecca-1"
   },
@@ -7331,7 +7331,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ días.",
+    "question": "Completa: ___ (many) días.",
     "answer": "muchos días",
     "sourceDoc": "rebecca-1"
   },
@@ -7340,7 +7340,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ frío.",
+    "question": "Completa: ___ (much) frío.",
     "answer": "mucho frío",
     "sourceDoc": "rebecca-1"
   },
@@ -7349,7 +7349,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ libros.",
+    "question": "Completa: ___ (many) libros.",
     "answer": "muchos libros",
     "sourceDoc": "rebecca-1"
   },
@@ -7475,7 +7475,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Lo está más gordo que Li. Entonces, Li está más ___ que Lo.",
+    "question": "Lo está más gordo que Li. Entonces, Li está más ___ (thin) que Lo.",
     "answer": "Li está más flaco que Lo.",
     "sourceDoc": "rebecca-1"
   },
@@ -7484,7 +7484,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Isa es más grande que Ben. Entonces, Ben es más ___ que Isa.",
+    "question": "Isa es más grande que Ben. Entonces, Ben es más ___ (small) que Isa.",
     "answer": "Ben es más pequeño que Isa.",
     "sourceDoc": "rebecca-1"
   },
@@ -7493,7 +7493,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Sue tiene más calor que Ro. Ro tiene más ___ que Sue.",
+    "question": "Sue tiene más calor que Ro. Ro tiene más ___ (cold) que Sue.",
     "answer": "Ro tiene más frío que Sue.",
     "sourceDoc": "rebecca-1"
   },
@@ -7502,7 +7502,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "An es más bueno que De. Entonces, De es más ___ que An.",
+    "question": "An es más bueno que De. Entonces, De es más ___ (bad) que An.",
     "answer": "De es más malo que An.",
     "sourceDoc": "rebecca-1"
   },
@@ -9527,7 +9527,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ella maneja ___ carro.",
+    "question": "Ella maneja ___ (her) carro.",
     "answer": "Ella maneja su carro.",
     "sourceDoc": "rebecca-2"
   },
@@ -9545,7 +9545,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros hablamos mucho con ___ amigos.",
+    "question": "Nosotros hablamos mucho con ___ (our) amigos.",
     "answer": "Nosotros hablamos mucho con nuestros amigos.",
     "sourceDoc": "rebecca-2"
   },
@@ -9554,7 +9554,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Alfredo visita a ___ abuelitos.",
+    "question": "Alfredo visita a ___ (his) abuelitos.",
     "answer": "Alfredo visita a sus abuelitos.",
     "sourceDoc": "rebecca-2"
   },
@@ -9563,7 +9563,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo estudio con ___ compañeros.",
+    "question": "Yo estudio con ___ (my) compañeros.",
     "answer": "Yo estudio con mis compañeros.",
     "sourceDoc": "rebecca-2"
   },
@@ -9581,7 +9581,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú no miras a ___ amigas.",
+    "question": "Tú no miras a ___ (your) amigas.",
     "answer": "Tú no miras a tus amigas.",
     "sourceDoc": "rebecca-2"
   },
@@ -9599,7 +9599,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo camino con ___ perro.",
+    "question": "Yo camino con ___ (my) perro.",
     "answer": "Yo camino con mi perro.",
     "sourceDoc": "rebecca-2"
   },
@@ -10220,7 +10220,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Cada día hablo con alguien diferente.",
+    "question": "Cambia a la negación: Cada día hablo con alguien diferente.",
     "answer": "Cada día no hablo con nadie diferente.",
     "sourceDoc": "rebecca-2"
   },
@@ -10229,7 +10229,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Necesitas comer algo.",
+    "question": "Cambia a la negación: Necesitas comer algo.",
     "answer": "No necesitas comer nada.",
     "sourceDoc": "rebecca-2"
   },
@@ -10238,7 +10238,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes viajan con alguien.",
+    "question": "Cambia a la negación: Ustedes viajan con alguien.",
     "answer": "No viajan con nadie.",
     "sourceDoc": "rebecca-2"
   },
@@ -10247,7 +10247,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Alguien vive en esta casa.",
+    "question": "Cambia a la negación: Alguien vive en esta casa.",
     "answer": "Nadie vive en esta casa.",
     "sourceDoc": "rebecca-2"
   },
@@ -10256,7 +10256,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros escuchamos algo afuera.",
+    "question": "Cambia a la negación: Nosotros escuchamos algo afuera.",
     "answer": "No escuchamos nada afuera.",
     "sourceDoc": "rebecca-2"
   },
@@ -10265,7 +10265,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Algo pasó anoche con las chicas.",
+    "question": "Cambia a la negación: Algo pasó anoche con las chicas.",
     "answer": "Nada pasó anoche con las chicas.",
     "sourceDoc": "rebecca-2"
   },
@@ -10274,7 +10274,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú visitaste a alguien la semana pasada.",
+    "question": "Cambia a la negación: Tú visitaste a alguien la semana pasada.",
     "answer": "No visitaste a nadie la semana pasada.",
     "sourceDoc": "rebecca-2"
   },
@@ -10283,7 +10283,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo sé algo.",
+    "question": "Cambia a la negación: Yo sé algo.",
     "answer": "Yo no sé nada.",
     "sourceDoc": "rebecca-2"
   },
@@ -10292,7 +10292,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Te gustaría tomar algo con nosotros.",
+    "question": "Cambia a la negación: Te gustaría tomar algo con nosotros.",
     "answer": "No te gustaría tomar nada con nosotros.",
     "sourceDoc": "rebecca-2"
   },
@@ -10364,7 +10364,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Hoy contaremos algún cuento.",
+    "question": "Cambia a la negación: Hoy contaremos algún cuento.",
     "answer": "Hoy no contaremos ningún cuento.",
     "sourceDoc": "rebecca-2"
   },
@@ -10382,7 +10382,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes escucharon alguna canción.",
+    "question": "Cambia a la negación: Ustedes escucharon alguna canción.",
     "answer": "Ustedes no escucharon ninguna canción.",
     "sourceDoc": "rebecca-2"
   },
@@ -10391,7 +10391,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú tienes algunas amigas.",
+    "question": "Cambia a la negación: Tú tienes algunas amigas.",
     "answer": "Tú no tienes ninguna amiga.",
     "sourceDoc": "rebecca-2"
   },
@@ -10418,7 +10418,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Visitaste algún país.",
+    "question": "Cambia a la negación: Visitaste algún país.",
     "answer": "No visitaste ningún país.",
     "sourceDoc": "rebecca-2"
   },
@@ -10427,7 +10427,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes comieron algunas frutas en la cena.",
+    "question": "Cambia a la negación: Ustedes comieron algunas frutas en la cena.",
     "answer": "Ustedes no comieron ninguna fruta.",
     "sourceDoc": "rebecca-2"
   },
@@ -10445,7 +10445,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juanito caminó algunas horas.",
+    "question": "Cambia a la negación: Juanito caminó algunas horas.",
     "answer": "Juanito no caminó ninguna hora.",
     "sourceDoc": "rebecca-2"
   },
@@ -10463,7 +10463,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis amigas beben alguna bebida fría.",
+    "question": "Cambia a la negación: Mis amigas beben alguna bebida fría.",
     "answer": "Mis amigas no beben ninguna bebida.",
     "sourceDoc": "rebecca-2"
   },
@@ -10481,7 +10481,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Busco algún libro por aquí.",
+    "question": "Cambia a la negación: Busco algún libro por aquí.",
     "answer": "No busco ningún libro por aquí.",
     "sourceDoc": "rebecca-2"
   },
@@ -10490,7 +10490,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Entraste en alguna tienda hoy.",
+    "question": "Cambia a la negación: Entraste en alguna tienda hoy.",
     "answer": "No entraste en ninguna tienda hoy.",
     "sourceDoc": "rebecca-2"
   },
@@ -10508,7 +10508,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo estudio siempre en la biblioteca.",
+    "question": "Cambia a la negación: Yo estudio siempre en la biblioteca.",
     "answer": "Yo no estudio jamás en la biblioteca.",
     "sourceDoc": "rebecca-2"
   },
@@ -10517,7 +10517,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes visitan siempre el parque.",
+    "question": "Cambia a la negación: Ustedes visitan siempre el parque.",
     "answer": "Ustedes no visitan jamás el parque.",
     "sourceDoc": "rebecca-2"
   },
@@ -10526,7 +10526,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta compra manzanas siempre.",
+    "question": "Cambia a la negación: Marta compra manzanas siempre.",
     "answer": "Marta no compra nunca manzanas.",
     "sourceDoc": "rebecca-2"
   },
@@ -10535,7 +10535,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi familia siempre almuerza pollo y vegetales.",
+    "question": "Cambia a la negación: Mi familia siempre almuerza pollo y vegetales.",
     "answer": "Mi familia nunca almuerza pollo ni vegetales.",
     "sourceDoc": "rebecca-2"
   },
@@ -10544,7 +10544,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú siempre sabes la respuesta.",
+    "question": "Cambia a la negación: Tú siempre sabes la respuesta.",
     "answer": "Tú nunca sabes la respuesta.",
     "sourceDoc": "rebecca-2"
   },
@@ -10553,7 +10553,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las niñas también hablan francés.",
+    "question": "Cambia a la negación: Las niñas también hablan francés.",
     "answer": "Las niñas no hablan francés tampoco.",
     "sourceDoc": "rebecca-2"
   },
@@ -10562,7 +10562,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo bebí jugo de naranja también.",
+    "question": "Cambia a la negación: Yo bebí jugo de naranja también.",
     "answer": "Yo no bebí jugo de naranja tampoco.",
     "sourceDoc": "rebecca-2"
   },
@@ -10571,7 +10571,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juan conduce también una motocicleta.",
+    "question": "Cambia a la negación: Juan conduce también una motocicleta.",
     "answer": "Juan no conduce una motocicleta tampoco.",
     "sourceDoc": "rebecca-2"
   },
@@ -10580,7 +10580,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes miraron la película también.",
+    "question": "Cambia a la negación: Ustedes miraron la película también.",
     "answer": "Ustedes no miraron la película tampoco.",
     "sourceDoc": "rebecca-2"
   },
@@ -11333,7 +11333,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Juanito viene aquí todos los días.",
+    "question": "Cambia al imperfecto: Juanito viene aquí todos los días.",
     "answer": "Juanito venía aquí todos los días.",
     "sourceDoc": "rebecca-2"
   },
@@ -11342,7 +11342,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Los barcos salen del puerto cada mañana.",
+    "question": "Cambia al imperfecto: Los barcos salen del puerto cada mañana.",
     "answer": "Los barcos salían del puerto cada mañana.",
     "sourceDoc": "rebecca-2"
   },
@@ -11351,7 +11351,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Vamos a la playa muy a menudo.",
+    "question": "Cambia al imperfecto: Vamos a la playa muy a menudo.",
     "answer": "Veníamos a la playa muy a menudo.",
     "sourceDoc": "rebecca-2"
   },
@@ -11360,7 +11360,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Tú viajas frecuentemente.",
+    "question": "Cambia al imperfecto: Tú viajas frecuentemente.",
     "answer": "Tú viajabas frecuentemente.",
     "sourceDoc": "rebecca-2"
   },
@@ -11369,7 +11369,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Nosotros siempre volvemos a la misma hora.",
+    "question": "Cambia al imperfecto: Nosotros siempre volvemos a la misma hora.",
     "answer": "Nosotros siempre volvíamos a la misma hora.",
     "sourceDoc": "rebecca-2"
   },
@@ -11378,7 +11378,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Pedro cambia los planes todos los días.",
+    "question": "Cambia al imperfecto: Pedro cambia los planes todos los días.",
     "answer": "Pedro cambiaba los planes todos los días.",
     "sourceDoc": "rebecca-2"
   },
@@ -11387,7 +11387,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Ellos lo dicen muchas veces.",
+    "question": "Cambia al imperfecto: Ellos lo dicen muchas veces.",
     "answer": "Ellos lo decían muchas veces.",
     "sourceDoc": "rebecca-2"
   },
@@ -11396,7 +11396,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Yo siempre estudio aquí.",
+    "question": "Cambia al imperfecto: Yo siempre estudio aquí.",
     "answer": "Yo siempre estudiaba aquí.",
     "sourceDoc": "rebecca-2"
   },
@@ -11405,7 +11405,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Nosotros visitamos con frecuencia el parque.",
+    "question": "Cambia al imperfecto: Nosotros visitamos con frecuencia el parque.",
     "answer": "Nosotros visitábamos con frecuencia el parque.",
     "sourceDoc": "rebecca-2"
   },
@@ -11414,7 +11414,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Yo veo las noticias cada día.",
+    "question": "Cambia al imperfecto: Yo veo las noticias cada día.",
     "answer": "Yo veía las noticias cada día.",
     "sourceDoc": "rebecca-2"
   },
@@ -11423,7 +11423,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Las muchachas van a España todos los veranos.",
+    "question": "Cambia al imperfecto: Las muchachas van a España todos los veranos.",
     "answer": "Las muchachas veían a España todos los veranos.",
     "sourceDoc": "rebecca-2"
   },
@@ -11432,7 +11432,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Mi primo me llama todos los domingos.",
+    "question": "Cambia al imperfecto: Mi primo me llama todos los domingos.",
     "answer": "Mi primo me llamaba todos los domingos.",
     "sourceDoc": "rebecca-2"
   },
@@ -11441,7 +11441,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Carlos / siempre / comer / aquel / restaurante.",
+    "question": "Cambia al imperfecto: Carlos siempre come en aquel restaurante.",
     "answer": "Carlos siempre comía en aquel restaurante.",
     "sourceDoc": "rebecca-2"
   },
@@ -11450,7 +11450,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Ellos / hacer / viaje / México / cada verano.",
+    "question": "Cambia al imperfecto: Ellos hacen un viaje a México cada verano.",
     "answer": "Ellos hacían un viaje a México cada verano.",
     "sourceDoc": "rebecca-2"
   },
@@ -11459,7 +11459,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Yo / poner / mesa / cada / mañana.",
+    "question": "Cambia al imperfecto: Yo pongo mi agua sobre la mesa cada mañana.",
     "answer": "Yo ponía mi agua sobre la mesa cada mañana.",
     "sourceDoc": "rebecca-2"
   },
@@ -11468,7 +11468,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Niños / siempre / recibir / regalos.",
+    "question": "Cambia al imperfecto: Los niños siempre reciben regalos en sus cumpleaños.",
     "answer": "Los niños siempre recibían regalos en sus cumpleaños.",
     "sourceDoc": "rebecca-2"
   },
@@ -11477,7 +11477,7 @@
     "categories": [
       "imperfect"
     ],
-    "question": "Tú / trabajar / todos / días.",
+    "question": "Cambia al imperfecto: Tú siempre trabajas demasiado todos los días.",
     "answer": "Tú siempre trabajabas demasiado todos los días.",
     "sourceDoc": "rebecca-2"
   },
@@ -14002,7 +14002,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Regresé de mi trabajo.",
+    "question": "Ayer (regresar) de mi trabajo.",
     "answer": "Ayer regresé de mi trabajo.",
     "sourceDoc": "molly-1"
   },
@@ -14011,7 +14011,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Visité España con mi familia.",
+    "question": "El año pasado (visitar) España con mi familia.",
     "answer": "El año pasado visité España con mi familia.",
     "sourceDoc": "molly-1"
   },
@@ -14020,7 +14020,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Hablé con mis amigas en un café.",
+    "question": "Hace dos horas (hablar) con mis amigas en un café.",
     "answer": "Hace dos horas hablé con mis amigas en un café.",
     "sourceDoc": "molly-1"
   },
@@ -14029,7 +14029,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Comí comida de India.",
+    "question": "La semana pasada (comer) comida de India.",
     "answer": "La semana pasada comí comida de India.",
     "sourceDoc": "molly-1"
   },
@@ -14038,7 +14038,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Le escribí una carta a una amiga.",
+    "question": "Anoche le (escribir) una carta a una amiga.",
     "answer": "Anoche le escribí una carta a una amiga.",
     "sourceDoc": "molly-1"
   },
@@ -14047,7 +14047,7 @@
     "categories": [
       "preterite"
     ],
-    "question": "Recibí un regalo costoso.",
+    "question": "Ayer (recibir) un regalo costoso.",
     "answer": "Ayer recibí un regalo costoso.",
     "sourceDoc": "molly-1"
   },
@@ -15644,7 +15644,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Aquí tengo ___.",
+    "question": "Aquí tengo ___ (this).",
     "answer": "Aquí tengo esto.",
     "sourceDoc": "molly-1"
   },
@@ -15653,7 +15653,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "No compramos ___.",
+    "question": "No compramos ___ (that).",
     "answer": "No compramos eso.",
     "sourceDoc": "molly-1"
   },
@@ -15662,7 +15662,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Comprendiste ___?",
+    "question": "¿Comprendiste ___ (this)?",
     "answer": "¿Comprendiste esto?",
     "sourceDoc": "molly-1"
   },
@@ -15680,7 +15680,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "¿Por qué comiste ___?",
+    "question": "¿Por qué comiste ___ (that)?",
     "answer": "¿Por qué comiste eso?",
     "sourceDoc": "molly-1"
   },
@@ -18391,7 +18391,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ gente.",
+    "question": "Completa: ___ (much) gente.",
     "answer": "mucha gente.",
     "sourceDoc": "molly-1"
   },
@@ -18400,7 +18400,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ libros.",
+    "question": "Completa: ___ (many) libros.",
     "answer": "muchos libros.",
     "sourceDoc": "molly-1"
   },
@@ -18409,7 +18409,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ personas.",
+    "question": "Completa: ___ (many) personas.",
     "answer": "muchas personas.",
     "sourceDoc": "molly-1"
   },
@@ -18418,7 +18418,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ agua.",
+    "question": "Completa: ___ (much) agua.",
     "answer": "mucha agua.",
     "sourceDoc": "molly-1"
   },
@@ -18427,7 +18427,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ flores.",
+    "question": "Completa: ___ (many) flores.",
     "answer": "muchas flores.",
     "sourceDoc": "molly-1"
   },
@@ -20886,42 +20886,6 @@
     "sourceDoc": "molly-1"
   },
   {
-    "id": "molly-1--el-proximo-fin-de-semana",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "El próximo fin de semana",
-    "answer": "El próximo fin de semana voy a mover casas en el pueblo. Me voy a mudar de casa.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--esta-noche",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "Esta noche",
-    "answer": "Esta noche voy a jugar billar con mi amiga.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--en-un-mes",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "En un mes",
-    "answer": "En un mes voy a buscar un trabajo.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--la-proxima-semana",
-    "categories": [
-      "future-conditional"
-    ],
-    "question": "La próxima semana",
-    "answer": "La próxima semana mis amigos y yo nos vamos a broncear en la playa.",
-    "sourceDoc": "molly-1"
-  },
-  {
     "id": "molly-1--montar-bicicleta",
     "categories": [
       "vocabulary"
@@ -22462,7 +22426,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes viajan con alguien.",
+    "question": "Cambia a la negación: Ustedes viajan con alguien.",
     "answer": "Ustedes no viajan con nadie.",
     "sourceDoc": "molly-2"
   },
@@ -22471,7 +22435,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Nosotros escuchamos algo afuera.",
+    "question": "Cambia a la negación: Nosotros escuchamos algo afuera.",
     "answer": "Nosotros no escuchamos nada afuera.",
     "sourceDoc": "molly-2"
   },
@@ -22480,7 +22444,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Tú visitaste a alguien la semana pasada.",
+    "question": "Cambia a la negación: Tú visitaste a alguien la semana pasada.",
     "answer": "Tú no visitaste a nadie la semana pasada.",
     "sourceDoc": "molly-2"
   },
@@ -22489,7 +22453,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo sé algo.",
+    "question": "Cambia a la negación: Yo sé algo.",
     "answer": "No sé nada.",
     "sourceDoc": "molly-2"
   },
@@ -22552,7 +22516,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes comían algunas frutas en la cena.",
+    "question": "Cambia a la negación: Ustedes comían algunas frutas en la cena.",
     "answer": "Ustedes no comían ningunas frutas en la cena.",
     "sourceDoc": "molly-2"
   },
@@ -22561,7 +22525,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo tengo algunos problemas.",
+    "question": "Cambia a la negación: Yo tengo algunos problemas.",
     "answer": "No tengo ningunos problemas.",
     "sourceDoc": "molly-2"
   },
@@ -22570,7 +22534,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juanito caminaba algunas horas.",
+    "question": "Cambia a la negación: Juanito caminaba algunas horas.",
     "answer": "Juanito no caminaba ningunas horas.",
     "sourceDoc": "molly-2"
   },
@@ -22588,7 +22552,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mis amigas beberán alguna bebida fría.",
+    "question": "Cambia a la negación: Mis amigas beberán alguna bebida fría.",
     "answer": "Mis amigas no beberán ninguna bebida fría.",
     "sourceDoc": "molly-2"
   },
@@ -22597,7 +22561,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Escribiría algunos mensajes para ti.",
+    "question": "Cambia a la negación: Escribiría algunos mensajes para ti.",
     "answer": "No escribiría ningunos mensajes para ti.",
     "sourceDoc": "molly-2"
   },
@@ -22606,7 +22570,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Leeré algún libro aquí.",
+    "question": "Cambia a la negación: Leeré algún libro aquí.",
     "answer": "No leeré ningún libro aquí.",
     "sourceDoc": "molly-2"
   },
@@ -22615,7 +22579,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Sabes algunos verbos.",
+    "question": "Cambia a la negación: Sabes algunos verbos.",
     "answer": "No sabes ningunos verbos.",
     "sourceDoc": "molly-2"
   },
@@ -22624,7 +22588,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Yo estudio siempre en la biblioteca.",
+    "question": "Cambia a la negación: Yo estudio siempre en la biblioteca.",
     "answer": "Yo nunca estudio en la biblioteca.",
     "sourceDoc": "molly-2"
   },
@@ -22633,7 +22597,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes visitan siempre el parque.",
+    "question": "Cambia a la negación: Ustedes visitan siempre el parque.",
     "answer": "Ustedes nunca visitan el parque.",
     "sourceDoc": "molly-2"
   },
@@ -22642,7 +22606,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Marta compra manzanas siempre.",
+    "question": "Cambia a la negación: Marta compra manzanas siempre.",
     "answer": "Marta nunca compra manzanas.",
     "sourceDoc": "molly-2"
   },
@@ -22651,7 +22615,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Mi familia siempre almuerza pollo y vegetales.",
+    "question": "Cambia a la negación: Mi familia siempre almuerza pollo y vegetales.",
     "answer": "Mi familia nunca almuerza pollo y vegetales.",
     "sourceDoc": "molly-2"
   },
@@ -22660,7 +22624,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Las niñas también hablan francés.",
+    "question": "Cambia a la negación: Las niñas también hablan francés.",
     "answer": "Las niñas tampoco hablan francés.",
     "sourceDoc": "molly-2"
   },
@@ -22669,7 +22633,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juan conduce también una motocicleta.",
+    "question": "Cambia a la negación: Juan conduce también una motocicleta.",
     "answer": "Juan no conduce tampoco una motocicleta.",
     "sourceDoc": "molly-2"
   },
@@ -22678,7 +22642,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes miraron la película también.",
+    "question": "Cambia a la negación: Ustedes miraron la película también.",
     "answer": "Ustedes tampoco miraron la película.",
     "sourceDoc": "molly-2"
   },
@@ -22696,7 +22660,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Ustedes bebieron café o té.",
+    "question": "Cambia a la negación: Ustedes bebieron café o té.",
     "answer": "Ustedes no bebieron café ni té.",
     "sourceDoc": "molly-2"
   },
@@ -22705,7 +22669,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Juanito visitó la playa o el lago.",
+    "question": "Cambia a la negación: Juanito visitó la playa o el lago.",
     "answer": "Juanito no visitó la playa ni el lago.",
     "sourceDoc": "molly-2"
   },
