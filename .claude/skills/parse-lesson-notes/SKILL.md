@@ -148,26 +148,33 @@ these before adding it:
 8. **A transformation exercise gives no indication a transformation is
    needed at all** — the question reads as a perfectly normal, complete
    sentence (or question) in one form, and the answer is a *different*
-   sentence in another form, with nothing telling the learner what to do:
-   - Bad (affirmative → negative): Q `Ustedes miraron la película también.` A `Ustedes tampoco miraron la película.`
-   - Fixed: Q `Cambia a la negación: Ustedes miraron la película también.` A (unchanged)
-   - Bad (present → imperfect): Q `Juanito viene aquí todos los días.` A `Juanito venía aquí todos los días.`
-   - Fixed: Q `Cambia al imperfecto: Juanito viene aquí todos los días.` A (unchanged)
+   sentence in another form, with nothing telling the learner what to do.
+   Fix by appending a short, bare parenthetical tag naming the target form —
+   **not** a verbose leading instruction like `Cambia a la negación:`; keep
+   it terse and trailing, consistent with every other tag in the deck
+   (`(imperfecto)`, `(interrogativa)`, `('yo')`, etc.):
+   - Bad: Q `Ustedes miraron la película también.` A `Ustedes tampoco miraron la película.`
+   - Fixed: Q `Ustedes miraron la película también. (negación)` A (unchanged)
+   - Bad: Q `Juanito viene aquí todos los días.` A `Juanito venía aquí todos los días.`
+   - Fixed: Q `Juanito viene aquí todos los días. (imperfecto)` A (unchanged)
+   - Bad (change of subject): Q `Vamos al mercado.` A `Voy al mercado.`
+   - Fixed: Q `Vamos al mercado. ('yo')` A (unchanged)
+   - Bad (statement → question): Q `Tu familia viaja en verano.` A `¿Viaja tu familia en verano?`
+   - Fixed: Q `Tu familia viaja en verano. (interrogativa)` A (unchanged)
    - The same applies when the question is itself a `¿...?` that implies a
      transformation, not a direct answer — e.g. `¿Alguien tocó la puerta?` →
-     `Nadie tocó la puerta.` needed `Responde en negación:` prepended, since a
-     literal reading would make "Sí, alguien tocó" seem equally valid.
+     `Nadie tocó la puerta.` needs `(negación)` appended, since a literal
+     reading would make "Sí, alguien tocó" seem equally valid.
    - This does **not** apply to a `¿...?` question whose answer is uniquely
      determined already — a translation (`¿Qué tal?` → "What's up?"), factual
      recall tied to a specific passage the doc provides, or a grammar-form
-     recall question. Only add a transformation instruction when the
-     question's surface form doesn't already make the expected answer type
-     obvious.
+     recall question. Only add a tag when the question's surface form
+     doesn't already make the expected answer type obvious.
 
 9. **The question is a raw fragment/word-list from the source table**, not a
    real sentence — e.g. copied straight from a "words to combine" exercise:
    - Bad: Q `Carlos / siempre / comer / aquel / restaurante.` A `Carlos siempre comía en aquel restaurante.`
-   - Fixed: Q `Cambia al imperfecto: Carlos siempre come en aquel restaurante.` A (unchanged) — reconstruct the natural sentence the fragments imply (matching tense/structure of the given answer) rather than leaving slash-separated pieces.
+   - Fixed: Q `Carlos siempre come en aquel restaurante. (imperfecto)` A (unchanged) — reconstruct the natural sentence the fragments imply (matching tense/structure of the given answer) rather than leaving slash-separated pieces.
 
 10. **An open question has many equally-valid answers**, so there's no way
     to know which specific one is being tested (as opposed to a question with
