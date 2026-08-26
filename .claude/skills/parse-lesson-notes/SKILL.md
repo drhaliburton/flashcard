@@ -52,6 +52,34 @@ Pull candidates from three kinds of source material:
    its English meaning. Question = the Spanish term. Answer = the English
    meaning. Skip entries that are purely a picture reference with no legible
    text pair.
+
+   **The "Vocabulario DD/MM" tables are the running lesson glossary and are
+   core content — never skip one just because the doc doesn't spell out the
+   English meaning next to it.** A prior parse skipped dozens of these
+   tables across every doc specifically because no English gloss was
+   present in the source, which was wrong — the tutor expected the student
+   to already know or look up the meaning, not that the words weren't worth
+   drilling. Translate every entry yourself using your own Spanish knowledge
+   (including Guatemalan regionalisms/slang where relevant — this tutor is
+   in Quetzaltenango) rather than requiring the gloss to already be written
+   down. Handling notes for this table format specifically:
+   - A `word/phrase -infinitivo` entry (e.g. `llenas la gasolina -llenar`)
+     is the phrase as used plus a note of its base verb — card the phrase
+     itself (`llenas la gasolina` → "you fill up with gas"), the `-llenar`
+     is just provenance, not a second card.
+   - A `word / word` entry (e.g. `hornear / yo horneo`, `pomelo / toronja`)
+     is either a verb + its conjugated form, or two regional synonyms — card
+     each side that's independently useful (both `pomelo` and `toronja` →
+     "grapefruit" as separate cards; `hornear` → "to bake" and `yo horneo`
+     → "I bake" as separate cards).
+   - A full personal/conversational sentence in the list (e.g. `A Murphy le
+     encanta la nieve`, `18 dieciocho años`) still gets a card — question is
+     the Spanish sentence, answer is the English translation, same as any
+     other vocabulary entry. Don't skip it just because it's a sentence
+     instead of a single word.
+   - If a genuinely proper noun or a term you can't confidently translate
+     shows up, translate what you can and keep the name as-is (e.g. `A
+     Murphy le encanta la nieve` → "Murphy loves the snow").
 2. **Conjugation tables** — pronoun + infinitive → conjugated form. Question
    should read naturally, e.g. `"tú" + hablar (present)` or `Conjuga "hablar" con "tú" (presente)`.
    Answer = the conjugated form, e.g. `hablas`.

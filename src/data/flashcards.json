@@ -1020,7 +1020,8 @@
   {
     "id": "rebecca-1--treinta",
     "categories": [
-      "vocabulary"
+      "vocabulary",
+      "numbers"
     ],
     "question": "treinta",
     "answer": "thirty",
@@ -2902,7 +2903,8 @@
   {
     "id": "rebecca-1--mucho-mejor",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "vocabulary"
     ],
     "question": "mucho mejor",
     "answer": "much better",
@@ -2911,7 +2913,8 @@
   {
     "id": "rebecca-1--mucho-peor",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "vocabulary"
     ],
     "question": "mucho peor",
     "answer": "much worse",
@@ -7094,7 +7097,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) tarea.",
+    "question": "___ (much) tarea.",
     "answer": "mucha tarea",
     "sourceDoc": "rebecca-1"
   },
@@ -7103,7 +7106,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) café.",
+    "question": "___ (much) café.",
     "answer": "mucho café",
     "sourceDoc": "rebecca-1"
   },
@@ -7112,7 +7115,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) ciudades.",
+    "question": "___ (many) ciudades.",
     "answer": "muchas ciudades",
     "sourceDoc": "rebecca-1"
   },
@@ -7121,7 +7124,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) niños.",
+    "question": "___ (many) niños.",
     "answer": "muchos niños",
     "sourceDoc": "rebecca-1"
   },
@@ -7130,7 +7133,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) comida.",
+    "question": "___ (much) comida.",
     "answer": "mucha comida",
     "sourceDoc": "rebecca-1"
   },
@@ -7139,7 +7142,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) dinero.",
+    "question": "___ (much) dinero.",
     "answer": "mucho dinero",
     "sourceDoc": "rebecca-1"
   },
@@ -7148,7 +7151,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) tiempo.",
+    "question": "___ (much) tiempo.",
     "answer": "mucho tiempo",
     "sourceDoc": "rebecca-1"
   },
@@ -7157,7 +7160,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) mensajes.",
+    "question": "___ (many) mensajes.",
     "answer": "muchos mensajes",
     "sourceDoc": "rebecca-1"
   },
@@ -7166,7 +7169,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) bebidas.",
+    "question": "___ (many) bebidas.",
     "answer": "muchas bebidas",
     "sourceDoc": "rebecca-1"
   },
@@ -7175,7 +7178,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) cosas.",
+    "question": "___ (many) cosas.",
     "answer": "muchas cosas",
     "sourceDoc": "rebecca-1"
   },
@@ -7184,7 +7187,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) calor.",
+    "question": "___ (much) calor.",
     "answer": "mucho calor",
     "sourceDoc": "rebecca-1"
   },
@@ -7193,7 +7196,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) noches.",
+    "question": "___ (many) noches.",
     "answer": "muchas noches",
     "sourceDoc": "rebecca-1"
   },
@@ -7202,7 +7205,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) días.",
+    "question": "___ (many) días.",
     "answer": "muchos días",
     "sourceDoc": "rebecca-1"
   },
@@ -7211,7 +7214,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) frío.",
+    "question": "___ (much) frío.",
     "answer": "mucho frío",
     "sourceDoc": "rebecca-1"
   },
@@ -7220,7 +7223,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) libros.",
+    "question": "___ (many) libros.",
     "answer": "muchos libros",
     "sourceDoc": "rebecca-1"
   },
@@ -17846,65 +17849,11 @@
     "sourceDoc": "molly-1"
   },
   {
-    "id": "molly-1--tu-trabajas-mucho",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "Tú trabajas ___ (a lot).",
-    "answer": "Tú trabajas mucho.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--nosotros-viajamos-mucho",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "Nosotros viajamos ___ (a lot).",
-    "answer": "Nosotros viajamos mucho.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--las-chicas-hablan-mucho",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "Las chicas hablan ___ (a lot).",
-    "answer": "Las chicas hablan mucho.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--usted-no-camina-mucho",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "Usted no camina ___ (a lot).",
-    "answer": "Usted no camina mucho.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--yo-no-comprendo-mucho",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "Yo no comprendo ___ (a lot).",
-    "answer": "Yo no comprendo mucho.",
-    "sourceDoc": "molly-1"
-  },
-  {
-    "id": "molly-1--tu-sabes-mucho",
-    "categories": [
-      "grammar-expressions"
-    ],
-    "question": "Tú sabes ___ (a lot).",
-    "answer": "Tú sabes mucho.",
-    "sourceDoc": "molly-1"
-  },
-  {
     "id": "molly-1--mucha-gente",
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) gente.",
+    "question": "___ (much) gente.",
     "answer": "mucha gente.",
     "sourceDoc": "molly-1"
   },
@@ -17913,7 +17862,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) libros.",
+    "question": "___ (many) libros.",
     "answer": "muchos libros.",
     "sourceDoc": "molly-1"
   },
@@ -17922,7 +17871,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) personas.",
+    "question": "___ (many) personas.",
     "answer": "muchas personas.",
     "sourceDoc": "molly-1"
   },
@@ -17931,7 +17880,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (much) agua.",
+    "question": "___ (much) agua.",
     "answer": "mucha agua.",
     "sourceDoc": "molly-1"
   },
@@ -17940,7 +17889,7 @@
     "categories": [
       "grammar-expressions"
     ],
-    "question": "Completa: ___ (many) flores.",
+    "question": "___ (many) flores.",
     "answer": "muchas flores.",
     "sourceDoc": "molly-1"
   },
@@ -22424,7 +22373,8 @@
   {
     "id": "molly-2--durante",
     "categories": [
-      "grammar-expressions"
+      "grammar-expressions",
+      "vocabulary"
     ],
     "question": "durante",
     "answer": "during",
@@ -22593,26 +22543,6 @@
     "sourceDoc": "molly-2"
   },
   {
-    "id": "molly-2--yo-ir-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ir/yo (imperfecto)",
-    "answer": "iba",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--tu-ir-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ir/tú (imperfecto)",
-    "answer": "ibas",
-    "sourceDoc": "molly-2"
-  },
-  {
     "id": "molly-2--el-ir-imperfecto",
     "categories": [
       "imperfect",
@@ -22620,16 +22550,6 @@
     ],
     "question": "ir/él (imperfecto)",
     "answer": "iba",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--nosotros-ir-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ir/nosotros (imperfecto)",
-    "answer": "íbamos",
     "sourceDoc": "molly-2"
   },
   {
@@ -22643,26 +22563,6 @@
     "sourceDoc": "molly-2"
   },
   {
-    "id": "molly-2--yo-ser-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ser/yo (imperfecto)",
-    "answer": "era",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--tu-ser-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ser/tú (imperfecto)",
-    "answer": "eras",
-    "sourceDoc": "molly-2"
-  },
-  {
     "id": "molly-2--el-ser-imperfecto",
     "categories": [
       "imperfect",
@@ -22670,16 +22570,6 @@
     ],
     "question": "ser/él (imperfecto)",
     "answer": "era",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--nosotros-ser-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ser/nosotros (imperfecto)",
-    "answer": "éramos",
     "sourceDoc": "molly-2"
   },
   {
@@ -22693,26 +22583,6 @@
     "sourceDoc": "molly-2"
   },
   {
-    "id": "molly-2--yo-ver-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ver/yo (imperfecto)",
-    "answer": "veía",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--tu-ver-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ver/tú (imperfecto)",
-    "answer": "veías",
-    "sourceDoc": "molly-2"
-  },
-  {
     "id": "molly-2--el-ver-imperfecto",
     "categories": [
       "imperfect",
@@ -22720,16 +22590,6 @@
     ],
     "question": "ver/él (imperfecto)",
     "answer": "veía",
-    "sourceDoc": "molly-2"
-  },
-  {
-    "id": "molly-2--nosotros-ver-imperfecto",
-    "categories": [
-      "imperfect",
-      "exceptions"
-    ],
-    "question": "ver/nosotros (imperfecto)",
-    "answer": "veíamos",
     "sourceDoc": "molly-2"
   },
   {
@@ -23668,5 +23528,5351 @@
     "question": "100",
     "answer": "cien",
     "sourceDoc": "numbers-reference"
+  },
+  {
+    "id": "rebecca-1--cacahuate",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cacahuate",
+    "answer": "peanut (regional term)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--chepes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "chepes",
+    "answer": "peanuts (Guatemalan slang)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--sillon",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "sillón",
+    "answer": "armchair, recliner",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--hermanito",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hermanito",
+    "answer": "little brother",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--yo-extrano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo extraño",
+    "answer": "I miss (someone/something)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--deberia-ser",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "debería ser",
+    "answer": "it should be",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--yo-he-visto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo he visto",
+    "answer": "I have seen",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--capullo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "capullo",
+    "answer": "cocoon, bud",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--estar-avergonzada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estar avergonzada",
+    "answer": "to be embarrassed (feminine)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--ser-apreciable",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ser apreciable",
+    "answer": "to be noticeable, appreciable",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--hocus-pocus",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hocus pocus",
+    "answer": "magic words (used in spells; same phrase in Spanish)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--se-siente",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "se siente",
+    "answer": "he/she/it feels",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--es-justo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "es justo",
+    "answer": "it's fair",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--esta-lamiendo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está lamiendo",
+    "answer": "is licking",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--una-meta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una meta",
+    "answer": "a goal",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--cumplir-su-meta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cumplir su meta",
+    "answer": "to fulfill his/her goal",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--que-yo-tenia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "que yo tenía",
+    "answer": "that I had",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--se-congela",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "se congela",
+    "answer": "it freezes",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--pasar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "pasar",
+    "answer": "to happen",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--me-paso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me pasó",
+    "answer": "it happened to me",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--me-rei",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me reí",
+    "answer": "I laughed",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--mi-mente",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi mente",
+    "answer": "my mind",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--se-rompio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "se rompió",
+    "answer": "it broke",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--lucharon",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lucharon",
+    "answer": "they fought, struggled",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--el-ambiente",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el ambiente",
+    "answer": "the atmosphere, mood",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--el-medioambiente",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el medioambiente",
+    "answer": "the environment (ecology)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--la-nieve-cae-en-diagonal",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la nieve cae en diagonal",
+    "answer": "the snow falls diagonally",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--mi-pelo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi pelo",
+    "answer": "my hair",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--una-forma-de-cuchara",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una forma de cuchara",
+    "answer": "a spoon shape",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--cuchillo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cuchillo",
+    "answer": "knife",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--tenedor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tenedor",
+    "answer": "fork",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--dijeron",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dijeron",
+    "answer": "they said",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--cuando-era-nina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cuando era niña",
+    "answer": "when I was a girl",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--los-techos-volaron",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los techos volaron",
+    "answer": "the roofs flew off",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--los-pozos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los pozos",
+    "answer": "the wells",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--los-pozos-secos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los pozos secos",
+    "answer": "the dry wells",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--viaje",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "viaje",
+    "answer": "trip, journey",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--nos-va-a-salvar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "nos va a salvar",
+    "answer": "it's going to save us",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--una-banera",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una bañera",
+    "answer": "a bathtub",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--los-atrapaniebla",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los atrapaniebla",
+    "answer": "the fog catchers",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--un-amigo-lejano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un amigo lejano",
+    "answer": "a distant friend",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--los-acantilados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los acantilados",
+    "answer": "the cliffs",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--las-gaviotas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las gaviotas",
+    "answer": "the seagulls",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--el-vertigo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el vértigo",
+    "answer": "vertigo, dizziness",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--marear",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "marear",
+    "answer": "to make dizzy, nauseous",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--fui-a-surfear",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "fui a surfear",
+    "answer": "I went surfing",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--estoy-en-mala-condicion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estoy en mala condición",
+    "answer": "I'm in bad shape",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--estoy-en-un-bloqueo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estoy en un bloqueo",
+    "answer": "I'm in a slump, I'm stuck",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--es-grueso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "es grueso",
+    "answer": "it's thick",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--me-ejercito",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me ejercito",
+    "answer": "I exercise",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--destrezas-o-habilidad",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "destrezas o habilidad",
+    "answer": "skills or ability",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--surfee",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "surfeé",
+    "answer": "I surfed",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--vimos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "vimos",
+    "answer": "we saw",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--yo-lei",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo leí",
+    "answer": "I read (past)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--a-donde-fui",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "a donde fui",
+    "answer": "where I went",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--quinientas",
+    "categories": [
+      "numbers"
+    ],
+    "question": "quinientas",
+    "answer": "five hundred (500)",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--esta-pasando",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está pasando",
+    "answer": "it's happening",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--tenia-lluvia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tenia lluvia",
+    "answer": "it was rainy, there was rain",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--estaba-lloviendo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estaba lloviendo",
+    "answer": "it was raining",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--el-usa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "él usa",
+    "answer": "he uses",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--soy-yo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "soy yo",
+    "answer": "it's me",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--tirar-carnazas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tirar carnazas",
+    "answer": "to throw bait",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--que-yo-cuidaba",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "que yo cuidaba",
+    "answer": "that I used to take care of",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--cuido",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cuidó",
+    "answer": "he/she took care of",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--los-voy-a-llevar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los voy a llevar",
+    "answer": "I'm going to take them",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--mi-madrastra",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi madrastra",
+    "answer": "my stepmother",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--vas-a-traer-galletas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "vas a traer galletas",
+    "answer": "you're going to bring cookies",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-1--el-invierno-termino",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el invierno terminó",
+    "answer": "winter ended",
+    "sourceDoc": "rebecca-1"
+  },
+  {
+    "id": "rebecca-2--el-frio-termino",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el frío terminó",
+    "answer": "the cold is over / the cold ended",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-frio-se-fue",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el frío se fue",
+    "answer": "the cold went away / the cold is gone",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--llenas-la-gasolina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "llenas la gasolina",
+    "answer": "you fill up with gas",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--las-hierbas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las hierbas",
+    "answer": "the herbs",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-maceta-es-muy-invasiva",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la maceta es muy invasiva",
+    "answer": "the potted plant is very invasive",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--se-vuelve-menta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "se vuelve menta",
+    "answer": "it turns into mint",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--dos-yemas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dos yemas",
+    "answer": "two egg yolks",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--hornear",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hornear",
+    "answer": "to bake",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--yo-horneo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo horneo",
+    "answer": "I bake",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-gallina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la gallina",
+    "answer": "the hen",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--huevos-de-granja",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "huevos de granja",
+    "answer": "farm eggs",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--pomelo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "pomelo",
+    "answer": "grapefruit",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--toronja",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "toronja",
+    "answer": "grapefruit",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--atrapasuenos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "atrapasueños",
+    "answer": "dreamcatcher",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--veinte-libras",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "veinte libras",
+    "answer": "twenty pounds",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--a-murphy-le-encanta-la-nieve",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "A Murphy le encanta la nieve",
+    "answer": "Murphy loves the snow",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--18-dieciocho-anos",
+    "categories": [
+      "numbers"
+    ],
+    "question": "18 dieciocho años",
+    "answer": "eighteen years old",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--perezosa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "perezosa",
+    "answer": "lazy",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--esta-listo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está listo",
+    "answer": "it's ready",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--lamer",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lamer",
+    "answer": "to lick",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--neblina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "neblina",
+    "answer": "fog / mist",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--hay-neblina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hay neblina",
+    "answer": "it's foggy",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--muchas-ganas-de-trabajar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "muchas ganas de trabajar",
+    "answer": "really wanting to work / a lot of desire to work",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--tener-ganas-de",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tener ganas de",
+    "answer": "to feel like (doing something)",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--estan-plantadas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "están plantadas",
+    "answer": "they are planted",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--las-sandias",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las sandías",
+    "answer": "the watermelons",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-lufa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la lufa",
+    "answer": "the loofah",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--una-maceta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una maceta",
+    "answer": "a (plant) pot",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--una-huerta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una huerta",
+    "answer": "a (vegetable) garden",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--cosechar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cosechar",
+    "answer": "to harvest",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--esta-madura",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está madura",
+    "answer": "it's ripe",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-albahaca",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la albahaca",
+    "answer": "the basil",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--cortar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cortar",
+    "answer": "to cut",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--podar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "podar",
+    "answer": "to prune",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-ramas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la ramas",
+    "answer": "the branches",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-tips",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los tips",
+    "answer": "the tips",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--las-sugerencias",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las sugerencias",
+    "answer": "the suggestions",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-frascos-o-botellas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los frascos o botellas",
+    "answer": "the jars or bottles",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--a-temperatura-ambiente",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "a temperatura ambiente",
+    "answer": "at room temperature",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--mi-cita",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi cita",
+    "answer": "my appointment / my date",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--mi-reunion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi reunión",
+    "answer": "my meeting",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--dar-mantenimiento-de-hielo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dar mantenimiento de hielo",
+    "answer": "to do ice maintenance",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--antes-de-acostarme",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "antes de acostarme",
+    "answer": "before I go to bed",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-pintaunas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el pintauñas",
+    "answer": "nail polish",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--estoy-bien",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estoy bien!",
+    "answer": "I'm fine! / I'm okay!",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--cuando-regreso-de-mi-salida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cuando regreso de mi salida",
+    "answer": "when I get back from my outing",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--yo-no-estoy-de-acuerdo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo no estoy de acuerdo",
+    "answer": "I don't agree",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-sentimientos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los sentimientos",
+    "answer": "the feelings",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--estar-de-acuerdo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estar de acuerdo",
+    "answer": "to agree",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--estar-agradecida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estar agradecida",
+    "answer": "to be grateful",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--escogi",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "escogí",
+    "answer": "I chose",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--mejorar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mejorar",
+    "answer": "to improve",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-forma-correcta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la forma correcta",
+    "answer": "the correct way / the right form",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-ronquido",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el ronquido",
+    "answer": "the snore",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-ronquidos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los ronquidos",
+    "answer": "the snores",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--roncar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "roncar",
+    "answer": "to snore",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-huerta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la huerta",
+    "answer": "the (vegetable) garden",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--jardin-de-vegetales",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "jardín de vegetales",
+    "answer": "vegetable garden",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--casas-antiguas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "casas antiguas",
+    "answer": "old houses",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-marcos-de-colores",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los marcos de colores",
+    "answer": "the colorful frames",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--mudarse",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mudarse",
+    "answer": "to move (change residence)",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--viven-cerca",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "viven cerca",
+    "answer": "they live nearby",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--estoy-emocionada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estoy emocionada",
+    "answer": "I'm excited",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-mudanza",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la mudanza",
+    "answer": "the move (relocation)",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-retirados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los retirados",
+    "answer": "the retirees",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--jubilados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "jubilados",
+    "answer": "retirees / retired people",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--mi-mente-esta-en-todas-partes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi mente está en todas partes",
+    "answer": "my mind is everywhere / all over the place",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--que-yo-conoci",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "que yo conocí",
+    "answer": "that I met",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-canadienses",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los canadienses",
+    "answer": "the Canadians",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-cruceros",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los cruceros",
+    "answer": "the cruise ships",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--algunas-veces",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "algunas veces",
+    "answer": "sometimes",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-solsticio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el solsticio",
+    "answer": "the solstice",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--desaparece",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "desaparece",
+    "answer": "it disappears",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--no-estoy-de-acuerdo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no estoy de acuerdo",
+    "answer": "I don't agree",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--los-deportes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los deportes",
+    "answer": "the sports",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--sacan",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "sacan",
+    "answer": "they take out / they pull out",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--yo-no-extrano-nada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo no extraño nada",
+    "answer": "I don't miss anything",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-madera",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la madera",
+    "answer": "the wood",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--las-ganancias",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las ganancias",
+    "answer": "the earnings / profits",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--un-area-francesa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un área francesa",
+    "answer": "a French area",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--es-la-culpa-de-claudia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "es la culpa de Claudia",
+    "answer": "it's Claudia's fault",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--culpar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "culpar",
+    "answer": "to blame",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--tu-puedes-culpar-a",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tú puedes culpar a",
+    "answer": "you can blame (someone)",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--culpa-a-claudia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "culpa a Claudia!",
+    "answer": "blame Claudia!",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--esta-encendida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está encendida",
+    "answer": "it's turned on",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--esta-apagada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está apagada",
+    "answer": "it's turned off",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--soporte-de-ayuda",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "soporte de ayuda",
+    "answer": "support / help",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--todavia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "todavía",
+    "answer": "still / yet",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--por-la-mayoria-de-agosto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "por la mayoría de agosto",
+    "answer": "for most of August",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--mi-meta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi meta",
+    "answer": "my goal",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--abogados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "abogados",
+    "answer": "lawyers",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--establecida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "establecida",
+    "answer": "established",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--desobligada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "desobligada",
+    "answer": "no longer obligated / off the hook",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--tu-traes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tú traes",
+    "answer": "you bring",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-closet",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el closet",
+    "answer": "the closet",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-armario",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el armario",
+    "answer": "the closet / wardrobe",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--el-guardarropas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el guardarropas",
+    "answer": "the wardrobe",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "rebecca-2--la-cosa-mas-bonita",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la cosa más bonita",
+    "answer": "the prettiest thing",
+    "sourceDoc": "rebecca-2"
+  },
+  {
+    "id": "molly-1--las-reglas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las reglas",
+    "answer": "the rulers",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--los-lunes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los lunes",
+    "answer": "on Mondays",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-dia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el día",
+    "answer": "the day",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-semana",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la semana",
+    "answer": "the week",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-mes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el mes",
+    "answer": "the month",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-ano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el año",
+    "answer": "the year",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-fin-de-semana",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el fin de semana",
+    "answer": "the weekend",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-nariz",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la nariz",
+    "answer": "the nose",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--hay",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hay",
+    "answer": "there is / there are",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--habia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "había",
+    "answer": "there was / there were",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--habra",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "habrá",
+    "answer": "there will be",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-gusta-el-cafe",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Me gusta el café",
+    "answer": "I like coffee",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-gusto-el-cafe",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Me gustó el café",
+    "answer": "I liked coffee",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-gustan-las-vacaciones",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Me gustan las vacaciones",
+    "answer": "I like vacations",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-gustaron-las-vacaciones",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Me gustaron las vacaciones",
+    "answer": "I liked the vacation",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--rentar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "rentar",
+    "answer": "to rent",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--alquilar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "alquilar",
+    "answer": "to rent / to lease",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--otro-dia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "otro día",
+    "answer": "another day",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-lo-hare",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "¡Yo lo haré!",
+    "answer": "I'll do it!",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--por",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "por",
+    "answer": "for / by / through / during (preposition)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--tu-escapas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tú escapas",
+    "answer": "you escape",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--huir",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "huir",
+    "answer": "to flee / to escape",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--huyo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "huyo",
+    "answer": "I flee / I escape",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--las-personas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las personas",
+    "answer": "the people",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-resaca",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la resaca",
+    "answer": "hangover",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-cruda",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la cruda",
+    "answer": "hangover (Mexican slang)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--tuvimos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tuvimos",
+    "answer": "we had",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-dormi",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo dormí",
+    "answer": "I slept",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--mi-amiga-vino",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi amiga vino",
+    "answer": "my friend came",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--dos-vuelos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dos vuelos",
+    "answer": "two flights",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-tomo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo tomo",
+    "answer": "I drink / I take",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--a-veinte-minutos-de",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "a veinte minutos de",
+    "answer": "twenty minutes from",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-puede-acampar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo puede acampar",
+    "answer": "I can camp",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--voy-a-dar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "voy a dar",
+    "answer": "I'm going to give",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--gastan",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "gastan",
+    "answer": "they spend",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--caminar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "caminar",
+    "answer": "to walk",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--decir",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "decir",
+    "answer": "to say / to tell",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--utila-y-roatan",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Utila y Roatán",
+    "answer": "Utila and Roatán (islands in Honduras)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--snorkeling",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "snorkeling",
+    "answer": "snorkeling",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--necesito-un-almacen",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "necesito un almacén",
+    "answer": "I need a storage unit",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--necesito-sacar-mis-cosas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "necesito sacar mis cosas",
+    "answer": "I need to take my things out",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--almohada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "almohada",
+    "answer": "pillow",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--estresada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estresada",
+    "answer": "stressed (feminine)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--cancelar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cancelar",
+    "answer": "to cancel",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--son-molestos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "son molestos",
+    "answer": "they are annoying",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--llorar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "llorar",
+    "answer": "to cry",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--llore",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lloré",
+    "answer": "I cried",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--inestable",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "inestable",
+    "answer": "unstable",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--algo-incorrecto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "algo incorrecto",
+    "answer": "something incorrect / wrong",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--mis-muebles",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mis muebles",
+    "answer": "my furniture",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--llaves",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "llaves",
+    "answer": "keys",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--tirar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tirar",
+    "answer": "to throw / to throw away",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--tomen-cualquier-cosa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tomen cualquier cosa",
+    "answer": "take anything (imperative)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--kibble",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "kibble",
+    "answer": "kibble (dry pet food)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-conmemoracion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la conmemoración",
+    "answer": "the commemoration",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--las-victimas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las víctimas",
+    "answer": "the victims",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--socorrista",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "socorrista",
+    "answer": "lifeguard / rescuer",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--rescatista",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "rescatista",
+    "answer": "rescuer",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--esta-trabajando",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "está trabajando",
+    "answer": "he/she/it is working",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--todo-va-mal",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "todo va mal",
+    "answer": "everything is going badly",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--para-cenar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "para cenar",
+    "answer": "to have dinner / for dinner",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--para-la-cena",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "para la cena",
+    "answer": "for dinner",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-siento-mucho-mejor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me siento mucho mejor",
+    "answer": "I feel much better",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--las-personas-son-raras",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las personas son raras",
+    "answer": "the people are strange",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-ciudad-abrumadora",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la ciudad abrumadora",
+    "answer": "the overwhelming city",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--estar-retrasado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estar retrasado",
+    "answer": "to be late / delayed",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--demorado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "demorado",
+    "answer": "delayed",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--ellos-han-visitado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ellos han visitado",
+    "answer": "they have visited",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-extrano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo extraño",
+    "answer": "I miss (it/him/her)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--las-mascotas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las mascotas",
+    "answer": "the pets",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-disfraz",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el disfraz",
+    "answer": "the costume",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--hacer-los-mandados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hacer los mandados",
+    "answer": "to run errands",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--los-dibujos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los dibujos",
+    "answer": "the drawings",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--hablar-a-mis-espaldas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hablar a mis espaldas",
+    "answer": "to talk behind my back",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--investigacion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "investigación",
+    "answer": "investigation / research",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--estar-de-goma",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estar de goma",
+    "answer": "to be hungover (Guatemalan slang)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--estar-cruda",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estar cruda",
+    "answer": "to be hungover (feminine, Mexican slang)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--tener-resaca",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tener resaca",
+    "answer": "to have a hangover",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--gallo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Gallo",
+    "answer": "Gallo (popular Guatemalan beer brand)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--cabro",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Cabro",
+    "answer": "kid / guy (Guatemalan slang; literally 'goat')",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--gallo-pinto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "gallo pinto",
+    "answer": "gallo pinto (rice and beans dish)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--pico-de-gallo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "pico de gallo",
+    "answer": "pico de gallo (tomato, onion, and chili salsa)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-pico",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el pico",
+    "answer": "the beak / (slang) the mouth",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--scuba",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "scuba",
+    "answer": "scuba",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--buceo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "buceo",
+    "answer": "diving",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-lancha",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la lancha",
+    "answer": "the small boat",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-bote-pequeno",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el bote pequeño",
+    "answer": "the small boat",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--fuegos-artificiales",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "fuegos artificiales",
+    "answer": "fireworks",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--luces-artificiales",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "luces artificiales",
+    "answer": "artificial lights",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-posada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la posada",
+    "answer": "the posada (Christmas procession tradition)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-misa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la misa",
+    "answer": "the (church) mass",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--mi-garganta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi garganta",
+    "answer": "my throat",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-flema",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la flema",
+    "answer": "phlegm",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--nosotros-no-descansamos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "nosotros no descansamos",
+    "answer": "we don't rest / we didn't rest",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--descansar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "descansar",
+    "answer": "to rest",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-mugre",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la mugre",
+    "answer": "the grime / dirt",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--raro",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "raro",
+    "answer": "strange / weird",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--extrano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "extraño",
+    "answer": "strange / weird",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--dormitorio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dormitorio",
+    "answer": "bedroom",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-marea-baja",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la marea baja",
+    "answer": "low tide",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-le-gusto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo le gusto",
+    "answer": "he/she likes me",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-no-me-gusta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "él no me gusta",
+    "answer": "I don't like him",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--un-negocio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un negocio",
+    "answer": "a business",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-salon-de-belleza",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el salón de belleza",
+    "answer": "the beauty salon",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--peluqueria",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "peluquería",
+    "answer": "hair salon / barbershop",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--estuve-sorprendida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estuve sorprendida",
+    "answer": "I was surprised (feminine)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--acojedor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "acojedor",
+    "answer": "cozy",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--emocionada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "emocionada",
+    "answer": "excited (feminine)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--sera-sushi",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "será sushi",
+    "answer": "it will be sushi",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--fresco",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "fresco",
+    "answer": "fresh / cool",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-fresa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la fresa",
+    "answer": "the strawberry",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--los-pajaros",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los pájaros",
+    "answer": "the birds",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-pulga",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la pulga",
+    "answer": "the flea",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--flexibilidad",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "flexibilidad",
+    "answer": "flexibility",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--que-el-conoce",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "que él conoce",
+    "answer": "that he knows / is familiar with",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--entrevista",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "entrevista",
+    "answer": "interview",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--resoluciones",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "resoluciones",
+    "answer": "resolutions",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--deseos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "deseos",
+    "answer": "wishes",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--algunos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "algunos",
+    "answer": "some (masculine plural)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-trajo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me trajo",
+    "answer": "he/she brought me",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--me-la-trajo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me la trajo",
+    "answer": "he/she brought it to me",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--llavero",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "llavero",
+    "answer": "keychain",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--mas-malo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "más malo",
+    "answer": "worse (literally 'more bad')",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--peor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "peor",
+    "answer": "worse",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--he-hecho",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "he hecho",
+    "answer": "I have done",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--he-vivido-aqui-por-un-mes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "he vivido aquí por un mes",
+    "answer": "I have lived here for a month",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--vivira",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "vivirá",
+    "answer": "he/she will live",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--una-vez-mas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una vez más",
+    "answer": "one more time",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-marea",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la marea",
+    "answer": "the tide",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--juntas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "juntas",
+    "answer": "together (feminine plural)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--mas-peor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "más peor",
+    "answer": "much worse (colloquial, redundant form)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--mas-mejor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "más mejor",
+    "answer": "much better (colloquial, redundant form)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--dormir",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dormir",
+    "answer": "to sleep",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--acatenango",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Acatenango",
+    "answer": "Acatenango (volcano in Guatemala)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--pacaya",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Pacaya",
+    "answer": "Pacaya (volcano in Guatemala)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--revisar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "revisar",
+    "answer": "to check / to review",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--reviso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "reviso",
+    "answer": "I check / I review",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--desayune",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "desayuné",
+    "answer": "I had breakfast",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--yo-sudaba",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo sudaba",
+    "answer": "I was sweating",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--sudar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "sudar",
+    "answer": "to sweat",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--tener-sudor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tener sudor",
+    "answer": "to be sweaty / to sweat",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--te-toca",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "te toca",
+    "answer": "it's your turn",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--es-tu-turno",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "es tu turno",
+    "answer": "it's your turn",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--y-tu",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "¿Y tú?",
+    "answer": "And you? (informal)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--y-usted",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "¿Y usted?",
+    "answer": "And you? (formal)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--el-ayote",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el ayote",
+    "answer": "pumpkin (Guatemalan term)",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--la-calabaza-en-dulce",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la calabaza en dulce",
+    "answer": "candied pumpkin / pumpkin in syrup",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--hacer-cola",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hacer cola",
+    "answer": "to wait in line",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-1--hacer-fila",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hacer fila",
+    "answer": "to wait in line",
+    "sourceDoc": "molly-1"
+  },
+  {
+    "id": "molly-2--mas-lujoso-y-caro",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "más lujoso y caro",
+    "answer": "more luxurious and expensive",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-pandillas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las pandillas",
+    "answer": "the gangs",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-jalon",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el jalón",
+    "answer": "the tug/pull; a ride (Guatemalan slang, \"dar un jalón\" = to give someone a ride)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--se-quemaron",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "se quemaron",
+    "answer": "they got burned",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--relampago",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "relámpago",
+    "answer": "lightning flash",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-rayo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el rayo",
+    "answer": "the lightning bolt",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--encima",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "encima",
+    "answer": "on top; above",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-vaquero",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un vaquero",
+    "answer": "a cowboy",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--arre",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "¡Arre!",
+    "answer": "Giddy up! (used to urge on a horse)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--carrera-de-obstaculos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "carrera de obstáculos",
+    "answer": "obstacle race (barrel racing)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-oveja",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la oveja",
+    "answer": "the sheep",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-es-justo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no es justo",
+    "answer": "it's not fair",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--comida-mediterranea",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "comida mediterránea",
+    "answer": "Mediterranean food",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--moretones",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "moretones",
+    "answer": "bruises",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tengo-las-costillas-moradas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tengo las costillas moradas",
+    "answer": "my ribs are bruised",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mi-muneca-muy-debil",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi muñeca muy débil",
+    "answer": "my wrist is very weak",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tengo-la-muneca-hinchada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tengo la muñeca hinchada",
+    "answer": "my wrist is swollen",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--durante-la-caida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "durante la caída",
+    "answer": "during the fall",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-torneo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un torneo",
+    "answer": "a tournament",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-fase",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la fase",
+    "answer": "the phase",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--apostar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "apostar",
+    "answer": "to bet",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--yo-apuesto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo apuesto",
+    "answer": "I bet",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--soy-un-desastre",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "soy un desastre",
+    "answer": "I'm a disaster/mess",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--yo-lo-hice",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo lo hice",
+    "answer": "I did it",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-abarrotes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los abarrotes",
+    "answer": "groceries",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-dio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "él dio",
+    "answer": "he gave",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-medico-me-dio-gms",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el médico me dio GMS",
+    "answer": "the doctor gave me GMS (a medication)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--pomada-para-los-moretones",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "pomada para los moretones",
+    "answer": "ointment for bruises",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-bromas-o-los-chistes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las bromas o los chistes",
+    "answer": "the pranks or the jokes",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-chismes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los chismes",
+    "answer": "the gossip",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--eres-chismosa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "eres chismosa",
+    "answer": "you're a gossip (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-familia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la familia",
+    "answer": "the family",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-familiares",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los familiares",
+    "answer": "the relatives/family members",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-parientes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los parientes",
+    "answer": "the relatives",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-mama",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la mamá",
+    "answer": "mom",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-madre",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la madre",
+    "answer": "mother",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-papa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el papá",
+    "answer": "dad",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-padre",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el padre",
+    "answer": "father",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-hijo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el hijo",
+    "answer": "the son",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-hija",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la hija",
+    "answer": "the daughter",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-hermano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el hermano",
+    "answer": "the brother",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-hermana",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la hermana",
+    "answer": "the sister",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-tio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el tío",
+    "answer": "the uncle",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-tia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la tía",
+    "answer": "the aunt",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-primo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el primo",
+    "answer": "the cousin (male)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-prima",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la prima",
+    "answer": "the cousin (female)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-abuelo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el abuelo",
+    "answer": "the grandfather",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-abuela",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la abuela",
+    "answer": "the grandmother",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-hijo-menor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el hijo menor",
+    "answer": "the youngest child/son",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-hijo-mayor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el hijo mayor",
+    "answer": "the oldest child/son",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-sobrino",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el sobrino",
+    "answer": "the nephew",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-sobrina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la sobrina",
+    "answer": "the niece",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-suegro",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el suegro",
+    "answer": "the father-in-law",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-suegra",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la suegra",
+    "answer": "the mother-in-law",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-cunado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el cuñado",
+    "answer": "the brother-in-law",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-cunada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la cuñada",
+    "answer": "the sister-in-law",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-padrinos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los padrinos",
+    "answer": "the godparents",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-madrina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la madrina",
+    "answer": "the godmother",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-padrino",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el padrino",
+    "answer": "the godfather",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--por-la-caida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "por la caída",
+    "answer": "because of the fall",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--acogedor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "acogedor",
+    "answer": "cozy",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--comodo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cómodo",
+    "answer": "comfortable",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--amistoso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "amistoso",
+    "answer": "friendly",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-hay-un-punto-para-demostrar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "No hay un punto para demostrar",
+    "answer": "there's no point in proving it",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--ser-zurda",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ser zurda",
+    "answer": "to be left-handed (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--para-mi",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "para mí",
+    "answer": "for me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-sapo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el sapo",
+    "answer": "the toad",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--movia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "movía",
+    "answer": "was moving / moved",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-pura-vida",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la pura vida",
+    "answer": "pure life (expression: life is good, all is well)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-yeso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el yeso",
+    "answer": "the (plaster) cast",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-tiza",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la tiza",
+    "answer": "the chalk",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-bola",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la bola",
+    "answer": "the ball",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-bolos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los bolos",
+    "answer": "the (bowling) pins",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-pelota",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la pelota",
+    "answer": "the ball",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-boliche",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el boliche",
+    "answer": "the bowling alley",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-pinos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los pinos",
+    "answer": "the pins",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--como-puntear",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cómo puntear",
+    "answer": "how to keep score",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--trucos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "trucos",
+    "answer": "tricks",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tecnicas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "técnicas",
+    "answer": "techniques",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--que-tengas-un-buen-fin-de-semana",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Que tengas un buen fin de semana",
+    "answer": "Have a good weekend",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--a-soledad",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "a soledad",
+    "answer": "loneliness/solitude",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--podrian-ser-peor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "podrían ser peor",
+    "answer": "they could be worse",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--profundo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "profundo",
+    "answer": "deep",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--resbalosas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "resbalosas",
+    "answer": "slippery (fem. pl.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--inclinadas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "inclinadas",
+    "answer": "sloped/inclined (fem. pl.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--surreal",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "surreal",
+    "answer": "surreal",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-esfera",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una esfera",
+    "answer": "a sphere",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--30-minutos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "30 minutos",
+    "answer": "30 minutes",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--lejos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lejos",
+    "answer": "far",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--convencer",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "convencer",
+    "answer": "to convince",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-convencion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la convención",
+    "answer": "the convention",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--recoger",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "recoger",
+    "answer": "to pick up/collect",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--necesito-un-recorte",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "necesito un recorte",
+    "answer": "I need a haircut/trim",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--quiero-un-corte-nuevo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "quiero un corte nuevo",
+    "answer": "I want a new haircut",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--contratar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "contratar",
+    "answer": "to hire",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--despedir",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "despedir",
+    "answer": "to fire/dismiss",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--estoy-aqui-hasta-el-nueve",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estoy aquí hasta el nueve",
+    "answer": "I'm here until the ninth",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-temporada-baja",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la temporada baja",
+    "answer": "the low season (off-season)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--auditoria",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "auditoría",
+    "answer": "audit",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--respuesta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "respuesta",
+    "answer": "answer/response",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--reclutadores",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "reclutadores",
+    "answer": "recruiters",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--ha-sido",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ha sido",
+    "answer": "has been",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--he-estado-ocupada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "he estado ocupada",
+    "answer": "I've been busy (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--a-pista-de-patinaje",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "a pista de patinaje",
+    "answer": "the skating rink",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--cuando-era-nina",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cuando era niña",
+    "answer": "when I was a (little) girl",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-pantano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un pantano",
+    "answer": "a swamp",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-peluches",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los peluches",
+    "answer": "the stuffed animals",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--cerca-de-mi",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cerca de mí",
+    "answer": "near me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-alturas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las alturas",
+    "answer": "the heights",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-cuervos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los cuervos",
+    "answer": "the crows",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-quemadura",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una quemadura",
+    "answer": "a burn",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--dejar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dejar",
+    "answer": "to leave/allow",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--queso-fundido",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "queso fundido",
+    "answer": "melted cheese",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--rentamos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "rentamos",
+    "answer": "we rented",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mis-amigas-y-yo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mis amigas y yo",
+    "answer": "my friends and I",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-cohete",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el cohete",
+    "answer": "the rocket",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--lo-odio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lo odio",
+    "answer": "I hate it",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--lo-detesto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lo detesto",
+    "answer": "I detest it",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-almohada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la almohada",
+    "answer": "the pillow",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-alfombra",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la alfombra",
+    "answer": "the carpet/rug",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-manta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la manta",
+    "answer": "the blanket",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-cobija",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la cobija",
+    "answer": "the blanket",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--belgica",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Bélgica",
+    "answer": "Belgium",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-teleferico",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un teleférico",
+    "answer": "a cable car",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-calabaza",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la calabaza",
+    "answer": "the pumpkin/squash",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-camote",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el camote",
+    "answer": "the sweet potato",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-garbanzo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el garbanzo",
+    "answer": "the chickpea",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-pascua",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la pascua",
+    "answer": "Easter",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--deberias-hacerla",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "deberías hacerla",
+    "answer": "you should do it (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-arana",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la araña",
+    "answer": "the spider",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-pude",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no pude",
+    "answer": "I couldn't",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--estirar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estirar",
+    "answer": "to stretch",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-reunion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la reunión",
+    "answer": "the meeting",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--ellos-me-quieren-conocer",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ellos me quieren conocer",
+    "answer": "they want to get to know me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--incluyendo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "incluyendo",
+    "answer": "including",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--incluso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "incluso",
+    "answer": "even/including",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--de-trabajo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "de trabajo",
+    "answer": "work-related",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--oler",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "oler",
+    "answer": "to smell",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--olian-a-mojado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "olían a mojado",
+    "answer": "they smelled musty/wet",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--huele",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "huele",
+    "answer": "it smells",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--olia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "olía",
+    "answer": "it smelled",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--obtener",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "obtener",
+    "answer": "to obtain",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--obtuvo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "obtuvo",
+    "answer": "he/she obtained",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--dio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "dio",
+    "answer": "he/she gave",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--de-cualquier-forma",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "de cualquier forma",
+    "answer": "anyway/in any case",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tendria-una-tos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tendría una tos",
+    "answer": "I/he/she would have a cough",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mas-que-aqui",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "más que aquí",
+    "answer": "more than here",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--pegajoso-a",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "pegajoso/a",
+    "answer": "sticky",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-me-gusta-estar-pegajosa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no me gusta estar pegajosa",
+    "answer": "I don't like being sticky (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--sudada-o",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "sudada/o",
+    "answer": "sweaty",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--cortar-el-agua",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cortar el agua",
+    "answer": "to cut off/turn off the water",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-inodoro",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el inodoro",
+    "answer": "the toilet",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-taza",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la taza",
+    "answer": "the toilet (bowl)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-excusado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el excusado",
+    "answer": "the toilet/restroom",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-sequia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la sequía",
+    "answer": "the drought",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-cacahuate",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el cacahuate",
+    "answer": "the peanut",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-mani",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el maní",
+    "answer": "the peanut",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mora-azul",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mora azul",
+    "answer": "blueberry",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--arandanos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "arándanos",
+    "answer": "blueberries",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--cochecitos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cochecitos",
+    "answer": "little cars/strollers",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--carritos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "carritos",
+    "answer": "little cars/carts",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--toma-tempo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "toma tempo",
+    "answer": "it takes time",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-lavanderia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la lavandería",
+    "answer": "the laundromat",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-ninos-extranjeros",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los niños extranjeros",
+    "answer": "the foreign children",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--empacar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "empacar",
+    "answer": "to pack",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mi-amiga-con-quien-voy-a-quedarme",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi amiga con quien voy a quedarme",
+    "answer": "my friend who I'm going to stay with",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-leucemia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la leucemia",
+    "answer": "leukemia",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-corte-suprema",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la corte suprema",
+    "answer": "the supreme court",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-me-dio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no me dio",
+    "answer": "it didn't work out / he/she didn't give me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--elevar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "elevar",
+    "answer": "to elevate/raise",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--resistencia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "resistencia",
+    "answer": "resistance/endurance",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--oleaje",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "oleaje",
+    "answer": "(ocean) swell",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--marejada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Marejada",
+    "answer": "(ocean) swell/storm surge",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--la-tribu",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "la tribu",
+    "answer": "the tribe",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-jade",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el jade",
+    "answer": "jade",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--violeta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "violeta",
+    "answer": "purple",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--morado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "morado",
+    "answer": "purple",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-piedra",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una piedra",
+    "answer": "a stone",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mi-mama-regreso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi mamá regreso",
+    "answer": "my mom returned",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--nueva-casa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "nueva casa",
+    "answer": "new house",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--alrededor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "alrededor",
+    "answer": "around",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-pozo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el pozo",
+    "answer": "the well",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--se-mete-en-problemas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "se mete en problemas",
+    "answer": "(he/she) gets into trouble",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--meterse-en-problemas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "meterse en problemas",
+    "answer": "to get into trouble",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-persona-ha-muerto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una persona ha muerto",
+    "answer": "a person has died",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--murio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "murió",
+    "answer": "(he/she) died",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-cortinas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las cortinas",
+    "answer": "the curtains",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--asqueroso",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "asqueroso",
+    "answer": "disgusting",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--ambas-nosotras",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ambas nosotras",
+    "answer": "both of us (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mas-estable",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "más estable",
+    "answer": "more stable",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tener-altibajos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tener altibajos",
+    "answer": "to have ups and downs",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-tos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una tos",
+    "answer": "a cough",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--cuando-viajo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cuando viajo",
+    "answer": "when I travel",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-pesadillas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las pesadillas",
+    "answer": "the nightmares",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-insomnio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el insomnio",
+    "answer": "insomnia",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--seguro-de-salud",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "seguro de salud",
+    "answer": "health insurance",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--seguro-medico",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "seguro médico",
+    "answer": "medical insurance",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--rebeca-encontro",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "Rebeca encontró",
+    "answer": "Rebeca found",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--28-de-julio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "28 de julio",
+    "answer": "July 28th",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--9-de-junio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "9 de junio",
+    "answer": "June 9th",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--abarrotes",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "abarrotes",
+    "answer": "groceries",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--comestibles",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "comestibles",
+    "answer": "food items/groceries",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--lo-que-quiera",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lo que quiera",
+    "answer": "whatever he/she wants",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-mosquiteros",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los mosquiteros",
+    "answer": "the mosquito nets",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-deberia-tener",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no debería tener",
+    "answer": "shouldn't have",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--bocadillo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "bocadillo",
+    "answer": "snack/sandwich",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--botanas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "botanas",
+    "answer": "snacks",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--lo-truenos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "lo truenos",
+    "answer": "the thunder",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--los-rayos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "los rayos",
+    "answer": "the lightning bolts",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--relampagos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "relampagos",
+    "answer": "lightning flashes",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-se-de-que-estas-hablando",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no sé de qué estás hablando",
+    "answer": "I don't know what you're talking about",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--200-000",
+    "categories": [
+      "numbers"
+    ],
+    "question": "200,000",
+    "answer": "two hundred thousand",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-tienen-ningun-campeon",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no tienen ningún campeón",
+    "answer": "they don't have any champion",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tacano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tacaño",
+    "answer": "stingy/cheap",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--habra-un-desfile",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "habrá un desfile",
+    "answer": "there will be a parade",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-lo-supe",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no lo supe",
+    "answer": "I didn't find out (about it)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--hispanos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hispanos",
+    "answer": "Hispanics",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--me-acuesto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me acuesto",
+    "answer": "I go to bed / I lie down",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--malcriados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "malcriados",
+    "answer": "spoiled (brats)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mimados",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mimados",
+    "answer": "pampered/spoiled",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--deberia",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "debería",
+    "answer": "should/ought to",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--solo-quiere-que-yo-trabaje",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "solo quiere que yo trabaje",
+    "answer": "he/she only wants me to work",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--veinte-hora-conmigo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "veinte hora conmigo",
+    "answer": "twenty hours with me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--estabas-de-goma",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estabas de goma",
+    "answer": "you were hungover (Guatemalan slang)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--estabas-engomada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estabas engomada",
+    "answer": "you were hungover (fem., slang)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--nos-hicimos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "nos hicimos",
+    "answer": "we became / we made ourselves",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--somos-amigos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "somos amigos",
+    "answer": "we are friends",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--pedazos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "pedazos",
+    "answer": "pieces",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--porciones",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "porciones",
+    "answer": "portions",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--piezas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "piezas",
+    "answer": "pieces",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-rotulo",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el rótulo",
+    "answer": "the sign/label",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--frituras",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "frituras",
+    "answer": "fried snacks/fritters",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--totopos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "totopos",
+    "answer": "tortilla chips",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--estrenar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estrenar",
+    "answer": "to use/wear for the first time",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--mi-tabla",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "mi tabla",
+    "answer": "my board",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-estreno-de-la-pelicula",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el estreno de la película",
+    "answer": "the movie premiere",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--usada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "usada",
+    "answer": "used",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--de-segunda-mano",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "de segunda mano",
+    "answer": "secondhand",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-gotas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las gotas",
+    "answer": "the drops",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--voltear",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "voltear",
+    "answer": "to turn/flip over",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--girar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "girar",
+    "answer": "to turn/spin",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--me-duele",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me duele",
+    "answer": "it hurts me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--me-dolio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "me dolió",
+    "answer": "it hurt me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--incendios",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "incendios",
+    "answer": "fires",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-inyeccion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una inyección",
+    "answer": "an injection/shot",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-medico-de-especialidades",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un médico de especialidades",
+    "answer": "a specialist doctor",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--con-mi-refri",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "con mi refri",
+    "answer": "with my fridge",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-cliente-le-dijo-a-mi-jefe-que-yo-le-gusto",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el cliente le dijo a mi jefe que yo le gusto",
+    "answer": "the client told my boss that he/she likes me",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-correo-electronico",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un correo electrónico",
+    "answer": "an email",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-mensaje",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un mensaje",
+    "answer": "a message",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--ue-el-jueves",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ue el jueves",
+    "answer": "(that) on Thursday",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-rascacielos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un rascacielos",
+    "answer": "a skyscraper",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--yo-te-puedo-mostrar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo te puedo mostrar",
+    "answer": "I can show you",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--no-tengo-seguro-medico",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "no tengo seguro médico",
+    "answer": "I don't have medical insurance",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--estoy-congelada",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "estoy congelada",
+    "answer": "I'm freezing (fem.)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--tengo-frio",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "tengo frío",
+    "answer": "I'm cold",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--caminatas",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "caminatas",
+    "answer": "hikes/walks",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-elevador",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el elevador",
+    "answer": "the elevator",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--las-escaleras",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "las escaleras",
+    "answer": "the stairs",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--adrar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "adrar",
+    "answer": "to bark (likely shorthand for \"ladrar\")",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--a-veces",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "a veces",
+    "answer": "sometimes",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--ladra",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "ladra",
+    "answer": "(it) barks",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--enfermero",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "enfermero",
+    "answer": "nurse (male)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--audicion",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "audición",
+    "answer": "hearing/audition",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--juntas-juntos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "juntas/juntos",
+    "answer": "together",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--junto-a",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "junto a",
+    "answer": "next to",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--cruza-los-dedos",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "cruza los dedos",
+    "answer": "cross your fingers",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--disabilidades",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "disabilidades",
+    "answer": "disabilities",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--carrera",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "carrera",
+    "answer": "career/race",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--libro-prestado",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "libro prestado",
+    "answer": "borrowed book",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-velero",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el velero",
+    "answer": "the sailboat",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--un-conocido-de-su-papa",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "un conocido de su papa",
+    "answer": "an acquaintance of his/her dad",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--hemos-hecho",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "hemos hecho",
+    "answer": "we have done",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--yo-iba-a-vomitar",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "yo iba a vomitar",
+    "answer": "I was going to throw up",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--chido",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "chido",
+    "answer": "cool/awesome (Mexican slang)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--chilero",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "chilero",
+    "answer": "cool/awesome (Guatemalan slang)",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-vuelta",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una vuelta",
+    "answer": "a walk/turn/lap",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--una-granja",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "una granja",
+    "answer": "a farm",
+    "sourceDoc": "molly-2"
+  },
+  {
+    "id": "molly-2--el-olor",
+    "categories": [
+      "vocabulary"
+    ],
+    "question": "el olor",
+    "answer": "the smell",
+    "sourceDoc": "molly-2"
   }
 ]

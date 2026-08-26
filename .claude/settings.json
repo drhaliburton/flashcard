@@ -3,7 +3,9 @@
     "allow": [
       "Bash(mkdir -p \"/Users/drebeccahaliburton/Repos/flashcard/.claude/skills/parse-lesson-notes\" && ls -la \"/Users/drebeccahaliburton/Repos/flashcard/.claude/skills\")",
       "Edit(/.claude/skills/parse-lesson-notes/**)",
-      "Bash(python3 -c ' *)"
+      "Bash(python3 -c ' *)",
+      "Bash(python3 build_backfill.py)",
+      "Bash(python3)"
     ],
     "additionalDirectories": [
       "/Users/drebeccahaliburton/Repos/flashcard/.claude/skills"
